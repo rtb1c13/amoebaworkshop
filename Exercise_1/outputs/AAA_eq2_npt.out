@@ -1,0 +1,218 @@
+
+     ######################################################################
+   ##########################################################################
+  ###                                                                      ###
+ ###            TINKER  ---  Software Tools for Molecular Design            ###
+ ##                                                                          ##
+ ##                        Version 7.0   October 2014                        ##
+ ##                                                                          ##
+ ##               Copyright (c)  Jay William Ponder  1990-2014               ##
+ ###                           All Rights Reserved                          ###
+  ###                                                                      ###
+   ##########################################################################
+     ######################################################################
+
+
+ Molecular Dynamics Trajectory via Velocity Verlet Algorithm
+
+ Random Number Generator Initialized with SEED :      362593827
+
+ Average Values for the Last   500 Out of      500 Dynamics Steps
+
+ Simulation Time              0.5000 Picosecond
+ Total Energy             -4845.2734 Kcal/mole   (+/-  10.4829)
+ Potential Energy         -6768.7308 Kcal/mole   (+/-  26.8356)
+ Kinetic Energy            1923.4574 Kcal/mole   (+/-  26.1124)
+ Temperature                  279.34 Kelvin      (+/-     3.79)
+ Pressure                    -500.15 Atmosphere  (+/-   480.16)
+ Density                      0.6344 Grams/cc    (+/-   0.0019)
+
+ Instantaneous Values for Frame Saved at       500 Dynamics Steps
+
+ Current Time                 0.5000 Picosecond
+ Current Potential        -6792.8190 Kcal/mole
+ Current Kinetic           1958.2458 Kcal/mole
+ Lattice Lengths           36.141867     33.270919     30.106103
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                      1
+ Coordinate File            AAA_eq2_npt.arc
+
+ Average Values for the Last   500 Out of     1000 Dynamics Steps
+
+ Simulation Time              1.0000 Picosecond
+ Total Energy             -4822.1072 Kcal/mole   (+/-  17.4673)
+ Potential Energy         -6750.8535 Kcal/mole   (+/-  26.4195)
+ Kinetic Energy            1928.7463 Kcal/mole   (+/-  24.8853)
+ Temperature                  280.11 Kelvin      (+/-     3.61)
+ Pressure                    -589.67 Atmosphere  (+/-   466.44)
+ Density                      0.6423 Grams/cc    (+/-   0.0027)
+
+ Instantaneous Values for Frame Saved at      1000 Dynamics Steps
+
+ Current Time                 1.0000 Picosecond
+ Current Potential        -6700.1968 Kcal/mole
+ Current Kinetic           1890.7505 Kcal/mole
+ Lattice Lengths           35.978566     33.120590     29.970073
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                      2
+ Coordinate File            AAA_eq2_npt.arc
+
+ Average Values for the Last   500 Out of     1500 Dynamics Steps
+
+ Simulation Time              1.5000 Picosecond
+ Total Energy             -4823.3582 Kcal/mole   (+/-   6.0671)
+ Potential Energy         -6760.8127 Kcal/mole   (+/-  24.2318)
+ Kinetic Energy            1937.4545 Kcal/mole   (+/-  22.9565)
+ Temperature                  281.38 Kelvin      (+/-     3.33)
+ Pressure                    -701.07 Atmosphere  (+/-   437.79)
+ Density                      0.6513 Grams/cc    (+/-   0.0030)
+
+ Instantaneous Values for Frame Saved at      1500 Dynamics Steps
+
+ Current Time                 1.5000 Picosecond
+ Current Potential        -6725.0482 Kcal/mole
+ Current Kinetic           1905.1707 Kcal/mole
+ Lattice Lengths           35.785424     32.942791     29.809186
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                      3
+ Coordinate File            AAA_eq2_npt.arc
+
+ Average Values for the Last   500 Out of     2000 Dynamics Steps
+
+ Simulation Time              2.0000 Picosecond
+ Total Energy             -4830.8880 Kcal/mole   (+/-   8.9557)
+ Potential Energy         -6761.6708 Kcal/mole   (+/-  26.9841)
+ Kinetic Energy            1930.7828 Kcal/mole   (+/-  23.2864)
+ Temperature                  280.41 Kelvin      (+/-     3.38)
+ Pressure                    -676.34 Atmosphere  (+/-   432.33)
+ Density                      0.6617 Grams/cc    (+/-   0.0031)
+
+ Instantaneous Values for Frame Saved at      2000 Dynamics Steps
+
+ Current Time                 2.0000 Picosecond
+ Current Potential        -6784.2070 Kcal/mole
+ Current Kinetic           1947.4781 Kcal/mole
+ Lattice Lengths           35.600070     32.772160     29.654787
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                      4
+ Coordinate File            AAA_eq2_npt.arc
+
+ Average Values for the Last   500 Out of     2500 Dynamics Steps
+
+ Simulation Time              2.5000 Picosecond
+ Total Energy             -4820.4860 Kcal/mole   (+/-   8.3215)
+ Potential Energy         -6768.8442 Kcal/mole   (+/-  28.4206)
+ Kinetic Energy            1948.3582 Kcal/mole   (+/-  26.4560)
+ Temperature                  282.96 Kelvin      (+/-     3.84)
+ Pressure                    -406.99 Atmosphere  (+/-   508.05)
+ Density                      0.6711 Grams/cc    (+/-   0.0019)
+
+ Instantaneous Values for Frame Saved at      2500 Dynamics Steps
+
+ Current Time                 2.5000 Picosecond
+ Current Potential        -6760.8719 Kcal/mole
+ Current Kinetic           1948.9527 Kcal/mole
+ Lattice Lengths           35.488888     32.669810     29.562173
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                      5
+ Coordinate File            AAA_eq2_npt.arc
+
+ Average Values for the Last   500 Out of     3000 Dynamics Steps
+
+ Simulation Time              3.0000 Picosecond
+ Total Energy             -4771.1450 Kcal/mole   (+/-  20.7813)
+ Potential Energy         -6756.1983 Kcal/mole   (+/-  27.5557)
+ Kinetic Energy            1985.0533 Kcal/mole   (+/-  29.6743)
+ Temperature                  288.29 Kelvin      (+/-     4.31)
+ Pressure                    -187.79 Atmosphere  (+/-   628.31)
+ Density                      0.6752 Grams/cc    (+/-   0.0008)
+
+ Instantaneous Values for Frame Saved at      3000 Dynamics Steps
+
+ Current Time                 3.0000 Picosecond
+ Current Potential        -6715.6975 Kcal/mole
+ Current Kinetic           1982.9013 Kcal/mole
+ Lattice Lengths           35.437557     32.622557     29.519414
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                      6
+ Coordinate File            AAA_eq2_npt.arc
+
+ Average Values for the Last   500 Out of     3500 Dynamics Steps
+
+ Simulation Time              3.5000 Picosecond
+ Total Energy             -4726.6994 Kcal/mole   (+/-   7.1686)
+ Potential Energy         -6718.6585 Kcal/mole   (+/-  25.9306)
+ Kinetic Energy            1991.9590 Kcal/mole   (+/-  24.1334)
+ Temperature                  289.29 Kelvin      (+/-     3.50)
+ Pressure                    -473.97 Atmosphere  (+/-   472.80)
+ Density                      0.6794 Grams/cc    (+/-   0.0024)
+
+ Instantaneous Values for Frame Saved at      3500 Dynamics Steps
+
+ Current Time                 3.5000 Picosecond
+ Current Potential        -6761.8613 Kcal/mole
+ Current Kinetic           2021.4411 Kcal/mole
+ Lattice Lengths           35.308745     32.503977     29.412114
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                      7
+ Coordinate File            AAA_eq2_npt.arc
+
+ Average Values for the Last   500 Out of     4000 Dynamics Steps
+
+ Simulation Time              4.0000 Picosecond
+ Total Energy             -4728.7018 Kcal/mole   (+/-   7.8175)
+ Potential Energy         -6709.3462 Kcal/mole   (+/-  29.3399)
+ Kinetic Energy            1980.6444 Kcal/mole   (+/-  24.7251)
+ Temperature                  287.65 Kelvin      (+/-     3.59)
+ Pressure                    -593.41 Atmosphere  (+/-   508.56)
+ Density                      0.6882 Grams/cc    (+/-   0.0025)
+
+ Instantaneous Values for Frame Saved at      4000 Dynamics Steps
+
+ Current Time                 4.0000 Picosecond
+ Current Potential        -6715.2996 Kcal/mole
+ Current Kinetic           1983.3686 Kcal/mole
+ Lattice Lengths           35.148200     32.356184     29.278380
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                      8
+ Coordinate File            AAA_eq2_npt.arc
+
+ Average Values for the Last   500 Out of     4500 Dynamics Steps
+
+ Simulation Time              4.5000 Picosecond
+ Total Energy             -4748.3766 Kcal/mole   (+/-   7.4366)
+ Potential Energy         -6738.2196 Kcal/mole   (+/-  26.1573)
+ Kinetic Energy            1989.8431 Kcal/mole   (+/-  24.4696)
+ Temperature                  288.98 Kelvin      (+/-     3.55)
+ Pressure                    -711.05 Atmosphere  (+/-   374.18)
+ Density                      0.6988 Grams/cc    (+/-   0.0034)
+
+ Instantaneous Values for Frame Saved at      4500 Dynamics Steps
+
+ Current Time                 4.5000 Picosecond
+ Current Potential        -6774.2021 Kcal/mole
+ Current Kinetic           2027.4158 Kcal/mole
+ Lattice Lengths           34.956842     32.180027     29.118979
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                      9
+ Coordinate File            AAA_eq2_npt.arc
+
+ Average Values for the Last   500 Out of     5000 Dynamics Steps
+
+ Simulation Time              5.0000 Picosecond
+ Total Energy             -4735.8587 Kcal/mole   (+/-   7.9032)
+ Potential Energy         -6741.8430 Kcal/mole   (+/-  27.2198)
+ Kinetic Energy            2005.9842 Kcal/mole   (+/-  24.8900)
+ Temperature                  291.33 Kelvin      (+/-     3.61)
+ Pressure                    -675.59 Atmosphere  (+/-   555.06)
+ Density                      0.7089 Grams/cc    (+/-   0.0031)
+
+ Instantaneous Values for Frame Saved at      5000 Dynamics Steps
+
+ Current Time                 5.0000 Picosecond
+ Current Potential        -6748.8152 Kcal/mole
+ Current Kinetic           2016.9517 Kcal/mole
+ Lattice Lengths           34.775978     32.013530     28.968320
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     10
+ Coordinate File            AAA_eq2_npt.arc

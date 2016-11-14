@@ -1,0 +1,4 @@
+# Ignore timing outputs
+*.o
+# Ignore temp keyfile
+test.key
