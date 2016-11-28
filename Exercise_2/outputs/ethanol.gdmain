@@ -1,0 +1,16 @@
+Title "Ethanol at MP2/6-311G(1d,1p)"
+
+Verbose
+Density MP2                
+File ethanol_dma_opt.fchk  
+
+Angstrom                   
+AU
+
+Multipoles
+Switch 0                   
+Radius H 0.65              
+Limit 2                    
+Start
+
+Finish

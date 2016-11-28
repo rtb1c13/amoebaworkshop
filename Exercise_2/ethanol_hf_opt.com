@@ -1,4 +1,4 @@
-%RWF=/tmp,10GB
+%RWF=/tmp/,10GB
 %Nosave
 %Chk=ethanol_hf_opt.chk
 %Mem=8000MB
