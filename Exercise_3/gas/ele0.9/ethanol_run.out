@@ -1,0 +1,3219 @@
+
+     ######################################################################
+   ##########################################################################
+  ###                                                                      ###
+ ###            TINKER  ---  Software Tools for Molecular Design            ###
+ ##                                                                          ##
+ ##                        Version 8.0   October 2016                        ##
+ ##                                                                          ##
+ ##               Copyright (c)  Jay William Ponder  1990-2016               ##
+ ###                           All Rights Reserved                          ###
+  ###                                                                      ###
+   ##########################################################################
+     ######################################################################
+
+
+ Free Energy Perturbation :          1.000 Lambda for van der Waals
+ Free Energy Perturbation :          0.900 Lambda for Electrostatics
+
+ Stochastic Dynamics Trajectory via Velocity Verlet Algorithm
+
+ Average Values for the Last  5000 Out of     5000 Dynamics Steps
+
+ Simulation Time              0.5000 Picosecond
+ Total Energy                12.1197 Kcal/mole   (+/-   2.7229)
+ Potential Energy             4.7813 Kcal/mole   (+/-   1.7030)
+ Kinetic Energy               7.3384 Kcal/mole   (+/-   2.0447)
+ Temperature                  273.54 Kelvin      (+/-    76.22)
+
+ Instantaneous Values for Frame Saved at      5000 Dynamics Steps
+
+ Current Time                 0.5000 Picosecond
+ Current Potential            3.7919 Kcal/mole
+ Current Kinetic              6.5242 Kcal/mole
+ Frame Number                      1
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of    10000 Dynamics Steps
+
+ Simulation Time              1.0000 Picosecond
+ Total Energy                13.7780 Kcal/mole   (+/-   2.6464)
+ Potential Energy             5.5500 Kcal/mole   (+/-   1.8722)
+ Kinetic Energy               8.2280 Kcal/mole   (+/-   2.2137)
+ Temperature                  306.70 Kelvin      (+/-    82.52)
+
+ Instantaneous Values for Frame Saved at     10000 Dynamics Steps
+
+ Current Time                 1.0000 Picosecond
+ Current Potential            4.7227 Kcal/mole
+ Current Kinetic              9.7658 Kcal/mole
+ Frame Number                      2
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of    15000 Dynamics Steps
+
+ Simulation Time              1.5000 Picosecond
+ Total Energy                14.5226 Kcal/mole   (+/-   2.4087)
+ Potential Energy             6.1985 Kcal/mole   (+/-   1.9299)
+ Kinetic Energy               8.3240 Kcal/mole   (+/-   1.9572)
+ Temperature                  310.28 Kelvin      (+/-    72.96)
+
+ Instantaneous Values for Frame Saved at     15000 Dynamics Steps
+
+ Current Time                 1.5000 Picosecond
+ Current Potential            8.2450 Kcal/mole
+ Current Kinetic              4.3162 Kcal/mole
+ Frame Number                      3
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of    20000 Dynamics Steps
+
+ Simulation Time              2.0000 Picosecond
+ Total Energy                14.3938 Kcal/mole   (+/-   2.8156)
+ Potential Energy             6.0750 Kcal/mole   (+/-   1.9402)
+ Kinetic Energy               8.3188 Kcal/mole   (+/-   2.1641)
+ Temperature                  310.09 Kelvin      (+/-    80.67)
+
+ Instantaneous Values for Frame Saved at     20000 Dynamics Steps
+
+ Current Time                 2.0000 Picosecond
+ Current Potential            4.7408 Kcal/mole
+ Current Kinetic              6.0899 Kcal/mole
+ Frame Number                      4
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of    25000 Dynamics Steps
+
+ Simulation Time              2.5000 Picosecond
+ Total Energy                13.7955 Kcal/mole   (+/-   2.7151)
+ Potential Energy             5.8284 Kcal/mole   (+/-   1.7803)
+ Kinetic Energy               7.9671 Kcal/mole   (+/-   2.1998)
+ Temperature                  296.98 Kelvin      (+/-    82.00)
+
+ Instantaneous Values for Frame Saved at     25000 Dynamics Steps
+
+ Current Time                 2.5000 Picosecond
+ Current Potential            5.3352 Kcal/mole
+ Current Kinetic              8.1479 Kcal/mole
+ Frame Number                      5
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of    30000 Dynamics Steps
+
+ Simulation Time              3.0000 Picosecond
+ Total Energy                13.7594 Kcal/mole   (+/-   2.2997)
+ Potential Energy             5.4204 Kcal/mole   (+/-   1.7850)
+ Kinetic Energy               8.3389 Kcal/mole   (+/-   1.9537)
+ Temperature                  310.84 Kelvin      (+/-    72.83)
+
+ Instantaneous Values for Frame Saved at     30000 Dynamics Steps
+
+ Current Time                 3.0000 Picosecond
+ Current Potential            6.2927 Kcal/mole
+ Current Kinetic              6.6670 Kcal/mole
+ Frame Number                      6
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of    35000 Dynamics Steps
+
+ Simulation Time              3.5000 Picosecond
+ Total Energy                15.5059 Kcal/mole   (+/-   2.7273)
+ Potential Energy             6.6789 Kcal/mole   (+/-   2.0555)
+ Kinetic Energy               8.8270 Kcal/mole   (+/-   2.2248)
+ Temperature                  329.03 Kelvin      (+/-    82.93)
+
+ Instantaneous Values for Frame Saved at     35000 Dynamics Steps
+
+ Current Time                 3.5000 Picosecond
+ Current Potential            4.6220 Kcal/mole
+ Current Kinetic             11.9439 Kcal/mole
+ Frame Number                      7
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of    40000 Dynamics Steps
+
+ Simulation Time              4.0000 Picosecond
+ Total Energy                13.2046 Kcal/mole   (+/-   2.8451)
+ Potential Energy             5.3873 Kcal/mole   (+/-   1.8454)
+ Kinetic Energy               7.8173 Kcal/mole   (+/-   2.2583)
+ Temperature                  291.39 Kelvin      (+/-    84.18)
+
+ Instantaneous Values for Frame Saved at     40000 Dynamics Steps
+
+ Current Time                 4.0000 Picosecond
+ Current Potential            6.7727 Kcal/mole
+ Current Kinetic              7.1765 Kcal/mole
+ Frame Number                      8
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of    45000 Dynamics Steps
+
+ Simulation Time              4.5000 Picosecond
+ Total Energy                13.6072 Kcal/mole   (+/-   3.5526)
+ Potential Energy             5.6026 Kcal/mole   (+/-   2.0646)
+ Kinetic Energy               8.0045 Kcal/mole   (+/-   2.5096)
+ Temperature                  298.37 Kelvin      (+/-    93.55)
+
+ Instantaneous Values for Frame Saved at     45000 Dynamics Steps
+
+ Current Time                 4.5000 Picosecond
+ Current Potential            1.9607 Kcal/mole
+ Current Kinetic              5.0244 Kcal/mole
+ Frame Number                      9
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of    50000 Dynamics Steps
+
+ Simulation Time              5.0000 Picosecond
+ Total Energy                12.9273 Kcal/mole   (+/-   2.9109)
+ Potential Energy             5.1551 Kcal/mole   (+/-   1.8864)
+ Kinetic Energy               7.7722 Kcal/mole   (+/-   2.0169)
+ Temperature                  289.71 Kelvin      (+/-    75.18)
+
+ Instantaneous Values for Frame Saved at     50000 Dynamics Steps
+
+ Current Time                 5.0000 Picosecond
+ Current Potential            3.3058 Kcal/mole
+ Current Kinetic              3.9717 Kcal/mole
+ Frame Number                     10
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of    55000 Dynamics Steps
+
+ Simulation Time              5.5000 Picosecond
+ Total Energy                12.9891 Kcal/mole   (+/-   3.0077)
+ Potential Energy             5.2313 Kcal/mole   (+/-   1.9201)
+ Kinetic Energy               7.7578 Kcal/mole   (+/-   2.1644)
+ Temperature                  289.17 Kelvin      (+/-    80.68)
+
+ Instantaneous Values for Frame Saved at     55000 Dynamics Steps
+
+ Current Time                 5.5000 Picosecond
+ Current Potential            4.9556 Kcal/mole
+ Current Kinetic             10.3546 Kcal/mole
+ Frame Number                     11
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of    60000 Dynamics Steps
+
+ Simulation Time              6.0000 Picosecond
+ Total Energy                14.7693 Kcal/mole   (+/-   3.0675)
+ Potential Energy             6.2076 Kcal/mole   (+/-   2.0391)
+ Kinetic Energy               8.5617 Kcal/mole   (+/-   2.2390)
+ Temperature                  319.14 Kelvin      (+/-    83.46)
+
+ Instantaneous Values for Frame Saved at     60000 Dynamics Steps
+
+ Current Time                 6.0000 Picosecond
+ Current Potential            4.7751 Kcal/mole
+ Current Kinetic              7.2983 Kcal/mole
+ Frame Number                     12
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of    65000 Dynamics Steps
+
+ Simulation Time              6.5000 Picosecond
+ Total Energy                13.1835 Kcal/mole   (+/-   2.5741)
+ Potential Energy             5.2995 Kcal/mole   (+/-   1.6159)
+ Kinetic Energy               7.8840 Kcal/mole   (+/-   2.0965)
+ Temperature                  293.88 Kelvin      (+/-    78.15)
+
+ Instantaneous Values for Frame Saved at     65000 Dynamics Steps
+
+ Current Time                 6.5000 Picosecond
+ Current Potential            7.2522 Kcal/mole
+ Current Kinetic             10.5734 Kcal/mole
+ Frame Number                     13
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of    70000 Dynamics Steps
+
+ Simulation Time              7.0000 Picosecond
+ Total Energy                13.6396 Kcal/mole   (+/-   2.5218)
+ Potential Energy             5.6216 Kcal/mole   (+/-   1.8063)
+ Kinetic Energy               8.0181 Kcal/mole   (+/-   2.0679)
+ Temperature                  298.88 Kelvin      (+/-    77.08)
+
+ Instantaneous Values for Frame Saved at     70000 Dynamics Steps
+
+ Current Time                 7.0000 Picosecond
+ Current Potential            8.6050 Kcal/mole
+ Current Kinetic              8.6048 Kcal/mole
+ Frame Number                     14
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of    75000 Dynamics Steps
+
+ Simulation Time              7.5000 Picosecond
+ Total Energy                13.9189 Kcal/mole   (+/-   2.5455)
+ Potential Energy             5.9145 Kcal/mole   (+/-   1.7996)
+ Kinetic Energy               8.0044 Kcal/mole   (+/-   2.1064)
+ Temperature                  298.37 Kelvin      (+/-    78.52)
+
+ Instantaneous Values for Frame Saved at     75000 Dynamics Steps
+
+ Current Time                 7.5000 Picosecond
+ Current Potential            6.5503 Kcal/mole
+ Current Kinetic             10.9134 Kcal/mole
+ Frame Number                     15
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of    80000 Dynamics Steps
+
+ Simulation Time              8.0000 Picosecond
+ Total Energy                13.6655 Kcal/mole   (+/-   2.8984)
+ Potential Energy             5.6855 Kcal/mole   (+/-   2.0752)
+ Kinetic Energy               7.9799 Kcal/mole   (+/-   1.9063)
+ Temperature                  297.46 Kelvin      (+/-    71.06)
+
+ Instantaneous Values for Frame Saved at     80000 Dynamics Steps
+
+ Current Time                 8.0000 Picosecond
+ Current Potential            6.7679 Kcal/mole
+ Current Kinetic              8.2378 Kcal/mole
+ Frame Number                     16
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of    85000 Dynamics Steps
+
+ Simulation Time              8.5000 Picosecond
+ Total Energy                14.4739 Kcal/mole   (+/-   2.4412)
+ Potential Energy             6.0039 Kcal/mole   (+/-   1.7448)
+ Kinetic Energy               8.4701 Kcal/mole   (+/-   2.0322)
+ Temperature                  315.73 Kelvin      (+/-    75.75)
+
+ Instantaneous Values for Frame Saved at     85000 Dynamics Steps
+
+ Current Time                 8.5000 Picosecond
+ Current Potential            4.5431 Kcal/mole
+ Current Kinetic              7.9434 Kcal/mole
+ Frame Number                     17
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of    90000 Dynamics Steps
+
+ Simulation Time              9.0000 Picosecond
+ Total Energy                13.8890 Kcal/mole   (+/-   2.8226)
+ Potential Energy             6.2486 Kcal/mole   (+/-   1.8286)
+ Kinetic Energy               7.6404 Kcal/mole   (+/-   2.1586)
+ Temperature                  284.80 Kelvin      (+/-    80.46)
+
+ Instantaneous Values for Frame Saved at     90000 Dynamics Steps
+
+ Current Time                 9.0000 Picosecond
+ Current Potential            5.3493 Kcal/mole
+ Current Kinetic              7.4895 Kcal/mole
+ Frame Number                     18
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of    95000 Dynamics Steps
+
+ Simulation Time              9.5000 Picosecond
+ Total Energy                13.3270 Kcal/mole   (+/-   2.7877)
+ Potential Energy             5.2151 Kcal/mole   (+/-   1.7167)
+ Kinetic Energy               8.1118 Kcal/mole   (+/-   2.0258)
+ Temperature                  302.37 Kelvin      (+/-    75.51)
+
+ Instantaneous Values for Frame Saved at     95000 Dynamics Steps
+
+ Current Time                 9.5000 Picosecond
+ Current Potential            5.6026 Kcal/mole
+ Current Kinetic             12.0246 Kcal/mole
+ Frame Number                     19
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   100000 Dynamics Steps
+
+ Simulation Time             10.0000 Picosecond
+ Total Energy                13.8458 Kcal/mole   (+/-   2.3849)
+ Potential Energy             5.5424 Kcal/mole   (+/-   1.5772)
+ Kinetic Energy               8.3034 Kcal/mole   (+/-   2.1709)
+ Temperature                  309.51 Kelvin      (+/-    80.92)
+
+ Instantaneous Values for Frame Saved at    100000 Dynamics Steps
+
+ Current Time                10.0000 Picosecond
+ Current Potential            5.2348 Kcal/mole
+ Current Kinetic              5.9599 Kcal/mole
+ Frame Number                     20
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   105000 Dynamics Steps
+
+ Simulation Time             10.5000 Picosecond
+ Total Energy                13.3243 Kcal/mole   (+/-   2.5943)
+ Potential Energy             5.5680 Kcal/mole   (+/-   1.6476)
+ Kinetic Energy               7.7563 Kcal/mole   (+/-   1.9580)
+ Temperature                  289.12 Kelvin      (+/-    72.99)
+
+ Instantaneous Values for Frame Saved at    105000 Dynamics Steps
+
+ Current Time                10.5000 Picosecond
+ Current Potential            6.3909 Kcal/mole
+ Current Kinetic              7.7766 Kcal/mole
+ Frame Number                     21
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   110000 Dynamics Steps
+
+ Simulation Time             11.0000 Picosecond
+ Total Energy                15.0328 Kcal/mole   (+/-   3.1540)
+ Potential Energy             6.6149 Kcal/mole   (+/-   2.1087)
+ Kinetic Energy               8.4180 Kcal/mole   (+/-   2.2021)
+ Temperature                  313.78 Kelvin      (+/-    82.09)
+
+ Instantaneous Values for Frame Saved at    110000 Dynamics Steps
+
+ Current Time                11.0000 Picosecond
+ Current Potential           10.3193 Kcal/mole
+ Current Kinetic              6.8692 Kcal/mole
+ Frame Number                     22
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   115000 Dynamics Steps
+
+ Simulation Time             11.5000 Picosecond
+ Total Energy                14.8517 Kcal/mole   (+/-   2.9655)
+ Potential Energy             6.2823 Kcal/mole   (+/-   1.9434)
+ Kinetic Energy               8.5694 Kcal/mole   (+/-   2.4583)
+ Temperature                  319.43 Kelvin      (+/-    91.64)
+
+ Instantaneous Values for Frame Saved at    115000 Dynamics Steps
+
+ Current Time                11.5000 Picosecond
+ Current Potential            6.0599 Kcal/mole
+ Current Kinetic              7.0433 Kcal/mole
+ Frame Number                     23
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   120000 Dynamics Steps
+
+ Simulation Time             12.0000 Picosecond
+ Total Energy                13.2438 Kcal/mole   (+/-   2.8877)
+ Potential Energy             5.3027 Kcal/mole   (+/-   1.8368)
+ Kinetic Energy               7.9411 Kcal/mole   (+/-   2.2264)
+ Temperature                  296.01 Kelvin      (+/-    82.99)
+
+ Instantaneous Values for Frame Saved at    120000 Dynamics Steps
+
+ Current Time                12.0000 Picosecond
+ Current Potential            5.1970 Kcal/mole
+ Current Kinetic             11.5194 Kcal/mole
+ Frame Number                     24
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   125000 Dynamics Steps
+
+ Simulation Time             12.5000 Picosecond
+ Total Energy                14.6343 Kcal/mole   (+/-   3.1031)
+ Potential Energy             6.4296 Kcal/mole   (+/-   2.1338)
+ Kinetic Energy               8.2047 Kcal/mole   (+/-   2.3064)
+ Temperature                  305.84 Kelvin      (+/-    85.97)
+
+ Instantaneous Values for Frame Saved at    125000 Dynamics Steps
+
+ Current Time                12.5000 Picosecond
+ Current Potential            8.5056 Kcal/mole
+ Current Kinetic              7.4768 Kcal/mole
+ Frame Number                     25
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   130000 Dynamics Steps
+
+ Simulation Time             13.0000 Picosecond
+ Total Energy                13.8010 Kcal/mole   (+/-   2.3011)
+ Potential Energy             5.7679 Kcal/mole   (+/-   1.6999)
+ Kinetic Energy               8.0331 Kcal/mole   (+/-   1.7666)
+ Temperature                  299.44 Kelvin      (+/-    65.85)
+
+ Instantaneous Values for Frame Saved at    130000 Dynamics Steps
+
+ Current Time                13.0000 Picosecond
+ Current Potential            5.3196 Kcal/mole
+ Current Kinetic             10.1124 Kcal/mole
+ Frame Number                     26
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   135000 Dynamics Steps
+
+ Simulation Time             13.5000 Picosecond
+ Total Energy                13.6087 Kcal/mole   (+/-   2.5237)
+ Potential Energy             5.8742 Kcal/mole   (+/-   1.8312)
+ Kinetic Energy               7.7345 Kcal/mole   (+/-   2.0571)
+ Temperature                  288.31 Kelvin      (+/-    76.68)
+
+ Instantaneous Values for Frame Saved at    135000 Dynamics Steps
+
+ Current Time                13.5000 Picosecond
+ Current Potential            2.7109 Kcal/mole
+ Current Kinetic              6.3832 Kcal/mole
+ Frame Number                     27
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   140000 Dynamics Steps
+
+ Simulation Time             14.0000 Picosecond
+ Total Energy                14.0306 Kcal/mole   (+/-   3.5204)
+ Potential Energy             5.7501 Kcal/mole   (+/-   2.3821)
+ Kinetic Energy               8.2805 Kcal/mole   (+/-   2.3009)
+ Temperature                  308.66 Kelvin      (+/-    85.77)
+
+ Instantaneous Values for Frame Saved at    140000 Dynamics Steps
+
+ Current Time                14.0000 Picosecond
+ Current Potential            4.9265 Kcal/mole
+ Current Kinetic              9.9651 Kcal/mole
+ Frame Number                     28
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   145000 Dynamics Steps
+
+ Simulation Time             14.5000 Picosecond
+ Total Energy                13.6438 Kcal/mole   (+/-   3.0984)
+ Potential Energy             5.6373 Kcal/mole   (+/-   2.0272)
+ Kinetic Energy               8.0065 Kcal/mole   (+/-   2.1378)
+ Temperature                  298.45 Kelvin      (+/-    79.69)
+
+ Instantaneous Values for Frame Saved at    145000 Dynamics Steps
+
+ Current Time                14.5000 Picosecond
+ Current Potential            5.0724 Kcal/mole
+ Current Kinetic              6.3046 Kcal/mole
+ Frame Number                     29
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   150000 Dynamics Steps
+
+ Simulation Time             15.0000 Picosecond
+ Total Energy                13.5695 Kcal/mole   (+/-   3.0094)
+ Potential Energy             5.5136 Kcal/mole   (+/-   1.9037)
+ Kinetic Energy               8.0559 Kcal/mole   (+/-   2.2947)
+ Temperature                  300.29 Kelvin      (+/-    85.54)
+
+ Instantaneous Values for Frame Saved at    150000 Dynamics Steps
+
+ Current Time                15.0000 Picosecond
+ Current Potential            5.6609 Kcal/mole
+ Current Kinetic              5.3013 Kcal/mole
+ Frame Number                     30
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   155000 Dynamics Steps
+
+ Simulation Time             15.5000 Picosecond
+ Total Energy                14.5480 Kcal/mole   (+/-   2.4446)
+ Potential Energy             6.4092 Kcal/mole   (+/-   1.6454)
+ Kinetic Energy               8.1388 Kcal/mole   (+/-   2.1628)
+ Temperature                  303.38 Kelvin      (+/-    80.62)
+
+ Instantaneous Values for Frame Saved at    155000 Dynamics Steps
+
+ Current Time                15.5000 Picosecond
+ Current Potential            4.8239 Kcal/mole
+ Current Kinetic             10.6345 Kcal/mole
+ Frame Number                     31
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   160000 Dynamics Steps
+
+ Simulation Time             16.0000 Picosecond
+ Total Energy                14.7028 Kcal/mole   (+/-   3.2190)
+ Potential Energy             6.0189 Kcal/mole   (+/-   2.2213)
+ Kinetic Energy               8.6840 Kcal/mole   (+/-   2.5806)
+ Temperature                  323.70 Kelvin      (+/-    96.19)
+
+ Instantaneous Values for Frame Saved at    160000 Dynamics Steps
+
+ Current Time                16.0000 Picosecond
+ Current Potential            5.6450 Kcal/mole
+ Current Kinetic             11.6231 Kcal/mole
+ Frame Number                     32
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   165000 Dynamics Steps
+
+ Simulation Time             16.5000 Picosecond
+ Total Energy                14.0502 Kcal/mole   (+/-   2.6321)
+ Potential Energy             5.8461 Kcal/mole   (+/-   1.8938)
+ Kinetic Energy               8.2041 Kcal/mole   (+/-   2.0804)
+ Temperature                  305.81 Kelvin      (+/-    77.55)
+
+ Instantaneous Values for Frame Saved at    165000 Dynamics Steps
+
+ Current Time                16.5000 Picosecond
+ Current Potential            4.3665 Kcal/mole
+ Current Kinetic              9.1562 Kcal/mole
+ Frame Number                     33
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   170000 Dynamics Steps
+
+ Simulation Time             17.0000 Picosecond
+ Total Energy                14.1014 Kcal/mole   (+/-   3.2018)
+ Potential Energy             5.6851 Kcal/mole   (+/-   2.0402)
+ Kinetic Energy               8.4163 Kcal/mole   (+/-   2.3267)
+ Temperature                  313.72 Kelvin      (+/-    86.73)
+
+ Instantaneous Values for Frame Saved at    170000 Dynamics Steps
+
+ Current Time                17.0000 Picosecond
+ Current Potential            4.4344 Kcal/mole
+ Current Kinetic              5.9546 Kcal/mole
+ Frame Number                     34
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   175000 Dynamics Steps
+
+ Simulation Time             17.5000 Picosecond
+ Total Energy                13.2834 Kcal/mole   (+/-   2.3314)
+ Potential Energy             5.4812 Kcal/mole   (+/-   1.7503)
+ Kinetic Energy               7.8022 Kcal/mole   (+/-   1.9723)
+ Temperature                  290.83 Kelvin      (+/-    73.52)
+
+ Instantaneous Values for Frame Saved at    175000 Dynamics Steps
+
+ Current Time                17.5000 Picosecond
+ Current Potential            7.8707 Kcal/mole
+ Current Kinetic              6.8183 Kcal/mole
+ Frame Number                     35
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   180000 Dynamics Steps
+
+ Simulation Time             18.0000 Picosecond
+ Total Energy                13.8357 Kcal/mole   (+/-   3.2548)
+ Potential Energy             5.9666 Kcal/mole   (+/-   2.1936)
+ Kinetic Energy               7.8691 Kcal/mole   (+/-   2.2625)
+ Temperature                  293.33 Kelvin      (+/-    84.33)
+
+ Instantaneous Values for Frame Saved at    180000 Dynamics Steps
+
+ Current Time                18.0000 Picosecond
+ Current Potential            5.4216 Kcal/mole
+ Current Kinetic             10.0407 Kcal/mole
+ Frame Number                     36
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   185000 Dynamics Steps
+
+ Simulation Time             18.5000 Picosecond
+ Total Energy                13.4691 Kcal/mole   (+/-   2.9659)
+ Potential Energy             5.5809 Kcal/mole   (+/-   1.9885)
+ Kinetic Energy               7.8882 Kcal/mole   (+/-   2.1448)
+ Temperature                  294.04 Kelvin      (+/-    79.95)
+
+ Instantaneous Values for Frame Saved at    185000 Dynamics Steps
+
+ Current Time                18.5000 Picosecond
+ Current Potential            5.8861 Kcal/mole
+ Current Kinetic             15.9339 Kcal/mole
+ Frame Number                     37
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   190000 Dynamics Steps
+
+ Simulation Time             19.0000 Picosecond
+ Total Energy                14.1135 Kcal/mole   (+/-   3.1100)
+ Potential Energy             6.2662 Kcal/mole   (+/-   2.0670)
+ Kinetic Energy               7.8473 Kcal/mole   (+/-   2.1791)
+ Temperature                  292.51 Kelvin      (+/-    81.23)
+
+ Instantaneous Values for Frame Saved at    190000 Dynamics Steps
+
+ Current Time                19.0000 Picosecond
+ Current Potential            4.7387 Kcal/mole
+ Current Kinetic             10.9804 Kcal/mole
+ Frame Number                     38
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   195000 Dynamics Steps
+
+ Simulation Time             19.5000 Picosecond
+ Total Energy                13.5973 Kcal/mole   (+/-   2.4826)
+ Potential Energy             5.9907 Kcal/mole   (+/-   1.6325)
+ Kinetic Energy               7.6066 Kcal/mole   (+/-   1.9821)
+ Temperature                  283.54 Kelvin      (+/-    73.88)
+
+ Instantaneous Values for Frame Saved at    195000 Dynamics Steps
+
+ Current Time                19.5000 Picosecond
+ Current Potential            8.7343 Kcal/mole
+ Current Kinetic              6.6042 Kcal/mole
+ Frame Number                     39
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   200000 Dynamics Steps
+
+ Simulation Time             20.0000 Picosecond
+ Total Energy                14.3436 Kcal/mole   (+/-   2.5504)
+ Potential Energy             6.1305 Kcal/mole   (+/-   1.7331)
+ Kinetic Energy               8.2131 Kcal/mole   (+/-   2.0777)
+ Temperature                  306.15 Kelvin      (+/-    77.45)
+
+ Instantaneous Values for Frame Saved at    200000 Dynamics Steps
+
+ Current Time                20.0000 Picosecond
+ Current Potential            7.0220 Kcal/mole
+ Current Kinetic              5.1982 Kcal/mole
+ Frame Number                     40
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   205000 Dynamics Steps
+
+ Simulation Time             20.5000 Picosecond
+ Total Energy                14.7480 Kcal/mole   (+/-   2.6686)
+ Potential Energy             6.5686 Kcal/mole   (+/-   2.0050)
+ Kinetic Energy               8.1794 Kcal/mole   (+/-   2.0372)
+ Temperature                  304.89 Kelvin      (+/-    75.94)
+
+ Instantaneous Values for Frame Saved at    205000 Dynamics Steps
+
+ Current Time                20.5000 Picosecond
+ Current Potential            7.6537 Kcal/mole
+ Current Kinetic              8.4826 Kcal/mole
+ Frame Number                     41
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   210000 Dynamics Steps
+
+ Simulation Time             21.0000 Picosecond
+ Total Energy                14.2553 Kcal/mole   (+/-   3.1386)
+ Potential Energy             5.9031 Kcal/mole   (+/-   1.9479)
+ Kinetic Energy               8.3522 Kcal/mole   (+/-   2.4765)
+ Temperature                  311.33 Kelvin      (+/-    92.31)
+
+ Instantaneous Values for Frame Saved at    210000 Dynamics Steps
+
+ Current Time                21.0000 Picosecond
+ Current Potential            6.1486 Kcal/mole
+ Current Kinetic              7.1593 Kcal/mole
+ Frame Number                     42
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   215000 Dynamics Steps
+
+ Simulation Time             21.5000 Picosecond
+ Total Energy                13.7019 Kcal/mole   (+/-   3.4081)
+ Potential Energy             5.6162 Kcal/mole   (+/-   2.1317)
+ Kinetic Energy               8.0857 Kcal/mole   (+/-   2.3750)
+ Temperature                  301.40 Kelvin      (+/-    88.53)
+
+ Instantaneous Values for Frame Saved at    215000 Dynamics Steps
+
+ Current Time                21.5000 Picosecond
+ Current Potential            5.4013 Kcal/mole
+ Current Kinetic              6.3579 Kcal/mole
+ Frame Number                     43
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   220000 Dynamics Steps
+
+ Simulation Time             22.0000 Picosecond
+ Total Energy                14.0293 Kcal/mole   (+/-   2.7683)
+ Potential Energy             5.9124 Kcal/mole   (+/-   2.0205)
+ Kinetic Energy               8.1169 Kcal/mole   (+/-   2.1379)
+ Temperature                  302.56 Kelvin      (+/-    79.69)
+
+ Instantaneous Values for Frame Saved at    220000 Dynamics Steps
+
+ Current Time                22.0000 Picosecond
+ Current Potential            4.1612 Kcal/mole
+ Current Kinetic              8.3447 Kcal/mole
+ Frame Number                     44
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   225000 Dynamics Steps
+
+ Simulation Time             22.5000 Picosecond
+ Total Energy                13.7891 Kcal/mole   (+/-   3.0058)
+ Potential Energy             5.7180 Kcal/mole   (+/-   2.1423)
+ Kinetic Energy               8.0711 Kcal/mole   (+/-   2.0914)
+ Temperature                  300.85 Kelvin      (+/-    77.96)
+
+ Instantaneous Values for Frame Saved at    225000 Dynamics Steps
+
+ Current Time                22.5000 Picosecond
+ Current Potential            6.5004 Kcal/mole
+ Current Kinetic              7.1218 Kcal/mole
+ Frame Number                     45
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   230000 Dynamics Steps
+
+ Simulation Time             23.0000 Picosecond
+ Total Energy                13.4286 Kcal/mole   (+/-   2.8897)
+ Potential Energy             5.5351 Kcal/mole   (+/-   1.9673)
+ Kinetic Energy               7.8935 Kcal/mole   (+/-   2.0969)
+ Temperature                  294.23 Kelvin      (+/-    78.16)
+
+ Instantaneous Values for Frame Saved at    230000 Dynamics Steps
+
+ Current Time                23.0000 Picosecond
+ Current Potential            4.6484 Kcal/mole
+ Current Kinetic             12.2375 Kcal/mole
+ Frame Number                     46
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   235000 Dynamics Steps
+
+ Simulation Time             23.5000 Picosecond
+ Total Energy                12.7179 Kcal/mole   (+/-   2.5035)
+ Potential Energy             4.9340 Kcal/mole   (+/-   1.8622)
+ Kinetic Energy               7.7840 Kcal/mole   (+/-   1.8245)
+ Temperature                  290.15 Kelvin      (+/-    68.01)
+
+ Instantaneous Values for Frame Saved at    235000 Dynamics Steps
+
+ Current Time                23.5000 Picosecond
+ Current Potential            3.9279 Kcal/mole
+ Current Kinetic              6.4824 Kcal/mole
+ Frame Number                     47
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   240000 Dynamics Steps
+
+ Simulation Time             24.0000 Picosecond
+ Total Energy                13.4742 Kcal/mole   (+/-   3.2710)
+ Potential Energy             5.7130 Kcal/mole   (+/-   2.2600)
+ Kinetic Energy               7.7612 Kcal/mole   (+/-   2.2035)
+ Temperature                  289.30 Kelvin      (+/-    82.14)
+
+ Instantaneous Values for Frame Saved at    240000 Dynamics Steps
+
+ Current Time                24.0000 Picosecond
+ Current Potential            2.3344 Kcal/mole
+ Current Kinetic             10.2576 Kcal/mole
+ Frame Number                     48
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   245000 Dynamics Steps
+
+ Simulation Time             24.5000 Picosecond
+ Total Energy                13.1782 Kcal/mole   (+/-   3.2138)
+ Potential Energy             5.2715 Kcal/mole   (+/-   2.0561)
+ Kinetic Energy               7.9067 Kcal/mole   (+/-   2.1657)
+ Temperature                  294.73 Kelvin      (+/-    80.73)
+
+ Instantaneous Values for Frame Saved at    245000 Dynamics Steps
+
+ Current Time                24.5000 Picosecond
+ Current Potential            4.7299 Kcal/mole
+ Current Kinetic              6.6693 Kcal/mole
+ Frame Number                     49
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   250000 Dynamics Steps
+
+ Simulation Time             25.0000 Picosecond
+ Total Energy                13.2224 Kcal/mole   (+/-   3.0854)
+ Potential Energy             5.8243 Kcal/mole   (+/-   2.2166)
+ Kinetic Energy               7.3982 Kcal/mole   (+/-   1.8944)
+ Temperature                  275.77 Kelvin      (+/-    70.62)
+
+ Instantaneous Values for Frame Saved at    250000 Dynamics Steps
+
+ Current Time                25.0000 Picosecond
+ Current Potential           10.4490 Kcal/mole
+ Current Kinetic              4.7021 Kcal/mole
+ Frame Number                     50
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   255000 Dynamics Steps
+
+ Simulation Time             25.5000 Picosecond
+ Total Energy                14.0500 Kcal/mole   (+/-   2.5673)
+ Potential Energy             5.7742 Kcal/mole   (+/-   1.6397)
+ Kinetic Energy               8.2758 Kcal/mole   (+/-   2.2497)
+ Temperature                  308.48 Kelvin      (+/-    83.86)
+
+ Instantaneous Values for Frame Saved at    255000 Dynamics Steps
+
+ Current Time                25.5000 Picosecond
+ Current Potential            2.9113 Kcal/mole
+ Current Kinetic             11.8593 Kcal/mole
+ Frame Number                     51
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   260000 Dynamics Steps
+
+ Simulation Time             26.0000 Picosecond
+ Total Energy                12.9688 Kcal/mole   (+/-   2.6207)
+ Potential Energy             5.3311 Kcal/mole   (+/-   1.8173)
+ Kinetic Energy               7.6377 Kcal/mole   (+/-   1.9157)
+ Temperature                  284.70 Kelvin      (+/-    71.41)
+
+ Instantaneous Values for Frame Saved at    260000 Dynamics Steps
+
+ Current Time                26.0000 Picosecond
+ Current Potential            4.8060 Kcal/mole
+ Current Kinetic             11.5774 Kcal/mole
+ Frame Number                     52
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   265000 Dynamics Steps
+
+ Simulation Time             26.5000 Picosecond
+ Total Energy                14.0725 Kcal/mole   (+/-   2.8551)
+ Potential Energy             5.8637 Kcal/mole   (+/-   2.0871)
+ Kinetic Energy               8.2088 Kcal/mole   (+/-   2.0514)
+ Temperature                  305.99 Kelvin      (+/-    76.47)
+
+ Instantaneous Values for Frame Saved at    265000 Dynamics Steps
+
+ Current Time                26.5000 Picosecond
+ Current Potential            2.3172 Kcal/mole
+ Current Kinetic             14.0250 Kcal/mole
+ Frame Number                     53
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   270000 Dynamics Steps
+
+ Simulation Time             27.0000 Picosecond
+ Total Energy                14.2885 Kcal/mole   (+/-   3.5852)
+ Potential Energy             6.4913 Kcal/mole   (+/-   2.5061)
+ Kinetic Energy               7.7972 Kcal/mole   (+/-   2.1871)
+ Temperature                  290.64 Kelvin      (+/-    81.53)
+
+ Instantaneous Values for Frame Saved at    270000 Dynamics Steps
+
+ Current Time                27.0000 Picosecond
+ Current Potential            3.8733 Kcal/mole
+ Current Kinetic              7.2855 Kcal/mole
+ Frame Number                     54
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   275000 Dynamics Steps
+
+ Simulation Time             27.5000 Picosecond
+ Total Energy                15.0230 Kcal/mole   (+/-   3.2645)
+ Potential Energy             6.5713 Kcal/mole   (+/-   2.1638)
+ Kinetic Energy               8.4517 Kcal/mole   (+/-   2.3589)
+ Temperature                  315.04 Kelvin      (+/-    87.93)
+
+ Instantaneous Values for Frame Saved at    275000 Dynamics Steps
+
+ Current Time                27.5000 Picosecond
+ Current Potential            8.5080 Kcal/mole
+ Current Kinetic              8.8220 Kcal/mole
+ Frame Number                     55
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   280000 Dynamics Steps
+
+ Simulation Time             28.0000 Picosecond
+ Total Energy                14.9189 Kcal/mole   (+/-   3.4710)
+ Potential Energy             6.4232 Kcal/mole   (+/-   2.2361)
+ Kinetic Energy               8.4957 Kcal/mole   (+/-   2.3615)
+ Temperature                  316.68 Kelvin      (+/-    88.03)
+
+ Instantaneous Values for Frame Saved at    280000 Dynamics Steps
+
+ Current Time                28.0000 Picosecond
+ Current Potential            5.8367 Kcal/mole
+ Current Kinetic             10.6977 Kcal/mole
+ Frame Number                     56
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   285000 Dynamics Steps
+
+ Simulation Time             28.5000 Picosecond
+ Total Energy                14.4233 Kcal/mole   (+/-   2.9725)
+ Potential Energy             6.1339 Kcal/mole   (+/-   1.7845)
+ Kinetic Energy               8.2894 Kcal/mole   (+/-   2.3131)
+ Temperature                  308.99 Kelvin      (+/-    86.22)
+
+ Instantaneous Values for Frame Saved at    285000 Dynamics Steps
+
+ Current Time                28.5000 Picosecond
+ Current Potential            6.5903 Kcal/mole
+ Current Kinetic              5.4983 Kcal/mole
+ Frame Number                     57
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   290000 Dynamics Steps
+
+ Simulation Time             29.0000 Picosecond
+ Total Energy                14.3400 Kcal/mole   (+/-   2.9615)
+ Potential Energy             6.2022 Kcal/mole   (+/-   1.8425)
+ Kinetic Energy               8.1379 Kcal/mole   (+/-   2.0868)
+ Temperature                  303.34 Kelvin      (+/-    77.79)
+
+ Instantaneous Values for Frame Saved at    290000 Dynamics Steps
+
+ Current Time                29.0000 Picosecond
+ Current Potential            6.2817 Kcal/mole
+ Current Kinetic              6.2873 Kcal/mole
+ Frame Number                     58
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   295000 Dynamics Steps
+
+ Simulation Time             29.5000 Picosecond
+ Total Energy                13.6339 Kcal/mole   (+/-   2.9209)
+ Potential Energy             5.6933 Kcal/mole   (+/-   1.9960)
+ Kinetic Energy               7.9405 Kcal/mole   (+/-   2.1356)
+ Temperature                  295.99 Kelvin      (+/-    79.61)
+
+ Instantaneous Values for Frame Saved at    295000 Dynamics Steps
+
+ Current Time                29.5000 Picosecond
+ Current Potential            4.4388 Kcal/mole
+ Current Kinetic              7.2872 Kcal/mole
+ Frame Number                     59
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   300000 Dynamics Steps
+
+ Simulation Time             30.0000 Picosecond
+ Total Energy                13.9681 Kcal/mole   (+/-   2.7157)
+ Potential Energy             6.1846 Kcal/mole   (+/-   1.8085)
+ Kinetic Energy               7.7835 Kcal/mole   (+/-   2.0027)
+ Temperature                  290.13 Kelvin      (+/-    74.65)
+
+ Instantaneous Values for Frame Saved at    300000 Dynamics Steps
+
+ Current Time                30.0000 Picosecond
+ Current Potential            3.8482 Kcal/mole
+ Current Kinetic              5.1073 Kcal/mole
+ Frame Number                     60
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   305000 Dynamics Steps
+
+ Simulation Time             30.5000 Picosecond
+ Total Energy                14.0358 Kcal/mole   (+/-   3.0453)
+ Potential Energy             5.9357 Kcal/mole   (+/-   1.9478)
+ Kinetic Energy               8.1002 Kcal/mole   (+/-   2.3339)
+ Temperature                  301.94 Kelvin      (+/-    87.00)
+
+ Instantaneous Values for Frame Saved at    305000 Dynamics Steps
+
+ Current Time                30.5000 Picosecond
+ Current Potential            7.3379 Kcal/mole
+ Current Kinetic              9.1870 Kcal/mole
+ Frame Number                     61
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   310000 Dynamics Steps
+
+ Simulation Time             31.0000 Picosecond
+ Total Energy                13.4215 Kcal/mole   (+/-   2.6547)
+ Potential Energy             5.5278 Kcal/mole   (+/-   1.9117)
+ Kinetic Energy               7.8937 Kcal/mole   (+/-   1.9963)
+ Temperature                  294.24 Kelvin      (+/-    74.41)
+
+ Instantaneous Values for Frame Saved at    310000 Dynamics Steps
+
+ Current Time                31.0000 Picosecond
+ Current Potential            4.6786 Kcal/mole
+ Current Kinetic              5.6259 Kcal/mole
+ Frame Number                     62
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   315000 Dynamics Steps
+
+ Simulation Time             31.5000 Picosecond
+ Total Energy                13.8260 Kcal/mole   (+/-   3.1061)
+ Potential Energy             5.6676 Kcal/mole   (+/-   2.0200)
+ Kinetic Energy               8.1584 Kcal/mole   (+/-   2.0765)
+ Temperature                  304.11 Kelvin      (+/-    77.40)
+
+ Instantaneous Values for Frame Saved at    315000 Dynamics Steps
+
+ Current Time                31.5000 Picosecond
+ Current Potential            6.7213 Kcal/mole
+ Current Kinetic              6.7116 Kcal/mole
+ Frame Number                     63
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   320000 Dynamics Steps
+
+ Simulation Time             32.0000 Picosecond
+ Total Energy                14.3336 Kcal/mole   (+/-   3.3406)
+ Potential Energy             6.1119 Kcal/mole   (+/-   2.0483)
+ Kinetic Energy               8.2217 Kcal/mole   (+/-   2.4137)
+ Temperature                  306.47 Kelvin      (+/-    89.97)
+
+ Instantaneous Values for Frame Saved at    320000 Dynamics Steps
+
+ Current Time                32.0000 Picosecond
+ Current Potential            5.3887 Kcal/mole
+ Current Kinetic             12.0199 Kcal/mole
+ Frame Number                     64
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   325000 Dynamics Steps
+
+ Simulation Time             32.5000 Picosecond
+ Total Energy                13.7886 Kcal/mole   (+/-   2.9231)
+ Potential Energy             5.6923 Kcal/mole   (+/-   1.8498)
+ Kinetic Energy               8.0963 Kcal/mole   (+/-   1.9777)
+ Temperature                  301.80 Kelvin      (+/-    73.72)
+
+ Instantaneous Values for Frame Saved at    325000 Dynamics Steps
+
+ Current Time                32.5000 Picosecond
+ Current Potential            5.0804 Kcal/mole
+ Current Kinetic              7.6131 Kcal/mole
+ Frame Number                     65
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   330000 Dynamics Steps
+
+ Simulation Time             33.0000 Picosecond
+ Total Energy                13.9025 Kcal/mole   (+/-   2.5537)
+ Potential Energy             5.7854 Kcal/mole   (+/-   1.7586)
+ Kinetic Energy               8.1170 Kcal/mole   (+/-   2.1086)
+ Temperature                  302.57 Kelvin      (+/-    78.60)
+
+ Instantaneous Values for Frame Saved at    330000 Dynamics Steps
+
+ Current Time                33.0000 Picosecond
+ Current Potential            5.2918 Kcal/mole
+ Current Kinetic              9.2038 Kcal/mole
+ Frame Number                     66
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   335000 Dynamics Steps
+
+ Simulation Time             33.5000 Picosecond
+ Total Energy                13.5367 Kcal/mole   (+/-   2.5373)
+ Potential Energy             5.5412 Kcal/mole   (+/-   1.6548)
+ Kinetic Energy               7.9955 Kcal/mole   (+/-   2.2102)
+ Temperature                  298.04 Kelvin      (+/-    82.39)
+
+ Instantaneous Values for Frame Saved at    335000 Dynamics Steps
+
+ Current Time                33.5000 Picosecond
+ Current Potential            9.5312 Kcal/mole
+ Current Kinetic              7.7681 Kcal/mole
+ Frame Number                     67
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   340000 Dynamics Steps
+
+ Simulation Time             34.0000 Picosecond
+ Total Energy                13.7939 Kcal/mole   (+/-   3.0831)
+ Potential Energy             5.6117 Kcal/mole   (+/-   1.9258)
+ Kinetic Energy               8.1821 Kcal/mole   (+/-   2.3203)
+ Temperature                  304.99 Kelvin      (+/-    86.49)
+
+ Instantaneous Values for Frame Saved at    340000 Dynamics Steps
+
+ Current Time                34.0000 Picosecond
+ Current Potential           10.5995 Kcal/mole
+ Current Kinetic              9.1677 Kcal/mole
+ Frame Number                     68
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   345000 Dynamics Steps
+
+ Simulation Time             34.5000 Picosecond
+ Total Energy                13.1094 Kcal/mole   (+/-   3.0438)
+ Potential Energy             5.4631 Kcal/mole   (+/-   1.9781)
+ Kinetic Energy               7.6463 Kcal/mole   (+/-   2.1959)
+ Temperature                  285.02 Kelvin      (+/-    81.85)
+
+ Instantaneous Values for Frame Saved at    345000 Dynamics Steps
+
+ Current Time                34.5000 Picosecond
+ Current Potential            5.2840 Kcal/mole
+ Current Kinetic              6.1195 Kcal/mole
+ Frame Number                     69
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   350000 Dynamics Steps
+
+ Simulation Time             35.0000 Picosecond
+ Total Energy                14.5271 Kcal/mole   (+/-   2.9831)
+ Potential Energy             6.3485 Kcal/mole   (+/-   2.2421)
+ Kinetic Energy               8.1786 Kcal/mole   (+/-   2.3075)
+ Temperature                  304.86 Kelvin      (+/-    86.01)
+
+ Instantaneous Values for Frame Saved at    350000 Dynamics Steps
+
+ Current Time                35.0000 Picosecond
+ Current Potential            6.3173 Kcal/mole
+ Current Kinetic              8.4133 Kcal/mole
+ Frame Number                     70
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   355000 Dynamics Steps
+
+ Simulation Time             35.5000 Picosecond
+ Total Energy                13.6026 Kcal/mole   (+/-   2.5636)
+ Potential Energy             5.5546 Kcal/mole   (+/-   1.6225)
+ Kinetic Energy               8.0480 Kcal/mole   (+/-   2.0919)
+ Temperature                  299.99 Kelvin      (+/-    77.98)
+
+ Instantaneous Values for Frame Saved at    355000 Dynamics Steps
+
+ Current Time                35.5000 Picosecond
+ Current Potential            5.7510 Kcal/mole
+ Current Kinetic              6.0210 Kcal/mole
+ Frame Number                     71
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   360000 Dynamics Steps
+
+ Simulation Time             36.0000 Picosecond
+ Total Energy                13.7555 Kcal/mole   (+/-   3.2680)
+ Potential Energy             5.6872 Kcal/mole   (+/-   1.7628)
+ Kinetic Energy               8.0682 Kcal/mole   (+/-   2.4210)
+ Temperature                  300.75 Kelvin      (+/-    90.25)
+
+ Instantaneous Values for Frame Saved at    360000 Dynamics Steps
+
+ Current Time                36.0000 Picosecond
+ Current Potential            3.4415 Kcal/mole
+ Current Kinetic              6.7185 Kcal/mole
+ Frame Number                     72
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   365000 Dynamics Steps
+
+ Simulation Time             36.5000 Picosecond
+ Total Energy                13.1782 Kcal/mole   (+/-   3.0205)
+ Potential Energy             5.5024 Kcal/mole   (+/-   1.9575)
+ Kinetic Energy               7.6758 Kcal/mole   (+/-   2.2602)
+ Temperature                  286.12 Kelvin      (+/-    84.25)
+
+ Instantaneous Values for Frame Saved at    365000 Dynamics Steps
+
+ Current Time                36.5000 Picosecond
+ Current Potential           10.2525 Kcal/mole
+ Current Kinetic              7.8869 Kcal/mole
+ Frame Number                     73
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   370000 Dynamics Steps
+
+ Simulation Time             37.0000 Picosecond
+ Total Energy                13.8269 Kcal/mole   (+/-   2.8474)
+ Potential Energy             5.8029 Kcal/mole   (+/-   1.9073)
+ Kinetic Energy               8.0239 Kcal/mole   (+/-   2.0595)
+ Temperature                  299.10 Kelvin      (+/-    76.77)
+
+ Instantaneous Values for Frame Saved at    370000 Dynamics Steps
+
+ Current Time                37.0000 Picosecond
+ Current Potential            5.9820 Kcal/mole
+ Current Kinetic              9.3518 Kcal/mole
+ Frame Number                     74
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   375000 Dynamics Steps
+
+ Simulation Time             37.5000 Picosecond
+ Total Energy                14.0001 Kcal/mole   (+/-   2.7722)
+ Potential Energy             5.9375 Kcal/mole   (+/-   1.9601)
+ Kinetic Energy               8.0626 Kcal/mole   (+/-   2.1797)
+ Temperature                  300.54 Kelvin      (+/-    81.25)
+
+ Instantaneous Values for Frame Saved at    375000 Dynamics Steps
+
+ Current Time                37.5000 Picosecond
+ Current Potential            6.0253 Kcal/mole
+ Current Kinetic              7.1409 Kcal/mole
+ Frame Number                     75
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   380000 Dynamics Steps
+
+ Simulation Time             38.0000 Picosecond
+ Total Energy                12.5058 Kcal/mole   (+/-   2.5334)
+ Potential Energy             4.9317 Kcal/mole   (+/-   1.7690)
+ Kinetic Energy               7.5741 Kcal/mole   (+/-   2.0399)
+ Temperature                  282.33 Kelvin      (+/-    76.04)
+
+ Instantaneous Values for Frame Saved at    380000 Dynamics Steps
+
+ Current Time                38.0000 Picosecond
+ Current Potential            6.7199 Kcal/mole
+ Current Kinetic              7.9978 Kcal/mole
+ Frame Number                     76
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   385000 Dynamics Steps
+
+ Simulation Time             38.5000 Picosecond
+ Total Energy                13.4368 Kcal/mole   (+/-   2.5501)
+ Potential Energy             5.6091 Kcal/mole   (+/-   1.8347)
+ Kinetic Energy               7.8277 Kcal/mole   (+/-   1.9153)
+ Temperature                  291.78 Kelvin      (+/-    71.39)
+
+ Instantaneous Values for Frame Saved at    385000 Dynamics Steps
+
+ Current Time                38.5000 Picosecond
+ Current Potential            3.5690 Kcal/mole
+ Current Kinetic              6.9979 Kcal/mole
+ Frame Number                     77
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   390000 Dynamics Steps
+
+ Simulation Time             39.0000 Picosecond
+ Total Energy                14.2009 Kcal/mole   (+/-   2.9920)
+ Potential Energy             5.8851 Kcal/mole   (+/-   1.9241)
+ Kinetic Energy               8.3157 Kcal/mole   (+/-   2.1735)
+ Temperature                  309.97 Kelvin      (+/-    81.02)
+
+ Instantaneous Values for Frame Saved at    390000 Dynamics Steps
+
+ Current Time                39.0000 Picosecond
+ Current Potential            3.7857 Kcal/mole
+ Current Kinetic              9.0188 Kcal/mole
+ Frame Number                     78
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   395000 Dynamics Steps
+
+ Simulation Time             39.5000 Picosecond
+ Total Energy                14.0027 Kcal/mole   (+/-   3.1292)
+ Potential Energy             5.9926 Kcal/mole   (+/-   2.0827)
+ Kinetic Energy               8.0101 Kcal/mole   (+/-   2.3530)
+ Temperature                  298.58 Kelvin      (+/-    87.71)
+
+ Instantaneous Values for Frame Saved at    395000 Dynamics Steps
+
+ Current Time                39.5000 Picosecond
+ Current Potential            2.3528 Kcal/mole
+ Current Kinetic              7.7548 Kcal/mole
+ Frame Number                     79
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   400000 Dynamics Steps
+
+ Simulation Time             40.0000 Picosecond
+ Total Energy                14.7281 Kcal/mole   (+/-   3.2250)
+ Potential Energy             6.2682 Kcal/mole   (+/-   1.9921)
+ Kinetic Energy               8.4600 Kcal/mole   (+/-   2.4531)
+ Temperature                  315.35 Kelvin      (+/-    91.44)
+
+ Instantaneous Values for Frame Saved at    400000 Dynamics Steps
+
+ Current Time                40.0000 Picosecond
+ Current Potential            5.2064 Kcal/mole
+ Current Kinetic             11.2615 Kcal/mole
+ Frame Number                     80
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   405000 Dynamics Steps
+
+ Simulation Time             40.5000 Picosecond
+ Total Energy                14.0473 Kcal/mole   (+/-   3.0781)
+ Potential Energy             5.9503 Kcal/mole   (+/-   2.1546)
+ Kinetic Energy               8.0970 Kcal/mole   (+/-   2.0552)
+ Temperature                  301.82 Kelvin      (+/-    76.61)
+
+ Instantaneous Values for Frame Saved at    405000 Dynamics Steps
+
+ Current Time                40.5000 Picosecond
+ Current Potential            5.3532 Kcal/mole
+ Current Kinetic              9.6006 Kcal/mole
+ Frame Number                     81
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   410000 Dynamics Steps
+
+ Simulation Time             41.0000 Picosecond
+ Total Energy                13.8439 Kcal/mole   (+/-   2.8110)
+ Potential Energy             5.9379 Kcal/mole   (+/-   1.9361)
+ Kinetic Energy               7.9060 Kcal/mole   (+/-   2.1574)
+ Temperature                  294.70 Kelvin      (+/-    80.42)
+
+ Instantaneous Values for Frame Saved at    410000 Dynamics Steps
+
+ Current Time                41.0000 Picosecond
+ Current Potential            6.2079 Kcal/mole
+ Current Kinetic              6.0537 Kcal/mole
+ Frame Number                     82
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   415000 Dynamics Steps
+
+ Simulation Time             41.5000 Picosecond
+ Total Energy                12.8294 Kcal/mole   (+/-   2.7441)
+ Potential Energy             5.2934 Kcal/mole   (+/-   1.8729)
+ Kinetic Energy               7.5360 Kcal/mole   (+/-   2.0054)
+ Temperature                  280.91 Kelvin      (+/-    74.75)
+
+ Instantaneous Values for Frame Saved at    415000 Dynamics Steps
+
+ Current Time                41.5000 Picosecond
+ Current Potential            6.2587 Kcal/mole
+ Current Kinetic             10.5191 Kcal/mole
+ Frame Number                     83
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   420000 Dynamics Steps
+
+ Simulation Time             42.0000 Picosecond
+ Total Energy                14.1969 Kcal/mole   (+/-   3.3662)
+ Potential Energy             5.9303 Kcal/mole   (+/-   2.2028)
+ Kinetic Energy               8.2666 Kcal/mole   (+/-   2.3433)
+ Temperature                  308.14 Kelvin      (+/-    87.35)
+
+ Instantaneous Values for Frame Saved at    420000 Dynamics Steps
+
+ Current Time                42.0000 Picosecond
+ Current Potential            2.5003 Kcal/mole
+ Current Kinetic              4.8962 Kcal/mole
+ Frame Number                     84
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   425000 Dynamics Steps
+
+ Simulation Time             42.5000 Picosecond
+ Total Energy                12.7485 Kcal/mole   (+/-   2.9418)
+ Potential Energy             5.2036 Kcal/mole   (+/-   1.7713)
+ Kinetic Energy               7.5449 Kcal/mole   (+/-   2.1962)
+ Temperature                  281.24 Kelvin      (+/-    81.87)
+
+ Instantaneous Values for Frame Saved at    425000 Dynamics Steps
+
+ Current Time                42.5000 Picosecond
+ Current Potential            4.0659 Kcal/mole
+ Current Kinetic             10.8988 Kcal/mole
+ Frame Number                     85
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   430000 Dynamics Steps
+
+ Simulation Time             43.0000 Picosecond
+ Total Energy                14.7183 Kcal/mole   (+/-   3.2807)
+ Potential Energy             6.3768 Kcal/mole   (+/-   2.3143)
+ Kinetic Energy               8.3414 Kcal/mole   (+/-   2.3684)
+ Temperature                  310.93 Kelvin      (+/-    88.28)
+
+ Instantaneous Values for Frame Saved at    430000 Dynamics Steps
+
+ Current Time                43.0000 Picosecond
+ Current Potential            7.4203 Kcal/mole
+ Current Kinetic              6.9215 Kcal/mole
+ Frame Number                     86
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   435000 Dynamics Steps
+
+ Simulation Time             43.5000 Picosecond
+ Total Energy                13.9321 Kcal/mole   (+/-   2.7267)
+ Potential Energy             5.8741 Kcal/mole   (+/-   1.7432)
+ Kinetic Energy               8.0580 Kcal/mole   (+/-   2.1996)
+ Temperature                  300.37 Kelvin      (+/-    81.99)
+
+ Instantaneous Values for Frame Saved at    435000 Dynamics Steps
+
+ Current Time                43.5000 Picosecond
+ Current Potential            4.4649 Kcal/mole
+ Current Kinetic              9.2070 Kcal/mole
+ Frame Number                     87
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   440000 Dynamics Steps
+
+ Simulation Time             44.0000 Picosecond
+ Total Energy                14.7656 Kcal/mole   (+/-   3.3424)
+ Potential Energy             6.2968 Kcal/mole   (+/-   2.1006)
+ Kinetic Energy               8.4688 Kcal/mole   (+/-   2.3889)
+ Temperature                  315.68 Kelvin      (+/-    89.05)
+
+ Instantaneous Values for Frame Saved at    440000 Dynamics Steps
+
+ Current Time                44.0000 Picosecond
+ Current Potential            5.5069 Kcal/mole
+ Current Kinetic              5.3209 Kcal/mole
+ Frame Number                     88
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   445000 Dynamics Steps
+
+ Simulation Time             44.5000 Picosecond
+ Total Energy                13.6743 Kcal/mole   (+/-   4.4212)
+ Potential Energy             5.8917 Kcal/mole   (+/-   2.6830)
+ Kinetic Energy               7.7827 Kcal/mole   (+/-   2.6050)
+ Temperature                  290.10 Kelvin      (+/-    97.10)
+
+ Instantaneous Values for Frame Saved at    445000 Dynamics Steps
+
+ Current Time                44.5000 Picosecond
+ Current Potential            4.5801 Kcal/mole
+ Current Kinetic              8.6638 Kcal/mole
+ Frame Number                     89
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   450000 Dynamics Steps
+
+ Simulation Time             45.0000 Picosecond
+ Total Energy                13.4369 Kcal/mole   (+/-   2.6605)
+ Potential Energy             5.7960 Kcal/mole   (+/-   1.7982)
+ Kinetic Energy               7.6409 Kcal/mole   (+/-   1.7946)
+ Temperature                  284.82 Kelvin      (+/-    66.90)
+
+ Instantaneous Values for Frame Saved at    450000 Dynamics Steps
+
+ Current Time                45.0000 Picosecond
+ Current Potential            5.3396 Kcal/mole
+ Current Kinetic              9.1887 Kcal/mole
+ Frame Number                     90
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   455000 Dynamics Steps
+
+ Simulation Time             45.5000 Picosecond
+ Total Energy                14.6615 Kcal/mole   (+/-   3.9366)
+ Potential Energy             6.3525 Kcal/mole   (+/-   2.1781)
+ Kinetic Energy               8.3090 Kcal/mole   (+/-   2.7225)
+ Temperature                  309.72 Kelvin      (+/-   101.48)
+
+ Instantaneous Values for Frame Saved at    455000 Dynamics Steps
+
+ Current Time                45.5000 Picosecond
+ Current Potential            4.5458 Kcal/mole
+ Current Kinetic              7.4352 Kcal/mole
+ Frame Number                     91
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   460000 Dynamics Steps
+
+ Simulation Time             46.0000 Picosecond
+ Total Energy                14.1813 Kcal/mole   (+/-   2.9740)
+ Potential Energy             5.9441 Kcal/mole   (+/-   2.0227)
+ Kinetic Energy               8.2372 Kcal/mole   (+/-   2.1673)
+ Temperature                  307.05 Kelvin      (+/-    80.79)
+
+ Instantaneous Values for Frame Saved at    460000 Dynamics Steps
+
+ Current Time                46.0000 Picosecond
+ Current Potential            5.6949 Kcal/mole
+ Current Kinetic              6.9652 Kcal/mole
+ Frame Number                     92
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   465000 Dynamics Steps
+
+ Simulation Time             46.5000 Picosecond
+ Total Energy                12.8285 Kcal/mole   (+/-   2.8426)
+ Potential Energy             5.4476 Kcal/mole   (+/-   1.7784)
+ Kinetic Energy               7.3809 Kcal/mole   (+/-   2.0333)
+ Temperature                  275.13 Kelvin      (+/-    75.79)
+
+ Instantaneous Values for Frame Saved at    465000 Dynamics Steps
+
+ Current Time                46.5000 Picosecond
+ Current Potential            6.2749 Kcal/mole
+ Current Kinetic              8.6654 Kcal/mole
+ Frame Number                     93
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   470000 Dynamics Steps
+
+ Simulation Time             47.0000 Picosecond
+ Total Energy                12.8527 Kcal/mole   (+/-   2.3395)
+ Potential Energy             5.3801 Kcal/mole   (+/-   1.7153)
+ Kinetic Energy               7.4726 Kcal/mole   (+/-   2.0261)
+ Temperature                  278.55 Kelvin      (+/-    75.52)
+
+ Instantaneous Values for Frame Saved at    470000 Dynamics Steps
+
+ Current Time                47.0000 Picosecond
+ Current Potential           12.9361 Kcal/mole
+ Current Kinetic              5.5156 Kcal/mole
+ Frame Number                     94
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   475000 Dynamics Steps
+
+ Simulation Time             47.5000 Picosecond
+ Total Energy                15.3357 Kcal/mole   (+/-   2.8552)
+ Potential Energy             6.6778 Kcal/mole   (+/-   1.9523)
+ Kinetic Energy               8.6579 Kcal/mole   (+/-   2.2597)
+ Temperature                  322.73 Kelvin      (+/-    84.23)
+
+ Instantaneous Values for Frame Saved at    475000 Dynamics Steps
+
+ Current Time                47.5000 Picosecond
+ Current Potential            7.4091 Kcal/mole
+ Current Kinetic              9.8973 Kcal/mole
+ Frame Number                     95
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   480000 Dynamics Steps
+
+ Simulation Time             48.0000 Picosecond
+ Total Energy                12.8767 Kcal/mole   (+/-   3.1620)
+ Potential Energy             5.2264 Kcal/mole   (+/-   1.9560)
+ Kinetic Energy               7.6502 Kcal/mole   (+/-   2.1745)
+ Temperature                  285.17 Kelvin      (+/-    81.06)
+
+ Instantaneous Values for Frame Saved at    480000 Dynamics Steps
+
+ Current Time                48.0000 Picosecond
+ Current Potential            5.5681 Kcal/mole
+ Current Kinetic              6.7350 Kcal/mole
+ Frame Number                     96
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   485000 Dynamics Steps
+
+ Simulation Time             48.5000 Picosecond
+ Total Energy                14.5470 Kcal/mole   (+/-   3.0587)
+ Potential Energy             6.1855 Kcal/mole   (+/-   1.9823)
+ Kinetic Energy               8.3615 Kcal/mole   (+/-   2.2923)
+ Temperature                  311.68 Kelvin      (+/-    85.45)
+
+ Instantaneous Values for Frame Saved at    485000 Dynamics Steps
+
+ Current Time                48.5000 Picosecond
+ Current Potential            3.3051 Kcal/mole
+ Current Kinetic              6.6896 Kcal/mole
+ Frame Number                     97
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   490000 Dynamics Steps
+
+ Simulation Time             49.0000 Picosecond
+ Total Energy                15.5689 Kcal/mole   (+/-   2.9477)
+ Potential Energy             6.8786 Kcal/mole   (+/-   2.0573)
+ Kinetic Energy               8.6903 Kcal/mole   (+/-   2.2382)
+ Temperature                  323.94 Kelvin      (+/-    83.43)
+
+ Instantaneous Values for Frame Saved at    490000 Dynamics Steps
+
+ Current Time                49.0000 Picosecond
+ Current Potential            7.2560 Kcal/mole
+ Current Kinetic              5.2724 Kcal/mole
+ Frame Number                     98
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   495000 Dynamics Steps
+
+ Simulation Time             49.5000 Picosecond
+ Total Energy                13.6775 Kcal/mole   (+/-   3.0258)
+ Potential Energy             5.8664 Kcal/mole   (+/-   1.8342)
+ Kinetic Energy               7.8111 Kcal/mole   (+/-   2.2708)
+ Temperature                  291.16 Kelvin      (+/-    84.64)
+
+ Instantaneous Values for Frame Saved at    495000 Dynamics Steps
+
+ Current Time                49.5000 Picosecond
+ Current Potential            4.8821 Kcal/mole
+ Current Kinetic              9.1263 Kcal/mole
+ Frame Number                     99
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   500000 Dynamics Steps
+
+ Simulation Time             50.0000 Picosecond
+ Total Energy                15.7795 Kcal/mole   (+/-   2.6271)
+ Potential Energy             7.8005 Kcal/mole   (+/-   1.8488)
+ Kinetic Energy               7.9791 Kcal/mole   (+/-   2.0494)
+ Temperature                  297.42 Kelvin      (+/-    76.39)
+
+ Instantaneous Values for Frame Saved at    500000 Dynamics Steps
+
+ Current Time                50.0000 Picosecond
+ Current Potential           10.7219 Kcal/mole
+ Current Kinetic              7.0285 Kcal/mole
+ Frame Number                    100
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   505000 Dynamics Steps
+
+ Simulation Time             50.5000 Picosecond
+ Total Energy                14.7809 Kcal/mole   (+/-   2.9274)
+ Potential Energy             6.1870 Kcal/mole   (+/-   1.8632)
+ Kinetic Energy               8.5939 Kcal/mole   (+/-   2.2151)
+ Temperature                  320.34 Kelvin      (+/-    82.57)
+
+ Instantaneous Values for Frame Saved at    505000 Dynamics Steps
+
+ Current Time                50.5000 Picosecond
+ Current Potential            4.7807 Kcal/mole
+ Current Kinetic             11.1471 Kcal/mole
+ Frame Number                    101
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   510000 Dynamics Steps
+
+ Simulation Time             51.0000 Picosecond
+ Total Energy                13.6544 Kcal/mole   (+/-   2.5313)
+ Potential Energy             5.5512 Kcal/mole   (+/-   1.6273)
+ Kinetic Energy               8.1032 Kcal/mole   (+/-   1.9880)
+ Temperature                  302.05 Kelvin      (+/-    74.10)
+
+ Instantaneous Values for Frame Saved at    510000 Dynamics Steps
+
+ Current Time                51.0000 Picosecond
+ Current Potential            4.5792 Kcal/mole
+ Current Kinetic             10.9087 Kcal/mole
+ Frame Number                    102
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   515000 Dynamics Steps
+
+ Simulation Time             51.5000 Picosecond
+ Total Energy                13.8581 Kcal/mole   (+/-   2.6299)
+ Potential Energy             5.9049 Kcal/mole   (+/-   1.9132)
+ Kinetic Energy               7.9532 Kcal/mole   (+/-   2.1578)
+ Temperature                  296.46 Kelvin      (+/-    80.43)
+
+ Instantaneous Values for Frame Saved at    515000 Dynamics Steps
+
+ Current Time                51.5000 Picosecond
+ Current Potential            5.6537 Kcal/mole
+ Current Kinetic              8.4226 Kcal/mole
+ Frame Number                    103
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   520000 Dynamics Steps
+
+ Simulation Time             52.0000 Picosecond
+ Total Energy                12.8060 Kcal/mole   (+/-   2.6466)
+ Potential Energy             5.2039 Kcal/mole   (+/-   1.7009)
+ Kinetic Energy               7.6021 Kcal/mole   (+/-   2.1059)
+ Temperature                  283.37 Kelvin      (+/-    78.50)
+
+ Instantaneous Values for Frame Saved at    520000 Dynamics Steps
+
+ Current Time                52.0000 Picosecond
+ Current Potential            3.5545 Kcal/mole
+ Current Kinetic              9.4993 Kcal/mole
+ Frame Number                    104
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   525000 Dynamics Steps
+
+ Simulation Time             52.5000 Picosecond
+ Total Energy                14.6330 Kcal/mole   (+/-   2.8883)
+ Potential Energy             6.3678 Kcal/mole   (+/-   2.3267)
+ Kinetic Energy               8.2653 Kcal/mole   (+/-   2.0681)
+ Temperature                  308.09 Kelvin      (+/-    77.09)
+
+ Instantaneous Values for Frame Saved at    525000 Dynamics Steps
+
+ Current Time                52.5000 Picosecond
+ Current Potential            5.4677 Kcal/mole
+ Current Kinetic              8.3529 Kcal/mole
+ Frame Number                    105
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   530000 Dynamics Steps
+
+ Simulation Time             53.0000 Picosecond
+ Total Energy                13.9890 Kcal/mole   (+/-   2.9191)
+ Potential Energy             5.7501 Kcal/mole   (+/-   1.9772)
+ Kinetic Energy               8.2389 Kcal/mole   (+/-   2.1376)
+ Temperature                  307.11 Kelvin      (+/-    79.68)
+
+ Instantaneous Values for Frame Saved at    530000 Dynamics Steps
+
+ Current Time                53.0000 Picosecond
+ Current Potential            4.5130 Kcal/mole
+ Current Kinetic              3.9376 Kcal/mole
+ Frame Number                    106
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   535000 Dynamics Steps
+
+ Simulation Time             53.5000 Picosecond
+ Total Energy                13.0215 Kcal/mole   (+/-   2.6193)
+ Potential Energy             5.1919 Kcal/mole   (+/-   1.7505)
+ Kinetic Energy               7.8296 Kcal/mole   (+/-   2.0891)
+ Temperature                  291.85 Kelvin      (+/-    77.87)
+
+ Instantaneous Values for Frame Saved at    535000 Dynamics Steps
+
+ Current Time                53.5000 Picosecond
+ Current Potential            4.6508 Kcal/mole
+ Current Kinetic              6.7825 Kcal/mole
+ Frame Number                    107
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   540000 Dynamics Steps
+
+ Simulation Time             54.0000 Picosecond
+ Total Energy                13.9261 Kcal/mole   (+/-   2.3846)
+ Potential Energy             5.7793 Kcal/mole   (+/-   1.6336)
+ Kinetic Energy               8.1468 Kcal/mole   (+/-   1.9322)
+ Temperature                  303.67 Kelvin      (+/-    72.03)
+
+ Instantaneous Values for Frame Saved at    540000 Dynamics Steps
+
+ Current Time                54.0000 Picosecond
+ Current Potential            6.0335 Kcal/mole
+ Current Kinetic              8.0190 Kcal/mole
+ Frame Number                    108
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   545000 Dynamics Steps
+
+ Simulation Time             54.5000 Picosecond
+ Total Energy                13.1581 Kcal/mole   (+/-   2.5091)
+ Potential Energy             5.5559 Kcal/mole   (+/-   1.8289)
+ Kinetic Energy               7.6022 Kcal/mole   (+/-   1.9845)
+ Temperature                  283.37 Kelvin      (+/-    73.97)
+
+ Instantaneous Values for Frame Saved at    545000 Dynamics Steps
+
+ Current Time                54.5000 Picosecond
+ Current Potential            5.3576 Kcal/mole
+ Current Kinetic              5.4209 Kcal/mole
+ Frame Number                    109
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   550000 Dynamics Steps
+
+ Simulation Time             55.0000 Picosecond
+ Total Energy                13.1910 Kcal/mole   (+/-   2.5992)
+ Potential Energy             5.6382 Kcal/mole   (+/-   1.7759)
+ Kinetic Energy               7.5528 Kcal/mole   (+/-   1.8991)
+ Temperature                  281.53 Kelvin      (+/-    70.79)
+
+ Instantaneous Values for Frame Saved at    550000 Dynamics Steps
+
+ Current Time                55.0000 Picosecond
+ Current Potential            4.6979 Kcal/mole
+ Current Kinetic              6.8977 Kcal/mole
+ Frame Number                    110
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   555000 Dynamics Steps
+
+ Simulation Time             55.5000 Picosecond
+ Total Energy                13.5098 Kcal/mole   (+/-   2.7179)
+ Potential Energy             5.5936 Kcal/mole   (+/-   1.7933)
+ Kinetic Energy               7.9162 Kcal/mole   (+/-   2.1824)
+ Temperature                  295.08 Kelvin      (+/-    81.35)
+
+ Instantaneous Values for Frame Saved at    555000 Dynamics Steps
+
+ Current Time                55.5000 Picosecond
+ Current Potential            7.2755 Kcal/mole
+ Current Kinetic             16.2874 Kcal/mole
+ Frame Number                    111
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   560000 Dynamics Steps
+
+ Simulation Time             56.0000 Picosecond
+ Total Energy                13.5765 Kcal/mole   (+/-   2.9175)
+ Potential Energy             5.9090 Kcal/mole   (+/-   2.0287)
+ Kinetic Energy               7.6675 Kcal/mole   (+/-   2.1579)
+ Temperature                  285.81 Kelvin      (+/-    80.44)
+
+ Instantaneous Values for Frame Saved at    560000 Dynamics Steps
+
+ Current Time                56.0000 Picosecond
+ Current Potential            6.4077 Kcal/mole
+ Current Kinetic              4.9382 Kcal/mole
+ Frame Number                    112
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   565000 Dynamics Steps
+
+ Simulation Time             56.5000 Picosecond
+ Total Energy                14.7345 Kcal/mole   (+/-   2.3264)
+ Potential Energy             6.4362 Kcal/mole   (+/-   1.8534)
+ Kinetic Energy               8.2983 Kcal/mole   (+/-   2.0330)
+ Temperature                  309.33 Kelvin      (+/-    75.78)
+
+ Instantaneous Values for Frame Saved at    565000 Dynamics Steps
+
+ Current Time                56.5000 Picosecond
+ Current Potential            6.6817 Kcal/mole
+ Current Kinetic              5.7208 Kcal/mole
+ Frame Number                    113
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   570000 Dynamics Steps
+
+ Simulation Time             57.0000 Picosecond
+ Total Energy                13.5292 Kcal/mole   (+/-   2.8830)
+ Potential Energy             5.7688 Kcal/mole   (+/-   1.7799)
+ Kinetic Energy               7.7604 Kcal/mole   (+/-   2.1700)
+ Temperature                  289.27 Kelvin      (+/-    80.89)
+
+ Instantaneous Values for Frame Saved at    570000 Dynamics Steps
+
+ Current Time                57.0000 Picosecond
+ Current Potential            8.1588 Kcal/mole
+ Current Kinetic              9.8691 Kcal/mole
+ Frame Number                    114
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   575000 Dynamics Steps
+
+ Simulation Time             57.5000 Picosecond
+ Total Energy                14.5330 Kcal/mole   (+/-   3.2389)
+ Potential Energy             6.1489 Kcal/mole   (+/-   2.2385)
+ Kinetic Energy               8.3841 Kcal/mole   (+/-   2.1783)
+ Temperature                  312.52 Kelvin      (+/-    81.20)
+
+ Instantaneous Values for Frame Saved at    575000 Dynamics Steps
+
+ Current Time                57.5000 Picosecond
+ Current Potential            4.1920 Kcal/mole
+ Current Kinetic              8.8663 Kcal/mole
+ Frame Number                    115
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   580000 Dynamics Steps
+
+ Simulation Time             58.0000 Picosecond
+ Total Energy                14.6044 Kcal/mole   (+/-   3.3017)
+ Potential Energy             6.1959 Kcal/mole   (+/-   2.1220)
+ Kinetic Energy               8.4084 Kcal/mole   (+/-   2.5338)
+ Temperature                  313.43 Kelvin      (+/-    94.45)
+
+ Instantaneous Values for Frame Saved at    580000 Dynamics Steps
+
+ Current Time                58.0000 Picosecond
+ Current Potential            5.5492 Kcal/mole
+ Current Kinetic              4.7072 Kcal/mole
+ Frame Number                    116
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   585000 Dynamics Steps
+
+ Simulation Time             58.5000 Picosecond
+ Total Energy                13.5179 Kcal/mole   (+/-   2.2948)
+ Potential Energy             5.6544 Kcal/mole   (+/-   1.6410)
+ Kinetic Energy               7.8635 Kcal/mole   (+/-   1.8620)
+ Temperature                  293.12 Kelvin      (+/-    69.41)
+
+ Instantaneous Values for Frame Saved at    585000 Dynamics Steps
+
+ Current Time                58.5000 Picosecond
+ Current Potential            4.6232 Kcal/mole
+ Current Kinetic              7.3757 Kcal/mole
+ Frame Number                    117
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   590000 Dynamics Steps
+
+ Simulation Time             59.0000 Picosecond
+ Total Energy                13.0761 Kcal/mole   (+/-   2.5538)
+ Potential Energy             5.2356 Kcal/mole   (+/-   1.7095)
+ Kinetic Energy               7.8405 Kcal/mole   (+/-   1.9343)
+ Temperature                  292.26 Kelvin      (+/-    72.10)
+
+ Instantaneous Values for Frame Saved at    590000 Dynamics Steps
+
+ Current Time                59.0000 Picosecond
+ Current Potential            4.7634 Kcal/mole
+ Current Kinetic              7.2738 Kcal/mole
+ Frame Number                    118
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   595000 Dynamics Steps
+
+ Simulation Time             59.5000 Picosecond
+ Total Energy                13.6997 Kcal/mole   (+/-   3.1350)
+ Potential Energy             5.9330 Kcal/mole   (+/-   2.3108)
+ Kinetic Energy               7.7668 Kcal/mole   (+/-   1.8305)
+ Temperature                  289.51 Kelvin      (+/-    68.23)
+
+ Instantaneous Values for Frame Saved at    595000 Dynamics Steps
+
+ Current Time                59.5000 Picosecond
+ Current Potential            8.2170 Kcal/mole
+ Current Kinetic              8.5952 Kcal/mole
+ Frame Number                    119
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   600000 Dynamics Steps
+
+ Simulation Time             60.0000 Picosecond
+ Total Energy                13.3674 Kcal/mole   (+/-   2.7390)
+ Potential Energy             5.3945 Kcal/mole   (+/-   1.6269)
+ Kinetic Energy               7.9728 Kcal/mole   (+/-   2.3218)
+ Temperature                  297.19 Kelvin      (+/-    86.54)
+
+ Instantaneous Values for Frame Saved at    600000 Dynamics Steps
+
+ Current Time                60.0000 Picosecond
+ Current Potential            6.8615 Kcal/mole
+ Current Kinetic              6.8628 Kcal/mole
+ Frame Number                    120
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   605000 Dynamics Steps
+
+ Simulation Time             60.5000 Picosecond
+ Total Energy                13.1627 Kcal/mole   (+/-   2.5056)
+ Potential Energy             5.2175 Kcal/mole   (+/-   1.6865)
+ Kinetic Energy               7.9452 Kcal/mole   (+/-   2.0885)
+ Temperature                  296.16 Kelvin      (+/-    77.85)
+
+ Instantaneous Values for Frame Saved at    605000 Dynamics Steps
+
+ Current Time                60.5000 Picosecond
+ Current Potential            3.1937 Kcal/mole
+ Current Kinetic              9.5397 Kcal/mole
+ Frame Number                    121
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   610000 Dynamics Steps
+
+ Simulation Time             61.0000 Picosecond
+ Total Energy                13.8768 Kcal/mole   (+/-   2.6542)
+ Potential Energy             5.6722 Kcal/mole   (+/-   1.7168)
+ Kinetic Energy               8.2046 Kcal/mole   (+/-   2.1291)
+ Temperature                  305.83 Kelvin      (+/-    79.36)
+
+ Instantaneous Values for Frame Saved at    610000 Dynamics Steps
+
+ Current Time                61.0000 Picosecond
+ Current Potential            3.8572 Kcal/mole
+ Current Kinetic             10.5460 Kcal/mole
+ Frame Number                    122
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   615000 Dynamics Steps
+
+ Simulation Time             61.5000 Picosecond
+ Total Energy                13.7732 Kcal/mole   (+/-   2.7982)
+ Potential Energy             5.7187 Kcal/mole   (+/-   2.0058)
+ Kinetic Energy               8.0544 Kcal/mole   (+/-   2.0200)
+ Temperature                  300.23 Kelvin      (+/-    75.30)
+
+ Instantaneous Values for Frame Saved at    615000 Dynamics Steps
+
+ Current Time                61.5000 Picosecond
+ Current Potential            6.9023 Kcal/mole
+ Current Kinetic             10.4495 Kcal/mole
+ Frame Number                    123
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   620000 Dynamics Steps
+
+ Simulation Time             62.0000 Picosecond
+ Total Energy                14.9449 Kcal/mole   (+/-   3.0059)
+ Potential Energy             6.5606 Kcal/mole   (+/-   2.0324)
+ Kinetic Energy               8.3843 Kcal/mole   (+/-   2.3932)
+ Temperature                  312.53 Kelvin      (+/-    89.21)
+
+ Instantaneous Values for Frame Saved at    620000 Dynamics Steps
+
+ Current Time                62.0000 Picosecond
+ Current Potential            9.7704 Kcal/mole
+ Current Kinetic              6.3942 Kcal/mole
+ Frame Number                    124
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   625000 Dynamics Steps
+
+ Simulation Time             62.5000 Picosecond
+ Total Energy                14.4397 Kcal/mole   (+/-   2.8562)
+ Potential Energy             6.1875 Kcal/mole   (+/-   1.9630)
+ Kinetic Energy               8.2522 Kcal/mole   (+/-   2.3038)
+ Temperature                  307.60 Kelvin      (+/-    85.88)
+
+ Instantaneous Values for Frame Saved at    625000 Dynamics Steps
+
+ Current Time                62.5000 Picosecond
+ Current Potential            4.2456 Kcal/mole
+ Current Kinetic              5.0517 Kcal/mole
+ Frame Number                    125
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   630000 Dynamics Steps
+
+ Simulation Time             63.0000 Picosecond
+ Total Energy                13.1139 Kcal/mole   (+/-   2.8016)
+ Potential Energy             5.2895 Kcal/mole   (+/-   1.9639)
+ Kinetic Energy               7.8244 Kcal/mole   (+/-   2.0284)
+ Temperature                  291.66 Kelvin      (+/-    75.61)
+
+ Instantaneous Values for Frame Saved at    630000 Dynamics Steps
+
+ Current Time                63.0000 Picosecond
+ Current Potential            4.6269 Kcal/mole
+ Current Kinetic              5.1408 Kcal/mole
+ Frame Number                    126
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   635000 Dynamics Steps
+
+ Simulation Time             63.5000 Picosecond
+ Total Energy                13.9382 Kcal/mole   (+/-   2.4462)
+ Potential Energy             5.9300 Kcal/mole   (+/-   1.8929)
+ Kinetic Energy               8.0082 Kcal/mole   (+/-   2.0208)
+ Temperature                  298.51 Kelvin      (+/-    75.33)
+
+ Instantaneous Values for Frame Saved at    635000 Dynamics Steps
+
+ Current Time                63.5000 Picosecond
+ Current Potential            3.7817 Kcal/mole
+ Current Kinetic             11.8737 Kcal/mole
+ Frame Number                    127
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   640000 Dynamics Steps
+
+ Simulation Time             64.0000 Picosecond
+ Total Energy                13.6357 Kcal/mole   (+/-   2.9044)
+ Potential Energy             5.6171 Kcal/mole   (+/-   1.8603)
+ Kinetic Energy               8.0186 Kcal/mole   (+/-   2.1173)
+ Temperature                  298.90 Kelvin      (+/-    78.92)
+
+ Instantaneous Values for Frame Saved at    640000 Dynamics Steps
+
+ Current Time                64.0000 Picosecond
+ Current Potential            5.4073 Kcal/mole
+ Current Kinetic              6.3635 Kcal/mole
+ Frame Number                    128
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   645000 Dynamics Steps
+
+ Simulation Time             64.5000 Picosecond
+ Total Energy                13.8934 Kcal/mole   (+/-   2.8519)
+ Potential Energy             5.8477 Kcal/mole   (+/-   1.8645)
+ Kinetic Energy               8.0457 Kcal/mole   (+/-   2.1670)
+ Temperature                  299.91 Kelvin      (+/-    80.77)
+
+ Instantaneous Values for Frame Saved at    645000 Dynamics Steps
+
+ Current Time                64.5000 Picosecond
+ Current Potential            3.1620 Kcal/mole
+ Current Kinetic              8.0714 Kcal/mole
+ Frame Number                    129
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   650000 Dynamics Steps
+
+ Simulation Time             65.0000 Picosecond
+ Total Energy                14.0086 Kcal/mole   (+/-   2.9574)
+ Potential Energy             5.8826 Kcal/mole   (+/-   2.0310)
+ Kinetic Energy               8.1261 Kcal/mole   (+/-   2.2647)
+ Temperature                  302.90 Kelvin      (+/-    84.42)
+
+ Instantaneous Values for Frame Saved at    650000 Dynamics Steps
+
+ Current Time                65.0000 Picosecond
+ Current Potential            6.3127 Kcal/mole
+ Current Kinetic             10.3840 Kcal/mole
+ Frame Number                    130
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   655000 Dynamics Steps
+
+ Simulation Time             65.5000 Picosecond
+ Total Energy                14.6552 Kcal/mole   (+/-   2.6665)
+ Potential Energy             6.1736 Kcal/mole   (+/-   1.9710)
+ Kinetic Energy               8.4817 Kcal/mole   (+/-   2.0657)
+ Temperature                  316.16 Kelvin      (+/-    77.00)
+
+ Instantaneous Values for Frame Saved at    655000 Dynamics Steps
+
+ Current Time                65.5000 Picosecond
+ Current Potential            6.8995 Kcal/mole
+ Current Kinetic              6.0411 Kcal/mole
+ Frame Number                    131
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   660000 Dynamics Steps
+
+ Simulation Time             66.0000 Picosecond
+ Total Energy                13.9673 Kcal/mole   (+/-   2.6044)
+ Potential Energy             6.1059 Kcal/mole   (+/-   1.8163)
+ Kinetic Energy               7.8614 Kcal/mole   (+/-   2.1566)
+ Temperature                  293.04 Kelvin      (+/-    80.39)
+
+ Instantaneous Values for Frame Saved at    660000 Dynamics Steps
+
+ Current Time                66.0000 Picosecond
+ Current Potential            5.4562 Kcal/mole
+ Current Kinetic             13.2177 Kcal/mole
+ Frame Number                    132
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   665000 Dynamics Steps
+
+ Simulation Time             66.5000 Picosecond
+ Total Energy                15.6244 Kcal/mole   (+/-   3.5171)
+ Potential Energy             6.9409 Kcal/mole   (+/-   2.2045)
+ Kinetic Energy               8.6836 Kcal/mole   (+/-   2.5067)
+ Temperature                  323.68 Kelvin      (+/-    93.44)
+
+ Instantaneous Values for Frame Saved at    665000 Dynamics Steps
+
+ Current Time                66.5000 Picosecond
+ Current Potential            4.6715 Kcal/mole
+ Current Kinetic              7.2469 Kcal/mole
+ Frame Number                    133
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   670000 Dynamics Steps
+
+ Simulation Time             67.0000 Picosecond
+ Total Energy                13.8350 Kcal/mole   (+/-   2.4338)
+ Potential Energy             5.6822 Kcal/mole   (+/-   1.7776)
+ Kinetic Energy               8.1528 Kcal/mole   (+/-   2.1363)
+ Temperature                  303.90 Kelvin      (+/-    79.63)
+
+ Instantaneous Values for Frame Saved at    670000 Dynamics Steps
+
+ Current Time                67.0000 Picosecond
+ Current Potential            5.4117 Kcal/mole
+ Current Kinetic              9.8726 Kcal/mole
+ Frame Number                    134
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   675000 Dynamics Steps
+
+ Simulation Time             67.5000 Picosecond
+ Total Energy                14.1498 Kcal/mole   (+/-   2.5306)
+ Potential Energy             5.8369 Kcal/mole   (+/-   1.9426)
+ Kinetic Energy               8.3128 Kcal/mole   (+/-   2.0183)
+ Temperature                  309.87 Kelvin      (+/-    75.23)
+
+ Instantaneous Values for Frame Saved at    675000 Dynamics Steps
+
+ Current Time                67.5000 Picosecond
+ Current Potential            3.5650 Kcal/mole
+ Current Kinetic              6.2477 Kcal/mole
+ Frame Number                    135
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   680000 Dynamics Steps
+
+ Simulation Time             68.0000 Picosecond
+ Total Energy                12.6179 Kcal/mole   (+/-   2.8192)
+ Potential Energy             5.0334 Kcal/mole   (+/-   1.7075)
+ Kinetic Energy               7.5845 Kcal/mole   (+/-   2.1988)
+ Temperature                  282.72 Kelvin      (+/-    81.96)
+
+ Instantaneous Values for Frame Saved at    680000 Dynamics Steps
+
+ Current Time                68.0000 Picosecond
+ Current Potential            4.7410 Kcal/mole
+ Current Kinetic             13.7020 Kcal/mole
+ Frame Number                    136
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   685000 Dynamics Steps
+
+ Simulation Time             68.5000 Picosecond
+ Total Energy                14.2536 Kcal/mole   (+/-   3.4790)
+ Potential Energy             5.8727 Kcal/mole   (+/-   1.6999)
+ Kinetic Energy               8.3809 Kcal/mole   (+/-   2.6229)
+ Temperature                  312.40 Kelvin      (+/-    97.77)
+
+ Instantaneous Values for Frame Saved at    685000 Dynamics Steps
+
+ Current Time                68.5000 Picosecond
+ Current Potential            7.2256 Kcal/mole
+ Current Kinetic              6.7960 Kcal/mole
+ Frame Number                    137
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   690000 Dynamics Steps
+
+ Simulation Time             69.0000 Picosecond
+ Total Energy                14.3409 Kcal/mole   (+/-   3.0607)
+ Potential Energy             5.9570 Kcal/mole   (+/-   1.9181)
+ Kinetic Energy               8.3839 Kcal/mole   (+/-   2.3276)
+ Temperature                  312.52 Kelvin      (+/-    86.76)
+
+ Instantaneous Values for Frame Saved at    690000 Dynamics Steps
+
+ Current Time                69.0000 Picosecond
+ Current Potential            6.3653 Kcal/mole
+ Current Kinetic              4.1571 Kcal/mole
+ Frame Number                    138
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   695000 Dynamics Steps
+
+ Simulation Time             69.5000 Picosecond
+ Total Energy                13.0168 Kcal/mole   (+/-   2.5785)
+ Potential Energy             5.3080 Kcal/mole   (+/-   1.7087)
+ Kinetic Energy               7.7088 Kcal/mole   (+/-   2.0320)
+ Temperature                  287.35 Kelvin      (+/-    75.74)
+
+ Instantaneous Values for Frame Saved at    695000 Dynamics Steps
+
+ Current Time                69.5000 Picosecond
+ Current Potential            5.1286 Kcal/mole
+ Current Kinetic              5.3653 Kcal/mole
+ Frame Number                    139
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   700000 Dynamics Steps
+
+ Simulation Time             70.0000 Picosecond
+ Total Energy                14.8646 Kcal/mole   (+/-   2.9796)
+ Potential Energy             6.5128 Kcal/mole   (+/-   2.1644)
+ Kinetic Energy               8.3518 Kcal/mole   (+/-   2.0754)
+ Temperature                  311.32 Kelvin      (+/-    77.36)
+
+ Instantaneous Values for Frame Saved at    700000 Dynamics Steps
+
+ Current Time                70.0000 Picosecond
+ Current Potential            4.9638 Kcal/mole
+ Current Kinetic             10.4200 Kcal/mole
+ Frame Number                    140
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   705000 Dynamics Steps
+
+ Simulation Time             70.5000 Picosecond
+ Total Energy                14.5203 Kcal/mole   (+/-   2.4746)
+ Potential Energy             6.2232 Kcal/mole   (+/-   1.9361)
+ Kinetic Energy               8.2972 Kcal/mole   (+/-   2.1850)
+ Temperature                  309.28 Kelvin      (+/-    81.45)
+
+ Instantaneous Values for Frame Saved at    705000 Dynamics Steps
+
+ Current Time                70.5000 Picosecond
+ Current Potential            8.2113 Kcal/mole
+ Current Kinetic              5.8175 Kcal/mole
+ Frame Number                    141
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   710000 Dynamics Steps
+
+ Simulation Time             71.0000 Picosecond
+ Total Energy                15.0913 Kcal/mole   (+/-   3.2793)
+ Potential Energy             6.3778 Kcal/mole   (+/-   2.0259)
+ Kinetic Energy               8.7135 Kcal/mole   (+/-   2.5364)
+ Temperature                  324.80 Kelvin      (+/-    94.55)
+
+ Instantaneous Values for Frame Saved at    710000 Dynamics Steps
+
+ Current Time                71.0000 Picosecond
+ Current Potential            7.0979 Kcal/mole
+ Current Kinetic              9.6937 Kcal/mole
+ Frame Number                    142
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   715000 Dynamics Steps
+
+ Simulation Time             71.5000 Picosecond
+ Total Energy                14.2837 Kcal/mole   (+/-   2.6901)
+ Potential Energy             6.1881 Kcal/mole   (+/-   2.1233)
+ Kinetic Energy               8.0956 Kcal/mole   (+/-   2.0592)
+ Temperature                  301.77 Kelvin      (+/-    76.76)
+
+ Instantaneous Values for Frame Saved at    715000 Dynamics Steps
+
+ Current Time                71.5000 Picosecond
+ Current Potential            3.2778 Kcal/mole
+ Current Kinetic              8.5387 Kcal/mole
+ Frame Number                    143
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   720000 Dynamics Steps
+
+ Simulation Time             72.0000 Picosecond
+ Total Energy                13.7886 Kcal/mole   (+/-   3.0456)
+ Potential Energy             6.0336 Kcal/mole   (+/-   2.0959)
+ Kinetic Energy               7.7549 Kcal/mole   (+/-   2.0396)
+ Temperature                  289.07 Kelvin      (+/-    76.03)
+
+ Instantaneous Values for Frame Saved at    720000 Dynamics Steps
+
+ Current Time                72.0000 Picosecond
+ Current Potential            6.0813 Kcal/mole
+ Current Kinetic             12.3487 Kcal/mole
+ Frame Number                    144
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   725000 Dynamics Steps
+
+ Simulation Time             72.5000 Picosecond
+ Total Energy                14.5255 Kcal/mole   (+/-   3.2934)
+ Potential Energy             6.3943 Kcal/mole   (+/-   2.1367)
+ Kinetic Energy               8.1313 Kcal/mole   (+/-   2.0804)
+ Temperature                  303.10 Kelvin      (+/-    77.55)
+
+ Instantaneous Values for Frame Saved at    725000 Dynamics Steps
+
+ Current Time                72.5000 Picosecond
+ Current Potential            8.0597 Kcal/mole
+ Current Kinetic              6.7066 Kcal/mole
+ Frame Number                    145
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   730000 Dynamics Steps
+
+ Simulation Time             73.0000 Picosecond
+ Total Energy                13.7772 Kcal/mole   (+/-   2.6034)
+ Potential Energy             5.7057 Kcal/mole   (+/-   1.8017)
+ Kinetic Energy               8.0714 Kcal/mole   (+/-   2.1911)
+ Temperature                  300.87 Kelvin      (+/-    81.67)
+
+ Instantaneous Values for Frame Saved at    730000 Dynamics Steps
+
+ Current Time                73.0000 Picosecond
+ Current Potential            8.3954 Kcal/mole
+ Current Kinetic              9.2913 Kcal/mole
+ Frame Number                    146
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   735000 Dynamics Steps
+
+ Simulation Time             73.5000 Picosecond
+ Total Energy                14.9438 Kcal/mole   (+/-   2.4300)
+ Potential Energy             6.6618 Kcal/mole   (+/-   1.7254)
+ Kinetic Energy               8.2821 Kcal/mole   (+/-   2.0551)
+ Temperature                  308.72 Kelvin      (+/-    76.60)
+
+ Instantaneous Values for Frame Saved at    735000 Dynamics Steps
+
+ Current Time                73.5000 Picosecond
+ Current Potential            6.1568 Kcal/mole
+ Current Kinetic              7.2922 Kcal/mole
+ Frame Number                    147
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   740000 Dynamics Steps
+
+ Simulation Time             74.0000 Picosecond
+ Total Energy                14.4833 Kcal/mole   (+/-   3.0818)
+ Potential Energy             6.1419 Kcal/mole   (+/-   1.7216)
+ Kinetic Energy               8.3414 Kcal/mole   (+/-   2.4154)
+ Temperature                  310.93 Kelvin      (+/-    90.03)
+
+ Instantaneous Values for Frame Saved at    740000 Dynamics Steps
+
+ Current Time                74.0000 Picosecond
+ Current Potential            7.2534 Kcal/mole
+ Current Kinetic              8.6842 Kcal/mole
+ Frame Number                    148
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   745000 Dynamics Steps
+
+ Simulation Time             74.5000 Picosecond
+ Total Energy                14.6479 Kcal/mole   (+/-   2.9642)
+ Potential Energy             6.0511 Kcal/mole   (+/-   2.0274)
+ Kinetic Energy               8.5968 Kcal/mole   (+/-   2.3058)
+ Temperature                  320.45 Kelvin      (+/-    85.95)
+
+ Instantaneous Values for Frame Saved at    745000 Dynamics Steps
+
+ Current Time                74.5000 Picosecond
+ Current Potential            7.0244 Kcal/mole
+ Current Kinetic              9.9010 Kcal/mole
+ Frame Number                    149
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   750000 Dynamics Steps
+
+ Simulation Time             75.0000 Picosecond
+ Total Energy                14.2040 Kcal/mole   (+/-   2.5010)
+ Potential Energy             6.2133 Kcal/mole   (+/-   1.8829)
+ Kinetic Energy               7.9907 Kcal/mole   (+/-   2.0023)
+ Temperature                  297.86 Kelvin      (+/-    74.64)
+
+ Instantaneous Values for Frame Saved at    750000 Dynamics Steps
+
+ Current Time                75.0000 Picosecond
+ Current Potential            8.5659 Kcal/mole
+ Current Kinetic              8.3939 Kcal/mole
+ Frame Number                    150
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   755000 Dynamics Steps
+
+ Simulation Time             75.5000 Picosecond
+ Total Energy                13.8496 Kcal/mole   (+/-   2.8075)
+ Potential Energy             6.0282 Kcal/mole   (+/-   1.7070)
+ Kinetic Energy               7.8214 Kcal/mole   (+/-   2.1367)
+ Temperature                  291.55 Kelvin      (+/-    79.65)
+
+ Instantaneous Values for Frame Saved at    755000 Dynamics Steps
+
+ Current Time                75.5000 Picosecond
+ Current Potential            9.3729 Kcal/mole
+ Current Kinetic              4.8254 Kcal/mole
+ Frame Number                    151
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   760000 Dynamics Steps
+
+ Simulation Time             76.0000 Picosecond
+ Total Energy                14.3254 Kcal/mole   (+/-   2.6366)
+ Potential Energy             6.2352 Kcal/mole   (+/-   1.7984)
+ Kinetic Energy               8.0902 Kcal/mole   (+/-   2.0577)
+ Temperature                  301.57 Kelvin      (+/-    76.70)
+
+ Instantaneous Values for Frame Saved at    760000 Dynamics Steps
+
+ Current Time                76.0000 Picosecond
+ Current Potential            6.2414 Kcal/mole
+ Current Kinetic              5.7930 Kcal/mole
+ Frame Number                    152
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   765000 Dynamics Steps
+
+ Simulation Time             76.5000 Picosecond
+ Total Energy                14.2112 Kcal/mole   (+/-   3.1279)
+ Potential Energy             6.1174 Kcal/mole   (+/-   2.2409)
+ Kinetic Energy               8.0938 Kcal/mole   (+/-   2.1347)
+ Temperature                  301.70 Kelvin      (+/-    79.57)
+
+ Instantaneous Values for Frame Saved at    765000 Dynamics Steps
+
+ Current Time                76.5000 Picosecond
+ Current Potential            6.0364 Kcal/mole
+ Current Kinetic              8.9308 Kcal/mole
+ Frame Number                    153
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   770000 Dynamics Steps
+
+ Simulation Time             77.0000 Picosecond
+ Total Energy                13.8245 Kcal/mole   (+/-   3.5955)
+ Potential Energy             5.6867 Kcal/mole   (+/-   2.2058)
+ Kinetic Energy               8.1378 Kcal/mole   (+/-   2.4801)
+ Temperature                  303.34 Kelvin      (+/-    92.45)
+
+ Instantaneous Values for Frame Saved at    770000 Dynamics Steps
+
+ Current Time                77.0000 Picosecond
+ Current Potential            2.9040 Kcal/mole
+ Current Kinetic              6.2123 Kcal/mole
+ Frame Number                    154
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   775000 Dynamics Steps
+
+ Simulation Time             77.5000 Picosecond
+ Total Energy                12.9601 Kcal/mole   (+/-   3.0844)
+ Potential Energy             5.1614 Kcal/mole   (+/-   1.9313)
+ Kinetic Energy               7.7988 Kcal/mole   (+/-   2.2327)
+ Temperature                  290.70 Kelvin      (+/-    83.23)
+
+ Instantaneous Values for Frame Saved at    775000 Dynamics Steps
+
+ Current Time                77.5000 Picosecond
+ Current Potential            7.5899 Kcal/mole
+ Current Kinetic              8.5561 Kcal/mole
+ Frame Number                    155
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   780000 Dynamics Steps
+
+ Simulation Time             78.0000 Picosecond
+ Total Energy                13.9961 Kcal/mole   (+/-   2.4649)
+ Potential Energy             6.0795 Kcal/mole   (+/-   1.7315)
+ Kinetic Energy               7.9166 Kcal/mole   (+/-   2.1211)
+ Temperature                  295.10 Kelvin      (+/-    79.07)
+
+ Instantaneous Values for Frame Saved at    780000 Dynamics Steps
+
+ Current Time                78.0000 Picosecond
+ Current Potential            5.3573 Kcal/mole
+ Current Kinetic              7.8492 Kcal/mole
+ Frame Number                    156
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   785000 Dynamics Steps
+
+ Simulation Time             78.5000 Picosecond
+ Total Energy                12.8438 Kcal/mole   (+/-   3.1989)
+ Potential Energy             5.3671 Kcal/mole   (+/-   1.9253)
+ Kinetic Energy               7.4767 Kcal/mole   (+/-   2.3093)
+ Temperature                  278.70 Kelvin      (+/-    86.08)
+
+ Instantaneous Values for Frame Saved at    785000 Dynamics Steps
+
+ Current Time                78.5000 Picosecond
+ Current Potential            6.6910 Kcal/mole
+ Current Kinetic              8.7666 Kcal/mole
+ Frame Number                    157
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   790000 Dynamics Steps
+
+ Simulation Time             79.0000 Picosecond
+ Total Energy                14.2128 Kcal/mole   (+/-   3.2677)
+ Potential Energy             6.0210 Kcal/mole   (+/-   2.0975)
+ Kinetic Energy               8.1918 Kcal/mole   (+/-   2.4601)
+ Temperature                  305.35 Kelvin      (+/-    91.70)
+
+ Instantaneous Values for Frame Saved at    790000 Dynamics Steps
+
+ Current Time                79.0000 Picosecond
+ Current Potential            6.8894 Kcal/mole
+ Current Kinetic              7.2169 Kcal/mole
+ Frame Number                    158
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   795000 Dynamics Steps
+
+ Simulation Time             79.5000 Picosecond
+ Total Energy                12.8672 Kcal/mole   (+/-   2.2951)
+ Potential Energy             5.2374 Kcal/mole   (+/-   1.7097)
+ Kinetic Energy               7.6298 Kcal/mole   (+/-   1.8892)
+ Temperature                  284.40 Kelvin      (+/-    70.42)
+
+ Instantaneous Values for Frame Saved at    795000 Dynamics Steps
+
+ Current Time                79.5000 Picosecond
+ Current Potential            8.9645 Kcal/mole
+ Current Kinetic             10.0631 Kcal/mole
+ Frame Number                    159
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   800000 Dynamics Steps
+
+ Simulation Time             80.0000 Picosecond
+ Total Energy                13.3290 Kcal/mole   (+/-   2.6710)
+ Potential Energy             5.6893 Kcal/mole   (+/-   1.7338)
+ Kinetic Energy               7.6397 Kcal/mole   (+/-   2.0490)
+ Temperature                  284.77 Kelvin      (+/-    76.38)
+
+ Instantaneous Values for Frame Saved at    800000 Dynamics Steps
+
+ Current Time                80.0000 Picosecond
+ Current Potential            2.1227 Kcal/mole
+ Current Kinetic              4.1305 Kcal/mole
+ Frame Number                    160
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   805000 Dynamics Steps
+
+ Simulation Time             80.5000 Picosecond
+ Total Energy                14.0850 Kcal/mole   (+/-   3.2942)
+ Potential Energy             5.7899 Kcal/mole   (+/-   2.0702)
+ Kinetic Energy               8.2951 Kcal/mole   (+/-   2.3296)
+ Temperature                  309.20 Kelvin      (+/-    86.84)
+
+ Instantaneous Values for Frame Saved at    805000 Dynamics Steps
+
+ Current Time                80.5000 Picosecond
+ Current Potential            4.8752 Kcal/mole
+ Current Kinetic              9.4950 Kcal/mole
+ Frame Number                    161
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   810000 Dynamics Steps
+
+ Simulation Time             81.0000 Picosecond
+ Total Energy                12.5870 Kcal/mole   (+/-   2.2489)
+ Potential Energy             4.9046 Kcal/mole   (+/-   1.7044)
+ Kinetic Energy               7.6823 Kcal/mole   (+/-   1.9813)
+ Temperature                  286.36 Kelvin      (+/-    73.85)
+
+ Instantaneous Values for Frame Saved at    810000 Dynamics Steps
+
+ Current Time                81.0000 Picosecond
+ Current Potential            4.2738 Kcal/mole
+ Current Kinetic              7.5849 Kcal/mole
+ Frame Number                    162
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   815000 Dynamics Steps
+
+ Simulation Time             81.5000 Picosecond
+ Total Energy                13.6137 Kcal/mole   (+/-   3.1190)
+ Potential Energy             5.5244 Kcal/mole   (+/-   1.9286)
+ Kinetic Energy               8.0893 Kcal/mole   (+/-   2.4198)
+ Temperature                  301.53 Kelvin      (+/-    90.20)
+
+ Instantaneous Values for Frame Saved at    815000 Dynamics Steps
+
+ Current Time                81.5000 Picosecond
+ Current Potential            6.0321 Kcal/mole
+ Current Kinetic              7.2731 Kcal/mole
+ Frame Number                    163
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   820000 Dynamics Steps
+
+ Simulation Time             82.0000 Picosecond
+ Total Energy                13.0245 Kcal/mole   (+/-   2.1632)
+ Potential Energy             5.3933 Kcal/mole   (+/-   1.5560)
+ Kinetic Energy               7.6311 Kcal/mole   (+/-   1.9024)
+ Temperature                  284.45 Kelvin      (+/-    70.91)
+
+ Instantaneous Values for Frame Saved at    820000 Dynamics Steps
+
+ Current Time                82.0000 Picosecond
+ Current Potential            4.4071 Kcal/mole
+ Current Kinetic              8.7444 Kcal/mole
+ Frame Number                    164
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   825000 Dynamics Steps
+
+ Simulation Time             82.5000 Picosecond
+ Total Energy                14.3975 Kcal/mole   (+/-   2.8615)
+ Potential Energy             5.9492 Kcal/mole   (+/-   1.8736)
+ Kinetic Energy               8.4482 Kcal/mole   (+/-   2.2021)
+ Temperature                  314.91 Kelvin      (+/-    82.08)
+
+ Instantaneous Values for Frame Saved at    825000 Dynamics Steps
+
+ Current Time                82.5000 Picosecond
+ Current Potential            7.9463 Kcal/mole
+ Current Kinetic              8.8842 Kcal/mole
+ Frame Number                    165
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   830000 Dynamics Steps
+
+ Simulation Time             83.0000 Picosecond
+ Total Energy                13.4445 Kcal/mole   (+/-   2.8329)
+ Potential Energy             5.3527 Kcal/mole   (+/-   1.9511)
+ Kinetic Energy               8.0918 Kcal/mole   (+/-   2.2503)
+ Temperature                  301.63 Kelvin      (+/-    83.88)
+
+ Instantaneous Values for Frame Saved at    830000 Dynamics Steps
+
+ Current Time                83.0000 Picosecond
+ Current Potential            5.7881 Kcal/mole
+ Current Kinetic              5.8502 Kcal/mole
+ Frame Number                    166
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   835000 Dynamics Steps
+
+ Simulation Time             83.5000 Picosecond
+ Total Energy                13.1633 Kcal/mole   (+/-   3.0913)
+ Potential Energy             5.4436 Kcal/mole   (+/-   1.9743)
+ Kinetic Energy               7.7197 Kcal/mole   (+/-   2.0703)
+ Temperature                  287.76 Kelvin      (+/-    77.17)
+
+ Instantaneous Values for Frame Saved at    835000 Dynamics Steps
+
+ Current Time                83.5000 Picosecond
+ Current Potential            6.2544 Kcal/mole
+ Current Kinetic              4.6878 Kcal/mole
+ Frame Number                    167
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   840000 Dynamics Steps
+
+ Simulation Time             84.0000 Picosecond
+ Total Energy                13.0109 Kcal/mole   (+/-   2.6531)
+ Potential Energy             5.2285 Kcal/mole   (+/-   1.6645)
+ Kinetic Energy               7.7824 Kcal/mole   (+/-   2.1456)
+ Temperature                  290.09 Kelvin      (+/-    79.98)
+
+ Instantaneous Values for Frame Saved at    840000 Dynamics Steps
+
+ Current Time                84.0000 Picosecond
+ Current Potential            4.7898 Kcal/mole
+ Current Kinetic             11.4344 Kcal/mole
+ Frame Number                    168
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   845000 Dynamics Steps
+
+ Simulation Time             84.5000 Picosecond
+ Total Energy                13.2600 Kcal/mole   (+/-   2.4752)
+ Potential Energy             5.6323 Kcal/mole   (+/-   1.4684)
+ Kinetic Energy               7.6277 Kcal/mole   (+/-   2.0949)
+ Temperature                  284.33 Kelvin      (+/-    78.09)
+
+ Instantaneous Values for Frame Saved at    845000 Dynamics Steps
+
+ Current Time                84.5000 Picosecond
+ Current Potential            5.8898 Kcal/mole
+ Current Kinetic              7.9059 Kcal/mole
+ Frame Number                    169
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   850000 Dynamics Steps
+
+ Simulation Time             85.0000 Picosecond
+ Total Energy                15.9245 Kcal/mole   (+/-   3.3566)
+ Potential Energy             7.4104 Kcal/mole   (+/-   2.3868)
+ Kinetic Energy               8.5141 Kcal/mole   (+/-   2.1717)
+ Temperature                  317.37 Kelvin      (+/-    80.95)
+
+ Instantaneous Values for Frame Saved at    850000 Dynamics Steps
+
+ Current Time                85.0000 Picosecond
+ Current Potential            5.8945 Kcal/mole
+ Current Kinetic              4.2049 Kcal/mole
+ Frame Number                    170
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   855000 Dynamics Steps
+
+ Simulation Time             85.5000 Picosecond
+ Total Energy                15.1919 Kcal/mole   (+/-   2.5241)
+ Potential Energy             6.5870 Kcal/mole   (+/-   1.9148)
+ Kinetic Energy               8.6049 Kcal/mole   (+/-   2.4510)
+ Temperature                  320.75 Kelvin      (+/-    91.36)
+
+ Instantaneous Values for Frame Saved at    855000 Dynamics Steps
+
+ Current Time                85.5000 Picosecond
+ Current Potential            6.5574 Kcal/mole
+ Current Kinetic              5.7356 Kcal/mole
+ Frame Number                    171
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   860000 Dynamics Steps
+
+ Simulation Time             86.0000 Picosecond
+ Total Energy                12.7842 Kcal/mole   (+/-   2.7084)
+ Potential Energy             5.1730 Kcal/mole   (+/-   1.7828)
+ Kinetic Energy               7.6113 Kcal/mole   (+/-   2.1252)
+ Temperature                  283.71 Kelvin      (+/-    79.22)
+
+ Instantaneous Values for Frame Saved at    860000 Dynamics Steps
+
+ Current Time                86.0000 Picosecond
+ Current Potential            5.4145 Kcal/mole
+ Current Kinetic             10.8803 Kcal/mole
+ Frame Number                    172
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   865000 Dynamics Steps
+
+ Simulation Time             86.5000 Picosecond
+ Total Energy                14.5118 Kcal/mole   (+/-   3.1391)
+ Potential Energy             6.3614 Kcal/mole   (+/-   2.1698)
+ Kinetic Energy               8.1504 Kcal/mole   (+/-   2.4122)
+ Temperature                  303.81 Kelvin      (+/-    89.91)
+
+ Instantaneous Values for Frame Saved at    865000 Dynamics Steps
+
+ Current Time                86.5000 Picosecond
+ Current Potential            5.0224 Kcal/mole
+ Current Kinetic              5.2030 Kcal/mole
+ Frame Number                    173
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   870000 Dynamics Steps
+
+ Simulation Time             87.0000 Picosecond
+ Total Energy                14.9480 Kcal/mole   (+/-   3.1701)
+ Potential Energy             6.4448 Kcal/mole   (+/-   1.9840)
+ Kinetic Energy               8.5032 Kcal/mole   (+/-   2.2914)
+ Temperature                  316.96 Kelvin      (+/-    85.41)
+
+ Instantaneous Values for Frame Saved at    870000 Dynamics Steps
+
+ Current Time                87.0000 Picosecond
+ Current Potential            4.8767 Kcal/mole
+ Current Kinetic              4.4390 Kcal/mole
+ Frame Number                    174
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   875000 Dynamics Steps
+
+ Simulation Time             87.5000 Picosecond
+ Total Energy                13.3059 Kcal/mole   (+/-   2.8837)
+ Potential Energy             5.2909 Kcal/mole   (+/-   1.7701)
+ Kinetic Energy               8.0150 Kcal/mole   (+/-   2.1733)
+ Temperature                  298.76 Kelvin      (+/-    81.01)
+
+ Instantaneous Values for Frame Saved at    875000 Dynamics Steps
+
+ Current Time                87.5000 Picosecond
+ Current Potential            4.6860 Kcal/mole
+ Current Kinetic              7.9377 Kcal/mole
+ Frame Number                    175
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   880000 Dynamics Steps
+
+ Simulation Time             88.0000 Picosecond
+ Total Energy                13.5865 Kcal/mole   (+/-   2.9320)
+ Potential Energy             5.6708 Kcal/mole   (+/-   1.9611)
+ Kinetic Energy               7.9158 Kcal/mole   (+/-   2.1063)
+ Temperature                  295.06 Kelvin      (+/-    78.51)
+
+ Instantaneous Values for Frame Saved at    880000 Dynamics Steps
+
+ Current Time                88.0000 Picosecond
+ Current Potential            5.3357 Kcal/mole
+ Current Kinetic              6.5667 Kcal/mole
+ Frame Number                    176
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   885000 Dynamics Steps
+
+ Simulation Time             88.5000 Picosecond
+ Total Energy                14.7225 Kcal/mole   (+/-   3.0728)
+ Potential Energy             6.1957 Kcal/mole   (+/-   2.0185)
+ Kinetic Energy               8.5268 Kcal/mole   (+/-   2.2909)
+ Temperature                  317.84 Kelvin      (+/-    85.40)
+
+ Instantaneous Values for Frame Saved at    885000 Dynamics Steps
+
+ Current Time                88.5000 Picosecond
+ Current Potential            7.1125 Kcal/mole
+ Current Kinetic              6.9009 Kcal/mole
+ Frame Number                    177
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   890000 Dynamics Steps
+
+ Simulation Time             89.0000 Picosecond
+ Total Energy                13.6243 Kcal/mole   (+/-   2.9281)
+ Potential Energy             5.6314 Kcal/mole   (+/-   1.7810)
+ Kinetic Energy               7.9929 Kcal/mole   (+/-   2.2979)
+ Temperature                  297.94 Kelvin      (+/-    85.66)
+
+ Instantaneous Values for Frame Saved at    890000 Dynamics Steps
+
+ Current Time                89.0000 Picosecond
+ Current Potential            5.5037 Kcal/mole
+ Current Kinetic              5.9432 Kcal/mole
+ Frame Number                    178
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   895000 Dynamics Steps
+
+ Simulation Time             89.5000 Picosecond
+ Total Energy                14.9066 Kcal/mole   (+/-   2.8558)
+ Potential Energy             6.2402 Kcal/mole   (+/-   1.8805)
+ Kinetic Energy               8.6664 Kcal/mole   (+/-   2.3006)
+ Temperature                  323.05 Kelvin      (+/-    85.76)
+
+ Instantaneous Values for Frame Saved at    895000 Dynamics Steps
+
+ Current Time                89.5000 Picosecond
+ Current Potential            2.2413 Kcal/mole
+ Current Kinetic              9.4542 Kcal/mole
+ Frame Number                    179
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   900000 Dynamics Steps
+
+ Simulation Time             90.0000 Picosecond
+ Total Energy                14.3574 Kcal/mole   (+/-   2.8901)
+ Potential Energy             6.5190 Kcal/mole   (+/-   2.0568)
+ Kinetic Energy               7.8384 Kcal/mole   (+/-   2.1300)
+ Temperature                  292.18 Kelvin      (+/-    79.40)
+
+ Instantaneous Values for Frame Saved at    900000 Dynamics Steps
+
+ Current Time                90.0000 Picosecond
+ Current Potential            8.3022 Kcal/mole
+ Current Kinetic              6.8984 Kcal/mole
+ Frame Number                    180
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   905000 Dynamics Steps
+
+ Simulation Time             90.5000 Picosecond
+ Total Energy                13.9038 Kcal/mole   (+/-   3.2053)
+ Potential Energy             6.1804 Kcal/mole   (+/-   2.2985)
+ Kinetic Energy               7.7234 Kcal/mole   (+/-   2.0914)
+ Temperature                  287.89 Kelvin      (+/-    77.96)
+
+ Instantaneous Values for Frame Saved at    905000 Dynamics Steps
+
+ Current Time                90.5000 Picosecond
+ Current Potential            5.9818 Kcal/mole
+ Current Kinetic              7.3920 Kcal/mole
+ Frame Number                    181
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   910000 Dynamics Steps
+
+ Simulation Time             91.0000 Picosecond
+ Total Energy                13.9834 Kcal/mole   (+/-   2.6724)
+ Potential Energy             5.6589 Kcal/mole   (+/-   1.8129)
+ Kinetic Energy               8.3245 Kcal/mole   (+/-   2.2414)
+ Temperature                  310.30 Kelvin      (+/-    83.55)
+
+ Instantaneous Values for Frame Saved at    910000 Dynamics Steps
+
+ Current Time                91.0000 Picosecond
+ Current Potential            3.8579 Kcal/mole
+ Current Kinetic              9.2471 Kcal/mole
+ Frame Number                    182
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   915000 Dynamics Steps
+
+ Simulation Time             91.5000 Picosecond
+ Total Energy                13.6110 Kcal/mole   (+/-   2.4845)
+ Potential Energy             5.5567 Kcal/mole   (+/-   1.8856)
+ Kinetic Energy               8.0542 Kcal/mole   (+/-   1.8288)
+ Temperature                  300.23 Kelvin      (+/-    68.17)
+
+ Instantaneous Values for Frame Saved at    915000 Dynamics Steps
+
+ Current Time                91.5000 Picosecond
+ Current Potential            6.4037 Kcal/mole
+ Current Kinetic             10.1425 Kcal/mole
+ Frame Number                    183
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   920000 Dynamics Steps
+
+ Simulation Time             92.0000 Picosecond
+ Total Energy                14.1199 Kcal/mole   (+/-   2.9206)
+ Potential Energy             5.6873 Kcal/mole   (+/-   1.7041)
+ Kinetic Energy               8.4326 Kcal/mole   (+/-   2.3459)
+ Temperature                  314.33 Kelvin      (+/-    87.44)
+
+ Instantaneous Values for Frame Saved at    920000 Dynamics Steps
+
+ Current Time                92.0000 Picosecond
+ Current Potential            5.7441 Kcal/mole
+ Current Kinetic              8.3780 Kcal/mole
+ Frame Number                    184
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   925000 Dynamics Steps
+
+ Simulation Time             92.5000 Picosecond
+ Total Energy                13.5468 Kcal/mole   (+/-   2.3535)
+ Potential Energy             5.3640 Kcal/mole   (+/-   1.8128)
+ Kinetic Energy               8.1828 Kcal/mole   (+/-   2.0455)
+ Temperature                  305.02 Kelvin      (+/-    76.25)
+
+ Instantaneous Values for Frame Saved at    925000 Dynamics Steps
+
+ Current Time                92.5000 Picosecond
+ Current Potential            3.1836 Kcal/mole
+ Current Kinetic              9.7890 Kcal/mole
+ Frame Number                    185
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   930000 Dynamics Steps
+
+ Simulation Time             93.0000 Picosecond
+ Total Energy                14.2811 Kcal/mole   (+/-   2.5195)
+ Potential Energy             6.3190 Kcal/mole   (+/-   1.9915)
+ Kinetic Energy               7.9621 Kcal/mole   (+/-   2.0400)
+ Temperature                  296.79 Kelvin      (+/-    76.04)
+
+ Instantaneous Values for Frame Saved at    930000 Dynamics Steps
+
+ Current Time                93.0000 Picosecond
+ Current Potential            5.3285 Kcal/mole
+ Current Kinetic             13.4947 Kcal/mole
+ Frame Number                    186
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   935000 Dynamics Steps
+
+ Simulation Time             93.5000 Picosecond
+ Total Energy                13.4862 Kcal/mole   (+/-   2.9516)
+ Potential Energy             5.5251 Kcal/mole   (+/-   1.7076)
+ Kinetic Energy               7.9611 Kcal/mole   (+/-   2.0559)
+ Temperature                  296.75 Kelvin      (+/-    76.63)
+
+ Instantaneous Values for Frame Saved at    935000 Dynamics Steps
+
+ Current Time                93.5000 Picosecond
+ Current Potential            3.7484 Kcal/mole
+ Current Kinetic              9.8289 Kcal/mole
+ Frame Number                    187
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   940000 Dynamics Steps
+
+ Simulation Time             94.0000 Picosecond
+ Total Energy                14.4670 Kcal/mole   (+/-   3.0005)
+ Potential Energy             6.2457 Kcal/mole   (+/-   2.2797)
+ Kinetic Energy               8.2213 Kcal/mole   (+/-   2.1767)
+ Temperature                  306.45 Kelvin      (+/-    81.14)
+
+ Instantaneous Values for Frame Saved at    940000 Dynamics Steps
+
+ Current Time                94.0000 Picosecond
+ Current Potential            3.7288 Kcal/mole
+ Current Kinetic             10.2191 Kcal/mole
+ Frame Number                    188
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   945000 Dynamics Steps
+
+ Simulation Time             94.5000 Picosecond
+ Total Energy                14.8036 Kcal/mole   (+/-   3.0712)
+ Potential Energy             6.2668 Kcal/mole   (+/-   2.1006)
+ Kinetic Energy               8.5368 Kcal/mole   (+/-   2.3545)
+ Temperature                  318.21 Kelvin      (+/-    87.76)
+
+ Instantaneous Values for Frame Saved at    945000 Dynamics Steps
+
+ Current Time                94.5000 Picosecond
+ Current Potential            6.5017 Kcal/mole
+ Current Kinetic              5.8940 Kcal/mole
+ Frame Number                    189
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   950000 Dynamics Steps
+
+ Simulation Time             95.0000 Picosecond
+ Total Energy                13.8324 Kcal/mole   (+/-   2.6651)
+ Potential Energy             6.1459 Kcal/mole   (+/-   1.7667)
+ Kinetic Energy               7.6865 Kcal/mole   (+/-   2.3095)
+ Temperature                  286.52 Kelvin      (+/-    86.09)
+
+ Instantaneous Values for Frame Saved at    950000 Dynamics Steps
+
+ Current Time                95.0000 Picosecond
+ Current Potential            2.0283 Kcal/mole
+ Current Kinetic             10.2418 Kcal/mole
+ Frame Number                    190
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   955000 Dynamics Steps
+
+ Simulation Time             95.5000 Picosecond
+ Total Energy                14.0839 Kcal/mole   (+/-   3.0516)
+ Potential Energy             5.9840 Kcal/mole   (+/-   2.0506)
+ Kinetic Energy               8.0999 Kcal/mole   (+/-   2.0226)
+ Temperature                  301.93 Kelvin      (+/-    75.39)
+
+ Instantaneous Values for Frame Saved at    955000 Dynamics Steps
+
+ Current Time                95.5000 Picosecond
+ Current Potential            7.3826 Kcal/mole
+ Current Kinetic              8.3554 Kcal/mole
+ Frame Number                    191
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   960000 Dynamics Steps
+
+ Simulation Time             96.0000 Picosecond
+ Total Energy                14.6317 Kcal/mole   (+/-   2.6163)
+ Potential Energy             6.4060 Kcal/mole   (+/-   1.7794)
+ Kinetic Energy               8.2256 Kcal/mole   (+/-   2.0936)
+ Temperature                  306.62 Kelvin      (+/-    78.04)
+
+ Instantaneous Values for Frame Saved at    960000 Dynamics Steps
+
+ Current Time                96.0000 Picosecond
+ Current Potential            7.8318 Kcal/mole
+ Current Kinetic              8.8842 Kcal/mole
+ Frame Number                    192
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   965000 Dynamics Steps
+
+ Simulation Time             96.5000 Picosecond
+ Total Energy                15.2178 Kcal/mole   (+/-   3.0791)
+ Potential Energy             6.8206 Kcal/mole   (+/-   2.0194)
+ Kinetic Energy               8.3971 Kcal/mole   (+/-   2.2305)
+ Temperature                  313.01 Kelvin      (+/-    83.14)
+
+ Instantaneous Values for Frame Saved at    965000 Dynamics Steps
+
+ Current Time                96.5000 Picosecond
+ Current Potential            4.6107 Kcal/mole
+ Current Kinetic              6.7950 Kcal/mole
+ Frame Number                    193
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   970000 Dynamics Steps
+
+ Simulation Time             97.0000 Picosecond
+ Total Energy                14.4578 Kcal/mole   (+/-   2.9974)
+ Potential Energy             6.3315 Kcal/mole   (+/-   1.9961)
+ Kinetic Energy               8.1263 Kcal/mole   (+/-   2.0320)
+ Temperature                  302.91 Kelvin      (+/-    75.74)
+
+ Instantaneous Values for Frame Saved at    970000 Dynamics Steps
+
+ Current Time                97.0000 Picosecond
+ Current Potential            8.6893 Kcal/mole
+ Current Kinetic             10.2631 Kcal/mole
+ Frame Number                    194
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   975000 Dynamics Steps
+
+ Simulation Time             97.5000 Picosecond
+ Total Energy                14.5133 Kcal/mole   (+/-   2.9492)
+ Potential Energy             6.3640 Kcal/mole   (+/-   1.8983)
+ Kinetic Energy               8.1493 Kcal/mole   (+/-   2.2483)
+ Temperature                  303.77 Kelvin      (+/-    83.81)
+
+ Instantaneous Values for Frame Saved at    975000 Dynamics Steps
+
+ Current Time                97.5000 Picosecond
+ Current Potential            9.8054 Kcal/mole
+ Current Kinetic              8.3977 Kcal/mole
+ Frame Number                    195
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   980000 Dynamics Steps
+
+ Simulation Time             98.0000 Picosecond
+ Total Energy                15.1415 Kcal/mole   (+/-   2.4633)
+ Potential Energy             6.6947 Kcal/mole   (+/-   1.9549)
+ Kinetic Energy               8.4469 Kcal/mole   (+/-   2.1594)
+ Temperature                  314.86 Kelvin      (+/-    80.49)
+
+ Instantaneous Values for Frame Saved at    980000 Dynamics Steps
+
+ Current Time                98.0000 Picosecond
+ Current Potential            7.5158 Kcal/mole
+ Current Kinetic              9.1138 Kcal/mole
+ Frame Number                    196
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   985000 Dynamics Steps
+
+ Simulation Time             98.5000 Picosecond
+ Total Energy                15.0862 Kcal/mole   (+/-   2.7496)
+ Potential Energy             6.6948 Kcal/mole   (+/-   1.8365)
+ Kinetic Energy               8.3914 Kcal/mole   (+/-   2.0027)
+ Temperature                  312.79 Kelvin      (+/-    74.65)
+
+ Instantaneous Values for Frame Saved at    985000 Dynamics Steps
+
+ Current Time                98.5000 Picosecond
+ Current Potential            7.7228 Kcal/mole
+ Current Kinetic              6.6915 Kcal/mole
+ Frame Number                    197
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   990000 Dynamics Steps
+
+ Simulation Time             99.0000 Picosecond
+ Total Energy                13.9362 Kcal/mole   (+/-   2.8220)
+ Potential Energy             6.3519 Kcal/mole   (+/-   1.6298)
+ Kinetic Energy               7.5842 Kcal/mole   (+/-   2.2117)
+ Temperature                  282.71 Kelvin      (+/-    82.44)
+
+ Instantaneous Values for Frame Saved at    990000 Dynamics Steps
+
+ Current Time                99.0000 Picosecond
+ Current Potential            5.1606 Kcal/mole
+ Current Kinetic             10.4718 Kcal/mole
+ Frame Number                    198
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   995000 Dynamics Steps
+
+ Simulation Time             99.5000 Picosecond
+ Total Energy                14.8928 Kcal/mole   (+/-   2.9316)
+ Potential Energy             6.6825 Kcal/mole   (+/-   2.1770)
+ Kinetic Energy               8.2104 Kcal/mole   (+/-   2.0434)
+ Temperature                  306.05 Kelvin      (+/-    76.17)
+
+ Instantaneous Values for Frame Saved at    995000 Dynamics Steps
+
+ Current Time                99.5000 Picosecond
+ Current Potential            4.0820 Kcal/mole
+ Current Kinetic              8.3281 Kcal/mole
+ Frame Number                    199
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of  1000000 Dynamics Steps
+
+ Simulation Time            100.0000 Picosecond
+ Total Energy                13.8852 Kcal/mole   (+/-   3.8368)
+ Potential Energy             5.7688 Kcal/mole   (+/-   2.3691)
+ Kinetic Energy               8.1164 Kcal/mole   (+/-   2.5656)
+ Temperature                  302.54 Kelvin      (+/-    95.63)
+
+ Instantaneous Values for Frame Saved at   1000000 Dynamics Steps
+
+ Current Time               100.0000 Picosecond
+ Current Potential            1.8256 Kcal/mole
+ Current Kinetic              9.8414 Kcal/mole
+ Frame Number                    200
+ Coordinate File            ethanol_run.arc

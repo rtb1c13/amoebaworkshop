@@ -1,0 +1,4019 @@
+
+     ######################################################################
+   ##########################################################################
+  ###                                                                      ###
+ ###            TINKER  ---  Software Tools for Molecular Design            ###
+ ##                                                                          ##
+ ##                        Version 8.0   October 2016                        ##
+ ##                                                                          ##
+ ##               Copyright (c)  Jay William Ponder  1990-2016               ##
+ ###                           All Rights Reserved                          ###
+  ###                                                                      ###
+   ##########################################################################
+     ######################################################################
+
+
+ Free Energy Perturbation :          1.000 Lambda for van der Waals
+ Free Energy Perturbation :          0.400 Lambda for Electrostatics
+
+ Molecular Dynamics Trajectory via Velocity Verlet Algorithm
+
+ Average Values for the Last  5000 Out of     5000 Dynamics Steps
+
+ Simulation Time              5.0000 Picosecond
+ Total Energy             -3089.7104 Kcal/mole   (+/-  22.2954)
+ Potential Energy         -4420.0189 Kcal/mole   (+/-  26.4662)
+ Kinetic Energy            1330.3085 Kcal/mole   (+/-  24.0739)
+ Temperature                  298.12 Kelvin      (+/-     5.40)
+ Pressure                      25.44 Atmosphere  (+/-  1362.27)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at      5000 Dynamics Steps
+
+ Current Time                 5.0000 Picosecond
+ Current Potential        -4425.6508 Kcal/mole
+ Current Kinetic           1329.2799 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                      1
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of    10000 Dynamics Steps
+
+ Simulation Time             10.0000 Picosecond
+ Total Energy             -3083.2811 Kcal/mole   (+/-  37.9074)
+ Potential Energy         -4408.5192 Kcal/mole   (+/-  37.4905)
+ Kinetic Energy            1325.2381 Kcal/mole   (+/-  22.7854)
+ Temperature                  296.99 Kelvin      (+/-     5.11)
+ Pressure                      12.14 Atmosphere  (+/-  1106.69)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at     10000 Dynamics Steps
+
+ Current Time                10.0000 Picosecond
+ Current Potential        -4347.9237 Kcal/mole
+ Current Kinetic           1334.5122 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                      2
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of    15000 Dynamics Steps
+
+ Simulation Time             15.0000 Picosecond
+ Total Energy             -3021.8160 Kcal/mole   (+/-  28.2149)
+ Potential Energy         -4369.4850 Kcal/mole   (+/-  29.2121)
+ Kinetic Energy            1347.6691 Kcal/mole   (+/-  23.1392)
+ Temperature                  302.01 Kelvin      (+/-     5.19)
+ Pressure                     -91.68 Atmosphere  (+/-  1084.31)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at     15000 Dynamics Steps
+
+ Current Time                15.0000 Picosecond
+ Current Potential        -4394.2343 Kcal/mole
+ Current Kinetic           1313.2246 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                      3
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of    20000 Dynamics Steps
+
+ Simulation Time             20.0000 Picosecond
+ Total Energy             -3048.8983 Kcal/mole   (+/-  22.4080)
+ Potential Energy         -4384.2517 Kcal/mole   (+/-  27.3074)
+ Kinetic Energy            1335.3535 Kcal/mole   (+/-  24.7774)
+ Temperature                  299.25 Kelvin      (+/-     5.55)
+ Pressure                     -71.14 Atmosphere  (+/-  1353.07)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at     20000 Dynamics Steps
+
+ Current Time                20.0000 Picosecond
+ Current Potential        -4389.2210 Kcal/mole
+ Current Kinetic           1322.6270 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                      4
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of    25000 Dynamics Steps
+
+ Simulation Time             25.0000 Picosecond
+ Total Energy             -3046.4509 Kcal/mole   (+/-  34.2824)
+ Potential Energy         -4392.6312 Kcal/mole   (+/-  31.6040)
+ Kinetic Energy            1346.1804 Kcal/mole   (+/-  24.4705)
+ Temperature                  301.68 Kelvin      (+/-     5.48)
+ Pressure                      -5.57 Atmosphere  (+/-  1379.44)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at     25000 Dynamics Steps
+
+ Current Time                25.0000 Picosecond
+ Current Potential        -4435.4771 Kcal/mole
+ Current Kinetic           1330.0681 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                      5
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of    30000 Dynamics Steps
+
+ Simulation Time             30.0000 Picosecond
+ Total Energy             -3047.5718 Kcal/mole   (+/-  24.5677)
+ Potential Energy         -4387.5834 Kcal/mole   (+/-  28.5711)
+ Kinetic Energy            1340.0117 Kcal/mole   (+/-  24.0507)
+ Temperature                  300.30 Kelvin      (+/-     5.39)
+ Pressure                     -35.03 Atmosphere  (+/-  1434.06)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at     30000 Dynamics Steps
+
+ Current Time                30.0000 Picosecond
+ Current Potential        -4362.9052 Kcal/mole
+ Current Kinetic           1313.9187 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                      6
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of    35000 Dynamics Steps
+
+ Simulation Time             35.0000 Picosecond
+ Total Energy             -3028.0836 Kcal/mole   (+/-  23.6295)
+ Potential Energy         -4383.1718 Kcal/mole   (+/-  25.1033)
+ Kinetic Energy            1355.0882 Kcal/mole   (+/-  28.9517)
+ Temperature                  303.68 Kelvin      (+/-     6.49)
+ Pressure                     165.21 Atmosphere  (+/-  1482.03)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at     35000 Dynamics Steps
+
+ Current Time                35.0000 Picosecond
+ Current Potential        -4371.5534 Kcal/mole
+ Current Kinetic           1330.3001 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                      7
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of    40000 Dynamics Steps
+
+ Simulation Time             40.0000 Picosecond
+ Total Energy             -3040.0005 Kcal/mole   (+/-  14.0932)
+ Potential Energy         -4378.8748 Kcal/mole   (+/-  24.5107)
+ Kinetic Energy            1338.8743 Kcal/mole   (+/-  22.6688)
+ Temperature                  300.04 Kelvin      (+/-     5.08)
+ Pressure                     121.25 Atmosphere  (+/-  1062.55)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at     40000 Dynamics Steps
+
+ Current Time                40.0000 Picosecond
+ Current Potential        -4412.2173 Kcal/mole
+ Current Kinetic           1356.9251 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                      8
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of    45000 Dynamics Steps
+
+ Simulation Time             45.0000 Picosecond
+ Total Energy             -3135.3070 Kcal/mole   (+/-  52.6901)
+ Potential Energy         -4454.9932 Kcal/mole   (+/-  51.1733)
+ Kinetic Energy            1319.6861 Kcal/mole   (+/-  23.3800)
+ Temperature                  295.74 Kelvin      (+/-     5.24)
+ Pressure                     112.73 Atmosphere  (+/-  1136.30)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at     45000 Dynamics Steps
+
+ Current Time                45.0000 Picosecond
+ Current Potential        -4515.9345 Kcal/mole
+ Current Kinetic           1333.5117 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                      9
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of    50000 Dynamics Steps
+
+ Simulation Time             50.0000 Picosecond
+ Total Energy             -3152.3063 Kcal/mole   (+/-  26.7421)
+ Potential Energy         -4472.5603 Kcal/mole   (+/-  31.2482)
+ Kinetic Energy            1320.2541 Kcal/mole   (+/-  23.2624)
+ Temperature                  295.87 Kelvin      (+/-     5.21)
+ Pressure                       0.25 Atmosphere  (+/-  1268.14)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at     50000 Dynamics Steps
+
+ Current Time                50.0000 Picosecond
+ Current Potential        -4459.1099 Kcal/mole
+ Current Kinetic           1322.7896 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     10
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of    55000 Dynamics Steps
+
+ Simulation Time             55.0000 Picosecond
+ Total Energy             -3121.5509 Kcal/mole   (+/-  21.1229)
+ Potential Energy         -4443.3228 Kcal/mole   (+/-  25.0820)
+ Kinetic Energy            1321.7719 Kcal/mole   (+/-  22.9949)
+ Temperature                  296.21 Kelvin      (+/-     5.15)
+ Pressure                     -90.35 Atmosphere  (+/-  1423.84)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at     55000 Dynamics Steps
+
+ Current Time                55.0000 Picosecond
+ Current Potential        -4447.8958 Kcal/mole
+ Current Kinetic           1348.9476 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     11
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of    60000 Dynamics Steps
+
+ Simulation Time             60.0000 Picosecond
+ Total Energy             -3112.2481 Kcal/mole   (+/-  16.0286)
+ Potential Energy         -4443.3741 Kcal/mole   (+/-  24.9376)
+ Kinetic Energy            1331.1260 Kcal/mole   (+/-  23.0574)
+ Temperature                  298.31 Kelvin      (+/-     5.17)
+ Pressure                     -23.96 Atmosphere  (+/-  1269.20)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at     60000 Dynamics Steps
+
+ Current Time                60.0000 Picosecond
+ Current Potential        -4437.8301 Kcal/mole
+ Current Kinetic           1341.0538 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     12
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of    65000 Dynamics Steps
+
+ Simulation Time             65.0000 Picosecond
+ Total Energy             -3105.2556 Kcal/mole   (+/-  25.3552)
+ Potential Energy         -4436.2850 Kcal/mole   (+/-  26.2775)
+ Kinetic Energy            1331.0294 Kcal/mole   (+/-  24.3023)
+ Temperature                  298.29 Kelvin      (+/-     5.45)
+ Pressure                    -184.98 Atmosphere  (+/-  1431.16)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at     65000 Dynamics Steps
+
+ Current Time                65.0000 Picosecond
+ Current Potential        -4420.8613 Kcal/mole
+ Current Kinetic           1319.9820 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     13
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of    70000 Dynamics Steps
+
+ Simulation Time             70.0000 Picosecond
+ Total Energy             -3094.7290 Kcal/mole   (+/-  24.1726)
+ Potential Energy         -4428.3818 Kcal/mole   (+/-  30.2694)
+ Kinetic Energy            1333.6528 Kcal/mole   (+/-  22.5804)
+ Temperature                  298.87 Kelvin      (+/-     5.06)
+ Pressure                     -39.12 Atmosphere  (+/-  1283.86)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at     70000 Dynamics Steps
+
+ Current Time                70.0000 Picosecond
+ Current Potential        -4422.3385 Kcal/mole
+ Current Kinetic           1372.3491 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     14
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of    75000 Dynamics Steps
+
+ Simulation Time             75.0000 Picosecond
+ Total Energy             -3086.4920 Kcal/mole   (+/-  22.3843)
+ Potential Energy         -4417.6378 Kcal/mole   (+/-  25.9551)
+ Kinetic Energy            1331.1459 Kcal/mole   (+/-  23.2952)
+ Temperature                  298.31 Kelvin      (+/-     5.22)
+ Pressure                    -148.25 Atmosphere  (+/-  1120.68)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at     75000 Dynamics Steps
+
+ Current Time                75.0000 Picosecond
+ Current Potential        -4437.9105 Kcal/mole
+ Current Kinetic           1335.5155 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     15
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of    80000 Dynamics Steps
+
+ Simulation Time             80.0000 Picosecond
+ Total Energy             -3094.4719 Kcal/mole   (+/-  30.8213)
+ Potential Energy         -4422.0299 Kcal/mole   (+/-  27.4037)
+ Kinetic Energy            1327.5580 Kcal/mole   (+/-  26.4915)
+ Temperature                  297.51 Kelvin      (+/-     5.94)
+ Pressure                     -13.31 Atmosphere  (+/-  1115.47)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at     80000 Dynamics Steps
+
+ Current Time                80.0000 Picosecond
+ Current Potential        -4392.2761 Kcal/mole
+ Current Kinetic           1325.1001 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     16
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of    85000 Dynamics Steps
+
+ Simulation Time             85.0000 Picosecond
+ Total Energy             -3037.9819 Kcal/mole   (+/-  37.1965)
+ Potential Energy         -4386.1375 Kcal/mole   (+/-  34.1508)
+ Kinetic Energy            1348.1556 Kcal/mole   (+/-  24.9899)
+ Temperature                  302.12 Kelvin      (+/-     5.60)
+ Pressure                     -26.24 Atmosphere  (+/-  1376.27)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at     85000 Dynamics Steps
+
+ Current Time                85.0000 Picosecond
+ Current Potential        -4341.2866 Kcal/mole
+ Current Kinetic           1336.2869 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     17
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of    90000 Dynamics Steps
+
+ Simulation Time             90.0000 Picosecond
+ Total Energy             -3020.0955 Kcal/mole   (+/-  40.4590)
+ Potential Energy         -4372.7413 Kcal/mole   (+/-  35.5635)
+ Kinetic Energy            1352.6458 Kcal/mole   (+/-  25.9198)
+ Temperature                  303.13 Kelvin      (+/-     5.81)
+ Pressure                     170.55 Atmosphere  (+/-  1236.80)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at     90000 Dynamics Steps
+
+ Current Time                90.0000 Picosecond
+ Current Potential        -4415.2256 Kcal/mole
+ Current Kinetic           1301.5783 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     18
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of    95000 Dynamics Steps
+
+ Simulation Time             95.0000 Picosecond
+ Total Energy             -3111.0655 Kcal/mole   (+/-  30.7222)
+ Potential Energy         -4444.4276 Kcal/mole   (+/-  30.1404)
+ Kinetic Energy            1333.3621 Kcal/mole   (+/-  25.1234)
+ Temperature                  298.81 Kelvin      (+/-     5.63)
+ Pressure                    -140.56 Atmosphere  (+/-  1214.95)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at     95000 Dynamics Steps
+
+ Current Time                95.0000 Picosecond
+ Current Potential        -4472.0685 Kcal/mole
+ Current Kinetic           1353.9295 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     19
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   100000 Dynamics Steps
+
+ Simulation Time            100.0000 Picosecond
+ Total Energy             -3125.2887 Kcal/mole   (+/-  28.2395)
+ Potential Energy         -4457.7200 Kcal/mole   (+/-  27.6687)
+ Kinetic Energy            1332.4313 Kcal/mole   (+/-  25.3339)
+ Temperature                  298.60 Kelvin      (+/-     5.68)
+ Pressure                     -31.55 Atmosphere  (+/-  1215.94)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    100000 Dynamics Steps
+
+ Current Time               100.0000 Picosecond
+ Current Potential        -4484.0716 Kcal/mole
+ Current Kinetic           1329.2856 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     20
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   105000 Dynamics Steps
+
+ Simulation Time            105.0000 Picosecond
+ Total Energy             -3050.2341 Kcal/mole   (+/-  43.6947)
+ Potential Energy         -4387.8635 Kcal/mole   (+/-  42.7055)
+ Kinetic Energy            1337.6295 Kcal/mole   (+/-  26.9576)
+ Temperature                  299.76 Kelvin      (+/-     6.04)
+ Pressure                      32.55 Atmosphere  (+/-  1150.54)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    105000 Dynamics Steps
+
+ Current Time               105.0000 Picosecond
+ Current Potential        -4369.4967 Kcal/mole
+ Current Kinetic           1358.1174 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     21
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   110000 Dynamics Steps
+
+ Simulation Time            110.0000 Picosecond
+ Total Energy             -3030.9369 Kcal/mole   (+/-  30.8451)
+ Potential Energy         -4372.6467 Kcal/mole   (+/-  31.1552)
+ Kinetic Energy            1341.7098 Kcal/mole   (+/-  24.9903)
+ Temperature                  300.68 Kelvin      (+/-     5.60)
+ Pressure                    -217.22 Atmosphere  (+/-  1375.23)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    110000 Dynamics Steps
+
+ Current Time               110.0000 Picosecond
+ Current Potential        -4409.8576 Kcal/mole
+ Current Kinetic           1325.3465 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     22
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   115000 Dynamics Steps
+
+ Simulation Time            115.0000 Picosecond
+ Total Energy             -3084.6153 Kcal/mole   (+/-  23.3115)
+ Potential Energy         -4415.2162 Kcal/mole   (+/-  27.0235)
+ Kinetic Energy            1330.6009 Kcal/mole   (+/-  25.0906)
+ Temperature                  298.19 Kelvin      (+/-     5.62)
+ Pressure                     252.11 Atmosphere  (+/-  1276.40)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    115000 Dynamics Steps
+
+ Current Time               115.0000 Picosecond
+ Current Potential        -4380.5618 Kcal/mole
+ Current Kinetic           1323.8318 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     23
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   120000 Dynamics Steps
+
+ Simulation Time            120.0000 Picosecond
+ Total Energy             -3104.5806 Kcal/mole   (+/-  40.7349)
+ Potential Energy         -4435.3930 Kcal/mole   (+/-  39.8883)
+ Kinetic Energy            1330.8124 Kcal/mole   (+/-  22.3207)
+ Temperature                  298.24 Kelvin      (+/-     5.00)
+ Pressure                     127.83 Atmosphere  (+/-  1122.52)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    120000 Dynamics Steps
+
+ Current Time               120.0000 Picosecond
+ Current Potential        -4495.2427 Kcal/mole
+ Current Kinetic           1348.1259 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     24
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   125000 Dynamics Steps
+
+ Simulation Time            125.0000 Picosecond
+ Total Energy             -3067.2109 Kcal/mole   (+/-  35.0551)
+ Potential Energy         -4403.1199 Kcal/mole   (+/-  35.2992)
+ Kinetic Energy            1335.9090 Kcal/mole   (+/-  24.3149)
+ Temperature                  299.38 Kelvin      (+/-     5.45)
+ Pressure                     -52.61 Atmosphere  (+/-  1325.27)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    125000 Dynamics Steps
+
+ Current Time               125.0000 Picosecond
+ Current Potential        -4370.6737 Kcal/mole
+ Current Kinetic           1297.8863 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     25
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   130000 Dynamics Steps
+
+ Simulation Time            130.0000 Picosecond
+ Total Energy             -3093.5509 Kcal/mole   (+/-  42.9938)
+ Potential Energy         -4414.3617 Kcal/mole   (+/-  38.6315)
+ Kinetic Energy            1320.8108 Kcal/mole   (+/-  24.5392)
+ Temperature                  296.00 Kelvin      (+/-     5.50)
+ Pressure                    -128.37 Atmosphere  (+/-  1302.20)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    130000 Dynamics Steps
+
+ Current Time               130.0000 Picosecond
+ Current Potential        -4341.7191 Kcal/mole
+ Current Kinetic           1343.0442 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     26
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   135000 Dynamics Steps
+
+ Simulation Time            135.0000 Picosecond
+ Total Energy             -3014.9746 Kcal/mole   (+/-  24.0480)
+ Potential Energy         -4358.7532 Kcal/mole   (+/-  30.8181)
+ Kinetic Energy            1343.7786 Kcal/mole   (+/-  27.9254)
+ Temperature                  301.14 Kelvin      (+/-     6.26)
+ Pressure                    -291.93 Atmosphere  (+/-  1287.82)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    135000 Dynamics Steps
+
+ Current Time               135.0000 Picosecond
+ Current Potential        -4426.1657 Kcal/mole
+ Current Kinetic           1360.0836 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     27
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   140000 Dynamics Steps
+
+ Simulation Time            140.0000 Picosecond
+ Total Energy             -3041.4458 Kcal/mole   (+/-  25.4566)
+ Potential Energy         -4390.0084 Kcal/mole   (+/-  26.3829)
+ Kinetic Energy            1348.5627 Kcal/mole   (+/-  24.3722)
+ Temperature                  302.21 Kelvin      (+/-     5.46)
+ Pressure                     210.41 Atmosphere  (+/-  1436.50)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    140000 Dynamics Steps
+
+ Current Time               140.0000 Picosecond
+ Current Potential        -4398.9293 Kcal/mole
+ Current Kinetic           1315.5435 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     28
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   145000 Dynamics Steps
+
+ Simulation Time            145.0000 Picosecond
+ Total Energy             -3030.3610 Kcal/mole   (+/-  20.9605)
+ Potential Energy         -4376.3052 Kcal/mole   (+/-  27.0233)
+ Kinetic Energy            1345.9441 Kcal/mole   (+/-  23.3037)
+ Temperature                  301.63 Kelvin      (+/-     5.22)
+ Pressure                     119.42 Atmosphere  (+/-  1480.97)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    145000 Dynamics Steps
+
+ Current Time               145.0000 Picosecond
+ Current Potential        -4362.0161 Kcal/mole
+ Current Kinetic           1352.9540 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     29
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   150000 Dynamics Steps
+
+ Simulation Time            150.0000 Picosecond
+ Total Energy             -3067.7676 Kcal/mole   (+/-  21.8632)
+ Potential Energy         -4408.7623 Kcal/mole   (+/-  27.5277)
+ Kinetic Energy            1340.9947 Kcal/mole   (+/-  23.7190)
+ Temperature                  300.52 Kelvin      (+/-     5.32)
+ Pressure                     -87.43 Atmosphere  (+/-  1415.70)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    150000 Dynamics Steps
+
+ Current Time               150.0000 Picosecond
+ Current Potential        -4385.3500 Kcal/mole
+ Current Kinetic           1320.1713 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     30
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   155000 Dynamics Steps
+
+ Simulation Time            155.0000 Picosecond
+ Total Energy             -3097.2733 Kcal/mole   (+/-  14.0907)
+ Potential Energy         -4422.8990 Kcal/mole   (+/-  22.9609)
+ Kinetic Energy            1325.6257 Kcal/mole   (+/-  24.1326)
+ Temperature                  297.07 Kelvin      (+/-     5.41)
+ Pressure                     -94.74 Atmosphere  (+/-  1341.57)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    155000 Dynamics Steps
+
+ Current Time               155.0000 Picosecond
+ Current Potential        -4409.1326 Kcal/mole
+ Current Kinetic           1333.1126 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     31
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   160000 Dynamics Steps
+
+ Simulation Time            160.0000 Picosecond
+ Total Energy             -2980.2666 Kcal/mole   (+/-  57.7868)
+ Potential Energy         -4347.2973 Kcal/mole   (+/-  44.4927)
+ Kinetic Energy            1367.0306 Kcal/mole   (+/-  30.3468)
+ Temperature                  306.35 Kelvin      (+/-     6.80)
+ Pressure                     123.82 Atmosphere  (+/-  1431.88)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    160000 Dynamics Steps
+
+ Current Time               160.0000 Picosecond
+ Current Potential        -4303.1757 Kcal/mole
+ Current Kinetic           1371.2865 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     32
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   165000 Dynamics Steps
+
+ Simulation Time            165.0000 Picosecond
+ Total Energy             -3021.6105 Kcal/mole   (+/-  40.6440)
+ Potential Energy         -4375.1024 Kcal/mole   (+/-  33.1425)
+ Kinetic Energy            1353.4919 Kcal/mole   (+/-  27.0893)
+ Temperature                  303.32 Kelvin      (+/-     6.07)
+ Pressure                    -190.41 Atmosphere  (+/-  1307.06)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    165000 Dynamics Steps
+
+ Current Time               165.0000 Picosecond
+ Current Potential        -4400.6121 Kcal/mole
+ Current Kinetic           1340.8508 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     33
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   170000 Dynamics Steps
+
+ Simulation Time            170.0000 Picosecond
+ Total Energy             -3040.3410 Kcal/mole   (+/-  29.6830)
+ Potential Energy         -4389.9728 Kcal/mole   (+/-  31.5909)
+ Kinetic Energy            1349.6318 Kcal/mole   (+/-  25.0448)
+ Temperature                  302.45 Kelvin      (+/-     5.61)
+ Pressure                      18.87 Atmosphere  (+/-  1342.74)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    170000 Dynamics Steps
+
+ Current Time               170.0000 Picosecond
+ Current Potential        -4366.6858 Kcal/mole
+ Current Kinetic           1367.3595 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     34
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   175000 Dynamics Steps
+
+ Simulation Time            175.0000 Picosecond
+ Total Energy             -2978.1923 Kcal/mole   (+/-  22.7811)
+ Potential Energy         -4344.3415 Kcal/mole   (+/-  25.5619)
+ Kinetic Energy            1366.1492 Kcal/mole   (+/-  30.2532)
+ Temperature                  306.16 Kelvin      (+/-     6.78)
+ Pressure                    -166.81 Atmosphere  (+/-  1334.74)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    175000 Dynamics Steps
+
+ Current Time               175.0000 Picosecond
+ Current Potential        -4339.3902 Kcal/mole
+ Current Kinetic           1364.1378 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     35
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   180000 Dynamics Steps
+
+ Simulation Time            180.0000 Picosecond
+ Total Energy             -3019.5042 Kcal/mole   (+/-  34.5716)
+ Potential Energy         -4376.8553 Kcal/mole   (+/-  39.1631)
+ Kinetic Energy            1357.3511 Kcal/mole   (+/-  23.2806)
+ Temperature                  304.18 Kelvin      (+/-     5.22)
+ Pressure                      -5.23 Atmosphere  (+/-  1142.35)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    180000 Dynamics Steps
+
+ Current Time               180.0000 Picosecond
+ Current Potential        -4385.8782 Kcal/mole
+ Current Kinetic           1340.1149 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     36
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   185000 Dynamics Steps
+
+ Simulation Time            185.0000 Picosecond
+ Total Energy             -3078.9928 Kcal/mole   (+/-  38.5068)
+ Potential Energy         -4420.8291 Kcal/mole   (+/-  33.8816)
+ Kinetic Energy            1341.8364 Kcal/mole   (+/-  25.3861)
+ Temperature                  300.71 Kelvin      (+/-     5.69)
+ Pressure                     -53.79 Atmosphere  (+/-  1389.82)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    185000 Dynamics Steps
+
+ Current Time               185.0000 Picosecond
+ Current Potential        -4398.7011 Kcal/mole
+ Current Kinetic           1391.0539 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     37
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   190000 Dynamics Steps
+
+ Simulation Time            190.0000 Picosecond
+ Total Energy             -3019.8465 Kcal/mole   (+/-  32.2524)
+ Potential Energy         -4370.0947 Kcal/mole   (+/-  30.4800)
+ Kinetic Energy            1350.2482 Kcal/mole   (+/-  27.5615)
+ Temperature                  302.59 Kelvin      (+/-     6.18)
+ Pressure                     101.10 Atmosphere  (+/-  1524.59)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    190000 Dynamics Steps
+
+ Current Time               190.0000 Picosecond
+ Current Potential        -4318.4002 Kcal/mole
+ Current Kinetic           1367.9477 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     38
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   195000 Dynamics Steps
+
+ Simulation Time            195.0000 Picosecond
+ Total Energy             -2962.5408 Kcal/mole   (+/-  16.3580)
+ Potential Energy         -4321.8611 Kcal/mole   (+/-  26.6163)
+ Kinetic Energy            1359.3203 Kcal/mole   (+/-  27.9739)
+ Temperature                  304.63 Kelvin      (+/-     6.27)
+ Pressure                    -100.06 Atmosphere  (+/-  1304.29)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    195000 Dynamics Steps
+
+ Current Time               195.0000 Picosecond
+ Current Potential        -4341.2878 Kcal/mole
+ Current Kinetic           1323.4654 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     39
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   200000 Dynamics Steps
+
+ Simulation Time            200.0000 Picosecond
+ Total Energy             -3024.6154 Kcal/mole   (+/-  17.7684)
+ Potential Energy         -4366.2087 Kcal/mole   (+/-  26.1762)
+ Kinetic Energy            1341.5933 Kcal/mole   (+/-  23.6622)
+ Temperature                  300.65 Kelvin      (+/-     5.30)
+ Pressure                    -159.80 Atmosphere  (+/-  1226.90)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    200000 Dynamics Steps
+
+ Current Time               200.0000 Picosecond
+ Current Potential        -4377.9818 Kcal/mole
+ Current Kinetic           1331.7753 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     40
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   205000 Dynamics Steps
+
+ Simulation Time            205.0000 Picosecond
+ Total Energy             -2985.9914 Kcal/mole   (+/-  19.1952)
+ Potential Energy         -4343.9862 Kcal/mole   (+/-  26.7729)
+ Kinetic Energy            1357.9947 Kcal/mole   (+/-  23.2453)
+ Temperature                  304.33 Kelvin      (+/-     5.21)
+ Pressure                      60.82 Atmosphere  (+/-  1284.74)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    205000 Dynamics Steps
+
+ Current Time               205.0000 Picosecond
+ Current Potential        -4371.8399 Kcal/mole
+ Current Kinetic           1347.3596 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     41
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   210000 Dynamics Steps
+
+ Simulation Time            210.0000 Picosecond
+ Total Energy             -3040.8114 Kcal/mole   (+/-  18.9445)
+ Potential Energy         -4379.0823 Kcal/mole   (+/-  27.8137)
+ Kinetic Energy            1338.2709 Kcal/mole   (+/-  23.7244)
+ Temperature                  299.91 Kelvin      (+/-     5.32)
+ Pressure                     -55.71 Atmosphere  (+/-  1408.73)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    210000 Dynamics Steps
+
+ Current Time               210.0000 Picosecond
+ Current Potential        -4392.6566 Kcal/mole
+ Current Kinetic           1324.3411 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     42
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   215000 Dynamics Steps
+
+ Simulation Time            215.0000 Picosecond
+ Total Energy             -3061.5215 Kcal/mole   (+/-  21.2122)
+ Potential Energy         -4401.2011 Kcal/mole   (+/-  26.7704)
+ Kinetic Energy            1339.6796 Kcal/mole   (+/-  25.2458)
+ Temperature                  300.22 Kelvin      (+/-     5.66)
+ Pressure                      94.52 Atmosphere  (+/-  1354.88)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    215000 Dynamics Steps
+
+ Current Time               215.0000 Picosecond
+ Current Potential        -4407.9029 Kcal/mole
+ Current Kinetic           1298.1705 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     43
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   220000 Dynamics Steps
+
+ Simulation Time            220.0000 Picosecond
+ Total Energy             -3095.3883 Kcal/mole   (+/-  23.2386)
+ Potential Energy         -4422.3937 Kcal/mole   (+/-  25.6908)
+ Kinetic Energy            1327.0054 Kcal/mole   (+/-  26.6502)
+ Temperature                  297.38 Kelvin      (+/-     5.97)
+ Pressure                     -86.45 Atmosphere  (+/-  1253.62)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    220000 Dynamics Steps
+
+ Current Time               220.0000 Picosecond
+ Current Potential        -4454.1675 Kcal/mole
+ Current Kinetic           1359.3922 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     44
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   225000 Dynamics Steps
+
+ Simulation Time            225.0000 Picosecond
+ Total Energy             -3072.8678 Kcal/mole   (+/-  31.2868)
+ Potential Energy         -4420.6363 Kcal/mole   (+/-  26.2565)
+ Kinetic Energy            1347.7685 Kcal/mole   (+/-  32.1030)
+ Temperature                  302.04 Kelvin      (+/-     7.19)
+ Pressure                     130.91 Atmosphere  (+/-  1442.96)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    225000 Dynamics Steps
+
+ Current Time               225.0000 Picosecond
+ Current Potential        -4426.7544 Kcal/mole
+ Current Kinetic           1374.1046 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     45
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   230000 Dynamics Steps
+
+ Simulation Time            230.0000 Picosecond
+ Total Energy             -3004.1673 Kcal/mole   (+/-  42.5443)
+ Potential Energy         -4365.0953 Kcal/mole   (+/-  43.1542)
+ Kinetic Energy            1360.9279 Kcal/mole   (+/-  24.1052)
+ Temperature                  304.99 Kelvin      (+/-     5.40)
+ Pressure                      58.34 Atmosphere  (+/-  1281.21)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    230000 Dynamics Steps
+
+ Current Time               230.0000 Picosecond
+ Current Potential        -4427.4135 Kcal/mole
+ Current Kinetic           1429.2380 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     46
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   235000 Dynamics Steps
+
+ Simulation Time            235.0000 Picosecond
+ Total Energy             -3008.6837 Kcal/mole   (+/-  13.5037)
+ Potential Energy         -4367.1952 Kcal/mole   (+/-  24.2961)
+ Kinetic Energy            1358.5115 Kcal/mole   (+/-  23.7183)
+ Temperature                  304.44 Kelvin      (+/-     5.32)
+ Pressure                     216.67 Atmosphere  (+/-  1407.86)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    235000 Dynamics Steps
+
+ Current Time               235.0000 Picosecond
+ Current Potential        -4330.5129 Kcal/mole
+ Current Kinetic           1322.9928 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     47
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   240000 Dynamics Steps
+
+ Simulation Time            240.0000 Picosecond
+ Total Energy             -3050.5136 Kcal/mole   (+/-  17.3247)
+ Potential Energy         -4397.6067 Kcal/mole   (+/-  26.4511)
+ Kinetic Energy            1347.0932 Kcal/mole   (+/-  22.6763)
+ Temperature                  301.89 Kelvin      (+/-     5.08)
+ Pressure                      -4.78 Atmosphere  (+/-  1340.45)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    240000 Dynamics Steps
+
+ Current Time               240.0000 Picosecond
+ Current Potential        -4422.2619 Kcal/mole
+ Current Kinetic           1368.9510 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     48
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   245000 Dynamics Steps
+
+ Simulation Time            245.0000 Picosecond
+ Total Energy             -3097.0503 Kcal/mole   (+/-  14.1480)
+ Potential Energy         -4418.4186 Kcal/mole   (+/-  26.0982)
+ Kinetic Energy            1321.3683 Kcal/mole   (+/-  23.7138)
+ Temperature                  296.12 Kelvin      (+/-     5.31)
+ Pressure                    -224.75 Atmosphere  (+/-  1160.23)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    245000 Dynamics Steps
+
+ Current Time               245.0000 Picosecond
+ Current Potential        -4466.9915 Kcal/mole
+ Current Kinetic           1389.8749 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     49
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   250000 Dynamics Steps
+
+ Simulation Time            250.0000 Picosecond
+ Total Energy             -3032.3857 Kcal/mole   (+/-  22.3080)
+ Potential Energy         -4377.0594 Kcal/mole   (+/-  27.3030)
+ Kinetic Energy            1344.6737 Kcal/mole   (+/-  24.9194)
+ Temperature                  301.34 Kelvin      (+/-     5.58)
+ Pressure                     -14.30 Atmosphere  (+/-  1446.42)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    250000 Dynamics Steps
+
+ Current Time               250.0000 Picosecond
+ Current Potential        -4367.7765 Kcal/mole
+ Current Kinetic           1367.5990 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     50
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   255000 Dynamics Steps
+
+ Simulation Time            255.0000 Picosecond
+ Total Energy             -3024.8870 Kcal/mole   (+/-  27.0291)
+ Potential Energy         -4364.4789 Kcal/mole   (+/-  33.3979)
+ Kinetic Energy            1339.5919 Kcal/mole   (+/-  22.6333)
+ Temperature                  300.20 Kelvin      (+/-     5.07)
+ Pressure                    -222.85 Atmosphere  (+/-  1256.94)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    255000 Dynamics Steps
+
+ Current Time               255.0000 Picosecond
+ Current Potential        -4401.5410 Kcal/mole
+ Current Kinetic           1335.5881 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     51
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   260000 Dynamics Steps
+
+ Simulation Time            260.0000 Picosecond
+ Total Energy             -3066.1207 Kcal/mole   (+/-  14.7851)
+ Potential Energy         -4388.9815 Kcal/mole   (+/-  22.6622)
+ Kinetic Energy            1322.8607 Kcal/mole   (+/-  22.6556)
+ Temperature                  296.45 Kelvin      (+/-     5.08)
+ Pressure                    -388.16 Atmosphere  (+/-  1150.94)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    260000 Dynamics Steps
+
+ Current Time               260.0000 Picosecond
+ Current Potential        -4413.2468 Kcal/mole
+ Current Kinetic           1360.0815 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     52
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   265000 Dynamics Steps
+
+ Simulation Time            265.0000 Picosecond
+ Total Energy             -3037.1454 Kcal/mole   (+/-  20.3784)
+ Potential Energy         -4374.5814 Kcal/mole   (+/-  26.8158)
+ Kinetic Energy            1337.4359 Kcal/mole   (+/-  23.3073)
+ Temperature                  299.72 Kelvin      (+/-     5.22)
+ Pressure                     -22.44 Atmosphere  (+/-  1221.74)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    265000 Dynamics Steps
+
+ Current Time               265.0000 Picosecond
+ Current Potential        -4379.3958 Kcal/mole
+ Current Kinetic           1341.5270 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     53
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   270000 Dynamics Steps
+
+ Simulation Time            270.0000 Picosecond
+ Total Energy             -3067.2182 Kcal/mole   (+/-  22.7638)
+ Potential Energy         -4406.2337 Kcal/mole   (+/-  25.7000)
+ Kinetic Energy            1339.0155 Kcal/mole   (+/-  23.0197)
+ Temperature                  300.08 Kelvin      (+/-     5.16)
+ Pressure                    -123.43 Atmosphere  (+/-  1255.13)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    270000 Dynamics Steps
+
+ Current Time               270.0000 Picosecond
+ Current Potential        -4382.8271 Kcal/mole
+ Current Kinetic           1376.7266 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     54
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   275000 Dynamics Steps
+
+ Simulation Time            275.0000 Picosecond
+ Total Energy             -3043.6745 Kcal/mole   (+/-  21.7329)
+ Potential Energy         -4385.2856 Kcal/mole   (+/-  29.5242)
+ Kinetic Energy            1341.6111 Kcal/mole   (+/-  21.9304)
+ Temperature                  300.66 Kelvin      (+/-     4.91)
+ Pressure                    -132.58 Atmosphere  (+/-  1227.10)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    275000 Dynamics Steps
+
+ Current Time               275.0000 Picosecond
+ Current Potential        -4440.1794 Kcal/mole
+ Current Kinetic           1381.2139 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     55
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   280000 Dynamics Steps
+
+ Simulation Time            280.0000 Picosecond
+ Total Energy             -3049.5451 Kcal/mole   (+/-  16.4721)
+ Potential Energy         -4382.3482 Kcal/mole   (+/-  22.4466)
+ Kinetic Energy            1332.8031 Kcal/mole   (+/-  24.9234)
+ Temperature                  298.68 Kelvin      (+/-     5.59)
+ Pressure                     -85.33 Atmosphere  (+/-  1333.61)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    280000 Dynamics Steps
+
+ Current Time               280.0000 Picosecond
+ Current Potential        -4379.6493 Kcal/mole
+ Current Kinetic           1342.9291 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     56
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   285000 Dynamics Steps
+
+ Simulation Time            285.0000 Picosecond
+ Total Energy             -3063.6143 Kcal/mole   (+/-  28.6646)
+ Potential Energy         -4398.0318 Kcal/mole   (+/-  33.2675)
+ Kinetic Energy            1334.4175 Kcal/mole   (+/-  24.2767)
+ Temperature                  299.04 Kelvin      (+/-     5.44)
+ Pressure                     114.84 Atmosphere  (+/-  1166.25)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    285000 Dynamics Steps
+
+ Current Time               285.0000 Picosecond
+ Current Potential        -4355.7224 Kcal/mole
+ Current Kinetic           1361.3725 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     57
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   290000 Dynamics Steps
+
+ Simulation Time            290.0000 Picosecond
+ Total Energy             -3030.1002 Kcal/mole   (+/-  20.7795)
+ Potential Energy         -4373.9299 Kcal/mole   (+/-  24.1306)
+ Kinetic Energy            1343.8298 Kcal/mole   (+/-  24.2192)
+ Temperature                  301.15 Kelvin      (+/-     5.43)
+ Pressure                     -62.73 Atmosphere  (+/-  1153.80)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    290000 Dynamics Steps
+
+ Current Time               290.0000 Picosecond
+ Current Potential        -4384.1068 Kcal/mole
+ Current Kinetic           1349.7625 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     58
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   295000 Dynamics Steps
+
+ Simulation Time            295.0000 Picosecond
+ Total Energy             -3027.5797 Kcal/mole   (+/-  18.2450)
+ Potential Energy         -4387.4800 Kcal/mole   (+/-  27.8816)
+ Kinetic Energy            1359.9004 Kcal/mole   (+/-  24.4625)
+ Temperature                  304.76 Kelvin      (+/-     5.48)
+ Pressure                      55.64 Atmosphere  (+/-  1472.70)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    295000 Dynamics Steps
+
+ Current Time               295.0000 Picosecond
+ Current Potential        -4388.1682 Kcal/mole
+ Current Kinetic           1340.1668 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     59
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   300000 Dynamics Steps
+
+ Simulation Time            300.0000 Picosecond
+ Total Energy             -3061.7823 Kcal/mole   (+/-  14.7601)
+ Potential Energy         -4402.8044 Kcal/mole   (+/-  23.6065)
+ Kinetic Energy            1341.0221 Kcal/mole   (+/-  23.6415)
+ Temperature                  300.52 Kelvin      (+/-     5.30)
+ Pressure                      64.56 Atmosphere  (+/-  1437.02)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    300000 Dynamics Steps
+
+ Current Time               300.0000 Picosecond
+ Current Potential        -4429.1127 Kcal/mole
+ Current Kinetic           1339.6829 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     60
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   305000 Dynamics Steps
+
+ Simulation Time            305.0000 Picosecond
+ Total Energy             -3055.4140 Kcal/mole   (+/-  50.5975)
+ Potential Energy         -4389.3153 Kcal/mole   (+/-  43.3539)
+ Kinetic Energy            1333.9013 Kcal/mole   (+/-  28.1813)
+ Temperature                  298.93 Kelvin      (+/-     6.32)
+ Pressure                     -21.03 Atmosphere  (+/-  1287.11)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    305000 Dynamics Steps
+
+ Current Time               305.0000 Picosecond
+ Current Potential        -4343.2663 Kcal/mole
+ Current Kinetic           1334.5714 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     61
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   310000 Dynamics Steps
+
+ Simulation Time            310.0000 Picosecond
+ Total Energy             -3021.2377 Kcal/mole   (+/-  15.8892)
+ Potential Energy         -4375.2873 Kcal/mole   (+/-  25.5696)
+ Kinetic Energy            1354.0496 Kcal/mole   (+/-  23.2156)
+ Temperature                  303.44 Kelvin      (+/-     5.20)
+ Pressure                     165.38 Atmosphere  (+/-  1279.47)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    310000 Dynamics Steps
+
+ Current Time               310.0000 Picosecond
+ Current Potential        -4390.0646 Kcal/mole
+ Current Kinetic           1385.7736 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     62
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   315000 Dynamics Steps
+
+ Simulation Time            315.0000 Picosecond
+ Total Energy             -3030.8382 Kcal/mole   (+/-  26.8658)
+ Potential Energy         -4381.7337 Kcal/mole   (+/-  28.2842)
+ Kinetic Energy            1350.8955 Kcal/mole   (+/-  23.3439)
+ Temperature                  302.74 Kelvin      (+/-     5.23)
+ Pressure                     211.31 Atmosphere  (+/-  1300.63)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    315000 Dynamics Steps
+
+ Current Time               315.0000 Picosecond
+ Current Potential        -4444.4394 Kcal/mole
+ Current Kinetic           1347.4296 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     63
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   320000 Dynamics Steps
+
+ Simulation Time            320.0000 Picosecond
+ Total Energy             -3080.1382 Kcal/mole   (+/-  20.6290)
+ Potential Energy         -4407.9215 Kcal/mole   (+/-  28.4573)
+ Kinetic Energy            1327.7833 Kcal/mole   (+/-  23.3312)
+ Temperature                  297.56 Kelvin      (+/-     5.23)
+ Pressure                      27.43 Atmosphere  (+/-  1143.16)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    320000 Dynamics Steps
+
+ Current Time               320.0000 Picosecond
+ Current Potential        -4399.5286 Kcal/mole
+ Current Kinetic           1350.5502 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     64
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   325000 Dynamics Steps
+
+ Simulation Time            325.0000 Picosecond
+ Total Energy             -3041.0989 Kcal/mole   (+/-  19.6800)
+ Potential Energy         -4375.0818 Kcal/mole   (+/-  23.7955)
+ Kinetic Energy            1333.9830 Kcal/mole   (+/-  23.4508)
+ Temperature                  298.95 Kelvin      (+/-     5.26)
+ Pressure                      77.49 Atmosphere  (+/-  1158.99)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    325000 Dynamics Steps
+
+ Current Time               325.0000 Picosecond
+ Current Potential        -4378.2458 Kcal/mole
+ Current Kinetic           1320.7522 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     65
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   330000 Dynamics Steps
+
+ Simulation Time            330.0000 Picosecond
+ Total Energy             -3068.0742 Kcal/mole   (+/-  25.8033)
+ Potential Energy         -4396.6025 Kcal/mole   (+/-  28.2491)
+ Kinetic Energy            1328.5283 Kcal/mole   (+/-  23.7111)
+ Temperature                  297.73 Kelvin      (+/-     5.31)
+ Pressure                     -87.71 Atmosphere  (+/-  1144.71)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    330000 Dynamics Steps
+
+ Current Time               330.0000 Picosecond
+ Current Potential        -4404.2054 Kcal/mole
+ Current Kinetic           1308.8940 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     66
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   335000 Dynamics Steps
+
+ Simulation Time            335.0000 Picosecond
+ Total Energy             -3087.0139 Kcal/mole   (+/-  29.4298)
+ Potential Energy         -4409.8601 Kcal/mole   (+/-  29.7752)
+ Kinetic Energy            1322.8462 Kcal/mole   (+/-  23.0788)
+ Temperature                  296.45 Kelvin      (+/-     5.17)
+ Pressure                      90.32 Atmosphere  (+/-  1186.41)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    335000 Dynamics Steps
+
+ Current Time               335.0000 Picosecond
+ Current Potential        -4397.8613 Kcal/mole
+ Current Kinetic           1379.8745 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     67
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   340000 Dynamics Steps
+
+ Simulation Time            340.0000 Picosecond
+ Total Energy             -3057.1995 Kcal/mole   (+/-  29.9984)
+ Potential Energy         -4392.1233 Kcal/mole   (+/-  31.1512)
+ Kinetic Energy            1334.9239 Kcal/mole   (+/-  23.9231)
+ Temperature                  299.16 Kelvin      (+/-     5.36)
+ Pressure                    -162.96 Atmosphere  (+/-  1233.91)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    340000 Dynamics Steps
+
+ Current Time               340.0000 Picosecond
+ Current Potential        -4397.6230 Kcal/mole
+ Current Kinetic           1328.7210 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     68
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   345000 Dynamics Steps
+
+ Simulation Time            345.0000 Picosecond
+ Total Energy             -3038.0364 Kcal/mole   (+/-  22.4929)
+ Potential Energy         -4378.5979 Kcal/mole   (+/-  27.0286)
+ Kinetic Energy            1340.5615 Kcal/mole   (+/-  24.1006)
+ Temperature                  300.42 Kelvin      (+/-     5.40)
+ Pressure                    -196.95 Atmosphere  (+/-  1229.53)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    345000 Dynamics Steps
+
+ Current Time               345.0000 Picosecond
+ Current Potential        -4418.0549 Kcal/mole
+ Current Kinetic           1320.3959 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     69
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   350000 Dynamics Steps
+
+ Simulation Time            350.0000 Picosecond
+ Total Energy             -3035.9333 Kcal/mole   (+/-  31.1661)
+ Potential Energy         -4374.9242 Kcal/mole   (+/-  27.9167)
+ Kinetic Energy            1338.9908 Kcal/mole   (+/-  26.1298)
+ Temperature                  300.07 Kelvin      (+/-     5.86)
+ Pressure                     205.08 Atmosphere  (+/-  1210.70)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    350000 Dynamics Steps
+
+ Current Time               350.0000 Picosecond
+ Current Potential        -4329.3326 Kcal/mole
+ Current Kinetic           1291.4978 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     70
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   355000 Dynamics Steps
+
+ Simulation Time            355.0000 Picosecond
+ Total Energy             -3055.9461 Kcal/mole   (+/-  29.5857)
+ Potential Energy         -4401.3326 Kcal/mole   (+/-  31.2183)
+ Kinetic Energy            1345.3865 Kcal/mole   (+/-  24.9006)
+ Temperature                  301.50 Kelvin      (+/-     5.58)
+ Pressure                     112.66 Atmosphere  (+/-  1191.30)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    355000 Dynamics Steps
+
+ Current Time               355.0000 Picosecond
+ Current Potential        -4460.8372 Kcal/mole
+ Current Kinetic           1364.7663 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     71
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   360000 Dynamics Steps
+
+ Simulation Time            360.0000 Picosecond
+ Total Energy             -3152.9555 Kcal/mole   (+/-  17.9881)
+ Potential Energy         -4471.6536 Kcal/mole   (+/-  24.7899)
+ Kinetic Energy            1318.6982 Kcal/mole   (+/-  21.5528)
+ Temperature                  295.52 Kelvin      (+/-     4.83)
+ Pressure                      57.81 Atmosphere  (+/-  1281.53)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    360000 Dynamics Steps
+
+ Current Time               360.0000 Picosecond
+ Current Potential        -4480.3015 Kcal/mole
+ Current Kinetic           1328.4414 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     72
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   365000 Dynamics Steps
+
+ Simulation Time            365.0000 Picosecond
+ Total Energy             -3062.1218 Kcal/mole   (+/-  46.7749)
+ Potential Energy         -4413.3526 Kcal/mole   (+/-  39.0531)
+ Kinetic Energy            1351.2307 Kcal/mole   (+/-  27.5586)
+ Temperature                  302.81 Kelvin      (+/-     6.18)
+ Pressure                     252.16 Atmosphere  (+/-  1380.91)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    365000 Dynamics Steps
+
+ Current Time               365.0000 Picosecond
+ Current Potential        -4359.0100 Kcal/mole
+ Current Kinetic           1348.2073 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     73
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   370000 Dynamics Steps
+
+ Simulation Time            370.0000 Picosecond
+ Total Energy             -3042.7495 Kcal/mole   (+/-  41.8651)
+ Potential Energy         -4394.6894 Kcal/mole   (+/-  32.3266)
+ Kinetic Energy            1351.9399 Kcal/mole   (+/-  29.3856)
+ Temperature                  302.97 Kelvin      (+/-     6.59)
+ Pressure                      76.47 Atmosphere  (+/-  1254.25)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    370000 Dynamics Steps
+
+ Current Time               370.0000 Picosecond
+ Current Potential        -4486.6393 Kcal/mole
+ Current Kinetic           1348.3405 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     74
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   375000 Dynamics Steps
+
+ Simulation Time            375.0000 Picosecond
+ Total Energy             -3106.6050 Kcal/mole   (+/-  48.9314)
+ Potential Energy         -4428.2598 Kcal/mole   (+/-  43.3382)
+ Kinetic Energy            1321.6548 Kcal/mole   (+/-  26.1474)
+ Temperature                  296.18 Kelvin      (+/-     5.86)
+ Pressure                    -158.67 Atmosphere  (+/-  1300.65)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    375000 Dynamics Steps
+
+ Current Time               375.0000 Picosecond
+ Current Potential        -4354.8429 Kcal/mole
+ Current Kinetic           1336.8295 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     75
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   380000 Dynamics Steps
+
+ Simulation Time            380.0000 Picosecond
+ Total Energy             -3033.8189 Kcal/mole   (+/-  16.7793)
+ Potential Energy         -4376.9688 Kcal/mole   (+/-  23.3258)
+ Kinetic Energy            1343.1499 Kcal/mole   (+/-  24.5786)
+ Temperature                  301.00 Kelvin      (+/-     5.51)
+ Pressure                     -53.02 Atmosphere  (+/-  1287.59)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    380000 Dynamics Steps
+
+ Current Time               380.0000 Picosecond
+ Current Potential        -4385.5427 Kcal/mole
+ Current Kinetic           1364.5786 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     76
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   385000 Dynamics Steps
+
+ Simulation Time            385.0000 Picosecond
+ Total Energy             -3031.4806 Kcal/mole   (+/-  13.5518)
+ Potential Energy         -4377.3087 Kcal/mole   (+/-  24.2905)
+ Kinetic Energy            1345.8281 Kcal/mole   (+/-  23.6116)
+ Temperature                  301.60 Kelvin      (+/-     5.29)
+ Pressure                      29.58 Atmosphere  (+/-  1346.23)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    385000 Dynamics Steps
+
+ Current Time               385.0000 Picosecond
+ Current Potential        -4382.2921 Kcal/mole
+ Current Kinetic           1378.2114 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     77
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   390000 Dynamics Steps
+
+ Simulation Time            390.0000 Picosecond
+ Total Energy             -3040.6880 Kcal/mole   (+/-  19.9100)
+ Potential Energy         -4383.6452 Kcal/mole   (+/-  25.0500)
+ Kinetic Energy            1342.9572 Kcal/mole   (+/-  25.7886)
+ Temperature                  300.96 Kelvin      (+/-     5.78)
+ Pressure                     -13.49 Atmosphere  (+/-  1341.42)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    390000 Dynamics Steps
+
+ Current Time               390.0000 Picosecond
+ Current Potential        -4412.0382 Kcal/mole
+ Current Kinetic           1370.0290 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     78
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   395000 Dynamics Steps
+
+ Simulation Time            395.0000 Picosecond
+ Total Energy             -3009.5005 Kcal/mole   (+/-  42.8586)
+ Potential Energy         -4367.3578 Kcal/mole   (+/-  40.7114)
+ Kinetic Energy            1357.8573 Kcal/mole   (+/-  24.7763)
+ Temperature                  304.30 Kelvin      (+/-     5.55)
+ Pressure                     140.45 Atmosphere  (+/-  1276.74)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    395000 Dynamics Steps
+
+ Current Time               395.0000 Picosecond
+ Current Potential        -4287.8025 Kcal/mole
+ Current Kinetic           1299.1327 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     79
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   400000 Dynamics Steps
+
+ Simulation Time            400.0000 Picosecond
+ Total Energy             -2988.7626 Kcal/mole   (+/-  27.8695)
+ Potential Energy         -4351.2657 Kcal/mole   (+/-  31.5710)
+ Kinetic Energy            1362.5031 Kcal/mole   (+/-  22.3913)
+ Temperature                  305.34 Kelvin      (+/-     5.02)
+ Pressure                      21.20 Atmosphere  (+/-  1360.03)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    400000 Dynamics Steps
+
+ Current Time               400.0000 Picosecond
+ Current Potential        -4344.6847 Kcal/mole
+ Current Kinetic           1365.5510 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     80
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   405000 Dynamics Steps
+
+ Simulation Time            405.0000 Picosecond
+ Total Energy             -2994.9392 Kcal/mole   (+/-  24.9176)
+ Potential Energy         -4355.1137 Kcal/mole   (+/-  27.2053)
+ Kinetic Energy            1360.1744 Kcal/mole   (+/-  25.4039)
+ Temperature                  304.82 Kelvin      (+/-     5.69)
+ Pressure                     168.78 Atmosphere  (+/-  1280.85)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    405000 Dynamics Steps
+
+ Current Time               405.0000 Picosecond
+ Current Potential        -4346.2937 Kcal/mole
+ Current Kinetic           1359.6005 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     81
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   410000 Dynamics Steps
+
+ Simulation Time            410.0000 Picosecond
+ Total Energy             -3065.0870 Kcal/mole   (+/-  42.8181)
+ Potential Energy         -4392.3864 Kcal/mole   (+/-  34.3797)
+ Kinetic Energy            1327.2994 Kcal/mole   (+/-  29.4276)
+ Temperature                  297.45 Kelvin      (+/-     6.59)
+ Pressure                     226.58 Atmosphere  (+/-  1286.68)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    410000 Dynamics Steps
+
+ Current Time               410.0000 Picosecond
+ Current Potential        -4344.3242 Kcal/mole
+ Current Kinetic           1325.0203 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     82
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   415000 Dynamics Steps
+
+ Simulation Time            415.0000 Picosecond
+ Total Energy             -3017.9890 Kcal/mole   (+/-  29.5109)
+ Potential Energy         -4365.4087 Kcal/mole   (+/-  32.3475)
+ Kinetic Energy            1347.4197 Kcal/mole   (+/-  22.8313)
+ Temperature                  301.96 Kelvin      (+/-     5.12)
+ Pressure                      93.34 Atmosphere  (+/-  1259.73)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    415000 Dynamics Steps
+
+ Current Time               415.0000 Picosecond
+ Current Potential        -4369.9990 Kcal/mole
+ Current Kinetic           1321.4495 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     83
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   420000 Dynamics Steps
+
+ Simulation Time            420.0000 Picosecond
+ Total Energy             -2984.2267 Kcal/mole   (+/-  24.4657)
+ Potential Energy         -4343.0637 Kcal/mole   (+/-  26.0992)
+ Kinetic Energy            1358.8369 Kcal/mole   (+/-  23.7406)
+ Temperature                  304.52 Kelvin      (+/-     5.32)
+ Pressure                    -172.58 Atmosphere  (+/-  1290.54)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    420000 Dynamics Steps
+
+ Current Time               420.0000 Picosecond
+ Current Potential        -4390.3090 Kcal/mole
+ Current Kinetic           1376.6484 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     84
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   425000 Dynamics Steps
+
+ Simulation Time            425.0000 Picosecond
+ Total Energy             -2967.9323 Kcal/mole   (+/-  23.6369)
+ Potential Energy         -4323.8636 Kcal/mole   (+/-  30.4985)
+ Kinetic Energy            1355.9313 Kcal/mole   (+/-  22.4123)
+ Temperature                  303.87 Kelvin      (+/-     5.02)
+ Pressure                      -4.41 Atmosphere  (+/-  1152.08)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    425000 Dynamics Steps
+
+ Current Time               425.0000 Picosecond
+ Current Potential        -4342.9789 Kcal/mole
+ Current Kinetic           1342.4734 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     85
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   430000 Dynamics Steps
+
+ Simulation Time            430.0000 Picosecond
+ Total Energy             -3043.8626 Kcal/mole   (+/-  28.9449)
+ Potential Energy         -4382.7250 Kcal/mole   (+/-  29.5272)
+ Kinetic Energy            1338.8624 Kcal/mole   (+/-  23.3662)
+ Temperature                  300.04 Kelvin      (+/-     5.24)
+ Pressure                     -47.58 Atmosphere  (+/-  1294.10)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    430000 Dynamics Steps
+
+ Current Time               430.0000 Picosecond
+ Current Potential        -4333.1484 Kcal/mole
+ Current Kinetic           1305.1204 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     86
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   435000 Dynamics Steps
+
+ Simulation Time            435.0000 Picosecond
+ Total Energy             -3036.1732 Kcal/mole   (+/-  25.6660)
+ Potential Energy         -4386.5738 Kcal/mole   (+/-  30.2042)
+ Kinetic Energy            1350.4006 Kcal/mole   (+/-  23.6353)
+ Temperature                  302.63 Kelvin      (+/-     5.30)
+ Pressure                     127.88 Atmosphere  (+/-  1206.56)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    435000 Dynamics Steps
+
+ Current Time               435.0000 Picosecond
+ Current Potential        -4325.8353 Kcal/mole
+ Current Kinetic           1328.0280 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     87
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   440000 Dynamics Steps
+
+ Simulation Time            440.0000 Picosecond
+ Total Energy             -3024.4429 Kcal/mole   (+/-  16.4583)
+ Potential Energy         -4372.1661 Kcal/mole   (+/-  27.6271)
+ Kinetic Energy            1347.7233 Kcal/mole   (+/-  25.0065)
+ Temperature                  302.03 Kelvin      (+/-     5.60)
+ Pressure                      -0.69 Atmosphere  (+/-  1506.21)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    440000 Dynamics Steps
+
+ Current Time               440.0000 Picosecond
+ Current Potential        -4327.3973 Kcal/mole
+ Current Kinetic           1329.1417 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     88
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   445000 Dynamics Steps
+
+ Simulation Time            445.0000 Picosecond
+ Total Energy             -2995.8633 Kcal/mole   (+/-  34.5893)
+ Potential Energy         -4352.2505 Kcal/mole   (+/-  28.6830)
+ Kinetic Energy            1356.3872 Kcal/mole   (+/-  30.2931)
+ Temperature                  303.97 Kelvin      (+/-     6.79)
+ Pressure                     -44.84 Atmosphere  (+/-  1196.91)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    445000 Dynamics Steps
+
+ Current Time               445.0000 Picosecond
+ Current Potential        -4359.8466 Kcal/mole
+ Current Kinetic           1407.2918 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     89
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   450000 Dynamics Steps
+
+ Simulation Time            450.0000 Picosecond
+ Total Energy             -3031.0223 Kcal/mole   (+/-  34.9456)
+ Potential Energy         -4366.3901 Kcal/mole   (+/-  31.1198)
+ Kinetic Energy            1335.3678 Kcal/mole   (+/-  26.7133)
+ Temperature                  299.26 Kelvin      (+/-     5.99)
+ Pressure                    -194.45 Atmosphere  (+/-  1495.94)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    450000 Dynamics Steps
+
+ Current Time               450.0000 Picosecond
+ Current Potential        -4455.5188 Kcal/mole
+ Current Kinetic           1358.1171 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     90
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   455000 Dynamics Steps
+
+ Simulation Time            455.0000 Picosecond
+ Total Energy             -3058.1858 Kcal/mole   (+/-  33.6617)
+ Potential Energy         -4390.0975 Kcal/mole   (+/-  27.2414)
+ Kinetic Energy            1331.9117 Kcal/mole   (+/-  27.6158)
+ Temperature                  298.48 Kelvin      (+/-     6.19)
+ Pressure                      33.02 Atmosphere  (+/-  1138.37)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    455000 Dynamics Steps
+
+ Current Time               455.0000 Picosecond
+ Current Potential        -4338.6111 Kcal/mole
+ Current Kinetic           1330.2125 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     91
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   460000 Dynamics Steps
+
+ Simulation Time            460.0000 Picosecond
+ Total Energy             -2993.5962 Kcal/mole   (+/-  25.6886)
+ Potential Energy         -4341.2271 Kcal/mole   (+/-  28.0980)
+ Kinetic Energy            1347.6309 Kcal/mole   (+/-  25.6883)
+ Temperature                  302.01 Kelvin      (+/-     5.76)
+ Pressure                     -83.89 Atmosphere  (+/-  1509.49)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    460000 Dynamics Steps
+
+ Current Time               460.0000 Picosecond
+ Current Potential        -4266.8606 Kcal/mole
+ Current Kinetic           1348.2301 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     92
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   465000 Dynamics Steps
+
+ Simulation Time            465.0000 Picosecond
+ Total Energy             -2970.2407 Kcal/mole   (+/-  23.4544)
+ Potential Energy         -4331.4899 Kcal/mole   (+/-  29.4454)
+ Kinetic Energy            1361.2492 Kcal/mole   (+/-  21.1696)
+ Temperature                  305.06 Kelvin      (+/-     4.74)
+ Pressure                    -164.65 Atmosphere  (+/-  1309.35)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    465000 Dynamics Steps
+
+ Current Time               465.0000 Picosecond
+ Current Potential        -4335.0862 Kcal/mole
+ Current Kinetic           1350.9533 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     93
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   470000 Dynamics Steps
+
+ Simulation Time            470.0000 Picosecond
+ Total Energy             -3011.3328 Kcal/mole   (+/-  24.5741)
+ Potential Energy         -4363.6486 Kcal/mole   (+/-  30.7196)
+ Kinetic Energy            1352.3158 Kcal/mole   (+/-  21.9611)
+ Temperature                  303.06 Kelvin      (+/-     4.92)
+ Pressure                     180.68 Atmosphere  (+/-  1211.77)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    470000 Dynamics Steps
+
+ Current Time               470.0000 Picosecond
+ Current Potential        -4392.7937 Kcal/mole
+ Current Kinetic           1344.0954 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     94
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   475000 Dynamics Steps
+
+ Simulation Time            475.0000 Picosecond
+ Total Energy             -3028.8522 Kcal/mole   (+/-  13.7800)
+ Potential Energy         -4366.7133 Kcal/mole   (+/-  24.4084)
+ Kinetic Energy            1337.8611 Kcal/mole   (+/-  26.6659)
+ Temperature                  299.82 Kelvin      (+/-     5.98)
+ Pressure                      98.06 Atmosphere  (+/-  1284.81)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    475000 Dynamics Steps
+
+ Current Time               475.0000 Picosecond
+ Current Potential        -4340.9944 Kcal/mole
+ Current Kinetic           1347.1820 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     95
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   480000 Dynamics Steps
+
+ Simulation Time            480.0000 Picosecond
+ Total Energy             -2982.4531 Kcal/mole   (+/-  17.2222)
+ Potential Energy         -4333.8599 Kcal/mole   (+/-  24.5625)
+ Kinetic Energy            1351.4067 Kcal/mole   (+/-  24.2691)
+ Temperature                  302.85 Kelvin      (+/-     5.44)
+ Pressure                     167.48 Atmosphere  (+/-  1526.29)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    480000 Dynamics Steps
+
+ Current Time               480.0000 Picosecond
+ Current Potential        -4319.7774 Kcal/mole
+ Current Kinetic           1347.4826 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     96
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   485000 Dynamics Steps
+
+ Simulation Time            485.0000 Picosecond
+ Total Energy             -3044.2250 Kcal/mole   (+/-  29.0190)
+ Potential Energy         -4376.9504 Kcal/mole   (+/-  38.2050)
+ Kinetic Energy            1332.7254 Kcal/mole   (+/-  24.5497)
+ Temperature                  298.67 Kelvin      (+/-     5.50)
+ Pressure                    -249.75 Atmosphere  (+/-  1364.32)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    485000 Dynamics Steps
+
+ Current Time               485.0000 Picosecond
+ Current Potential        -4409.3844 Kcal/mole
+ Current Kinetic           1336.5185 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     97
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   490000 Dynamics Steps
+
+ Simulation Time            490.0000 Picosecond
+ Total Energy             -3076.5428 Kcal/mole   (+/-  34.8820)
+ Potential Energy         -4410.8019 Kcal/mole   (+/-  33.6504)
+ Kinetic Energy            1334.2591 Kcal/mole   (+/-  24.8910)
+ Temperature                  299.01 Kelvin      (+/-     5.58)
+ Pressure                    -221.56 Atmosphere  (+/-  1326.36)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    490000 Dynamics Steps
+
+ Current Time               490.0000 Picosecond
+ Current Potential        -4334.5541 Kcal/mole
+ Current Kinetic           1322.0368 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     98
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   495000 Dynamics Steps
+
+ Simulation Time            495.0000 Picosecond
+ Total Energy             -3026.4790 Kcal/mole   (+/-  23.2275)
+ Potential Energy         -4375.6218 Kcal/mole   (+/-  27.8728)
+ Kinetic Energy            1349.1428 Kcal/mole   (+/-  22.4329)
+ Temperature                  302.34 Kelvin      (+/-     5.03)
+ Pressure                     134.72 Atmosphere  (+/-  1353.79)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    495000 Dynamics Steps
+
+ Current Time               495.0000 Picosecond
+ Current Potential        -4350.3104 Kcal/mole
+ Current Kinetic           1334.3916 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                     99
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   500000 Dynamics Steps
+
+ Simulation Time            500.0000 Picosecond
+ Total Energy             -3023.0715 Kcal/mole   (+/-  25.0658)
+ Potential Energy         -4362.9675 Kcal/mole   (+/-  30.6336)
+ Kinetic Energy            1339.8960 Kcal/mole   (+/-  24.0352)
+ Temperature                  300.27 Kelvin      (+/-     5.39)
+ Pressure                     -84.17 Atmosphere  (+/-  1245.28)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    500000 Dynamics Steps
+
+ Current Time               500.0000 Picosecond
+ Current Potential        -4347.6682 Kcal/mole
+ Current Kinetic           1367.0979 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    100
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   505000 Dynamics Steps
+
+ Simulation Time            505.0000 Picosecond
+ Total Energy             -3012.2752 Kcal/mole   (+/-  14.2185)
+ Potential Energy         -4362.6278 Kcal/mole   (+/-  26.3554)
+ Kinetic Energy            1350.3526 Kcal/mole   (+/-  22.4379)
+ Temperature                  302.62 Kelvin      (+/-     5.03)
+ Pressure                    -168.67 Atmosphere  (+/-  1251.13)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    505000 Dynamics Steps
+
+ Current Time               505.0000 Picosecond
+ Current Potential        -4425.8327 Kcal/mole
+ Current Kinetic           1400.9582 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    101
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   510000 Dynamics Steps
+
+ Simulation Time            510.0000 Picosecond
+ Total Energy             -3039.5142 Kcal/mole   (+/-  14.7154)
+ Potential Energy         -4381.0130 Kcal/mole   (+/-  24.2549)
+ Kinetic Energy            1341.4987 Kcal/mole   (+/-  25.7694)
+ Temperature                  300.63 Kelvin      (+/-     5.77)
+ Pressure                     115.30 Atmosphere  (+/-  1347.62)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    510000 Dynamics Steps
+
+ Current Time               510.0000 Picosecond
+ Current Potential        -4380.9274 Kcal/mole
+ Current Kinetic           1334.2064 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    102
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   515000 Dynamics Steps
+
+ Simulation Time            515.0000 Picosecond
+ Total Energy             -3107.0264 Kcal/mole   (+/-  31.7913)
+ Potential Energy         -4437.7415 Kcal/mole   (+/-  33.3406)
+ Kinetic Energy            1330.7151 Kcal/mole   (+/-  26.9684)
+ Temperature                  298.22 Kelvin      (+/-     6.04)
+ Pressure                     132.21 Atmosphere  (+/-  1231.13)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    515000 Dynamics Steps
+
+ Current Time               515.0000 Picosecond
+ Current Potential        -4419.9742 Kcal/mole
+ Current Kinetic           1316.3731 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    103
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   520000 Dynamics Steps
+
+ Simulation Time            520.0000 Picosecond
+ Total Energy             -3040.1456 Kcal/mole   (+/-  25.7181)
+ Potential Energy         -4391.9395 Kcal/mole   (+/-  32.5033)
+ Kinetic Energy            1351.7939 Kcal/mole   (+/-  22.6407)
+ Temperature                  302.94 Kelvin      (+/-     5.07)
+ Pressure                     -16.96 Atmosphere  (+/-  1164.49)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    520000 Dynamics Steps
+
+ Current Time               520.0000 Picosecond
+ Current Potential        -4400.5950 Kcal/mole
+ Current Kinetic           1350.2932 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    104
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   525000 Dynamics Steps
+
+ Simulation Time            525.0000 Picosecond
+ Total Energy             -3043.1571 Kcal/mole   (+/-  18.2026)
+ Potential Energy         -4383.2213 Kcal/mole   (+/-  24.9477)
+ Kinetic Energy            1340.0641 Kcal/mole   (+/-  25.5707)
+ Temperature                  300.31 Kelvin      (+/-     5.73)
+ Pressure                    -188.16 Atmosphere  (+/-  1384.50)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    525000 Dynamics Steps
+
+ Current Time               525.0000 Picosecond
+ Current Potential        -4360.5950 Kcal/mole
+ Current Kinetic           1346.4929 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    105
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   530000 Dynamics Steps
+
+ Simulation Time            530.0000 Picosecond
+ Total Energy             -3042.3264 Kcal/mole   (+/-  24.3995)
+ Potential Energy         -4386.9056 Kcal/mole   (+/-  31.2182)
+ Kinetic Energy            1344.5792 Kcal/mole   (+/-  22.5534)
+ Temperature                  301.32 Kelvin      (+/-     5.05)
+ Pressure                    -207.96 Atmosphere  (+/-  1303.33)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    530000 Dynamics Steps
+
+ Current Time               530.0000 Picosecond
+ Current Potential        -4433.1576 Kcal/mole
+ Current Kinetic           1354.2824 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    106
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   535000 Dynamics Steps
+
+ Simulation Time            535.0000 Picosecond
+ Total Energy             -3039.7964 Kcal/mole   (+/-  31.8294)
+ Potential Energy         -4375.3512 Kcal/mole   (+/-  38.2916)
+ Kinetic Energy            1335.5548 Kcal/mole   (+/-  24.1659)
+ Temperature                  299.30 Kelvin      (+/-     5.42)
+ Pressure                     -73.90 Atmosphere  (+/-  1478.47)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    535000 Dynamics Steps
+
+ Current Time               535.0000 Picosecond
+ Current Potential        -4340.6743 Kcal/mole
+ Current Kinetic           1304.8737 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    107
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   540000 Dynamics Steps
+
+ Simulation Time            540.0000 Picosecond
+ Total Energy             -3017.4018 Kcal/mole   (+/-  26.7073)
+ Potential Energy         -4365.2375 Kcal/mole   (+/-  27.4647)
+ Kinetic Energy            1347.8357 Kcal/mole   (+/-  22.6985)
+ Temperature                  302.05 Kelvin      (+/-     5.09)
+ Pressure                      33.77 Atmosphere  (+/-  1187.84)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    540000 Dynamics Steps
+
+ Current Time               540.0000 Picosecond
+ Current Potential        -4358.2333 Kcal/mole
+ Current Kinetic           1320.1701 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    108
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   545000 Dynamics Steps
+
+ Simulation Time            545.0000 Picosecond
+ Total Energy             -3009.3156 Kcal/mole   (+/-  12.3202)
+ Potential Energy         -4361.2296 Kcal/mole   (+/-  23.4194)
+ Kinetic Energy            1351.9140 Kcal/mole   (+/-  22.2329)
+ Temperature                  302.97 Kelvin      (+/-     4.98)
+ Pressure                     232.07 Atmosphere  (+/-  1266.82)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    545000 Dynamics Steps
+
+ Current Time               545.0000 Picosecond
+ Current Potential        -4392.6493 Kcal/mole
+ Current Kinetic           1378.5762 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    109
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   550000 Dynamics Steps
+
+ Simulation Time            550.0000 Picosecond
+ Total Energy             -3073.6161 Kcal/mole   (+/-  22.9911)
+ Potential Energy         -4402.6478 Kcal/mole   (+/-  26.1284)
+ Kinetic Energy            1329.0317 Kcal/mole   (+/-  24.5451)
+ Temperature                  297.84 Kelvin      (+/-     5.50)
+ Pressure                     164.11 Atmosphere  (+/-  1324.72)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    550000 Dynamics Steps
+
+ Current Time               550.0000 Picosecond
+ Current Potential        -4415.1704 Kcal/mole
+ Current Kinetic           1347.9897 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    110
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   555000 Dynamics Steps
+
+ Simulation Time            555.0000 Picosecond
+ Total Energy             -3029.1823 Kcal/mole   (+/-  15.9563)
+ Potential Energy         -4386.2317 Kcal/mole   (+/-  25.7456)
+ Kinetic Energy            1357.0493 Kcal/mole   (+/-  23.2885)
+ Temperature                  304.12 Kelvin      (+/-     5.22)
+ Pressure                     -97.82 Atmosphere  (+/-  1343.17)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    555000 Dynamics Steps
+
+ Current Time               555.0000 Picosecond
+ Current Potential        -4369.4617 Kcal/mole
+ Current Kinetic           1367.3254 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    111
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   560000 Dynamics Steps
+
+ Simulation Time            560.0000 Picosecond
+ Total Energy             -3043.1561 Kcal/mole   (+/-  31.6611)
+ Potential Energy         -4399.0188 Kcal/mole   (+/-  29.6687)
+ Kinetic Energy            1355.8627 Kcal/mole   (+/-  27.8161)
+ Temperature                  303.85 Kelvin      (+/-     6.23)
+ Pressure                     208.29 Atmosphere  (+/-  1219.93)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    560000 Dynamics Steps
+
+ Current Time               560.0000 Picosecond
+ Current Potential        -4390.3531 Kcal/mole
+ Current Kinetic           1349.8202 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    112
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   565000 Dynamics Steps
+
+ Simulation Time            565.0000 Picosecond
+ Total Energy             -3049.1601 Kcal/mole   (+/-  13.6731)
+ Potential Energy         -4386.8439 Kcal/mole   (+/-  22.3777)
+ Kinetic Energy            1337.6838 Kcal/mole   (+/-  24.9304)
+ Temperature                  299.78 Kelvin      (+/-     5.59)
+ Pressure                       3.95 Atmosphere  (+/-  1300.44)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    565000 Dynamics Steps
+
+ Current Time               565.0000 Picosecond
+ Current Potential        -4393.9308 Kcal/mole
+ Current Kinetic           1327.9070 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    113
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   570000 Dynamics Steps
+
+ Simulation Time            570.0000 Picosecond
+ Total Energy             -3106.7525 Kcal/mole   (+/-  26.4736)
+ Potential Energy         -4429.4071 Kcal/mole   (+/-  29.0503)
+ Kinetic Energy            1322.6546 Kcal/mole   (+/-  23.8776)
+ Temperature                  296.41 Kelvin      (+/-     5.35)
+ Pressure                     138.60 Atmosphere  (+/-  1408.41)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    570000 Dynamics Steps
+
+ Current Time               570.0000 Picosecond
+ Current Potential        -4416.1806 Kcal/mole
+ Current Kinetic           1284.1048 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    114
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   575000 Dynamics Steps
+
+ Simulation Time            575.0000 Picosecond
+ Total Energy             -3064.9531 Kcal/mole   (+/-  19.4782)
+ Potential Energy         -4411.4764 Kcal/mole   (+/-  27.8823)
+ Kinetic Energy            1346.5233 Kcal/mole   (+/-  23.7803)
+ Temperature                  301.76 Kelvin      (+/-     5.33)
+ Pressure                      58.84 Atmosphere  (+/-  1110.15)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    575000 Dynamics Steps
+
+ Current Time               575.0000 Picosecond
+ Current Potential        -4417.9453 Kcal/mole
+ Current Kinetic           1358.9092 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    115
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   580000 Dynamics Steps
+
+ Simulation Time            580.0000 Picosecond
+ Total Energy             -3069.7768 Kcal/mole   (+/-  34.7852)
+ Potential Energy         -4404.0231 Kcal/mole   (+/-  31.4459)
+ Kinetic Energy            1334.2463 Kcal/mole   (+/-  26.5359)
+ Temperature                  299.01 Kelvin      (+/-     5.95)
+ Pressure                       5.45 Atmosphere  (+/-  1250.17)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    580000 Dynamics Steps
+
+ Current Time               580.0000 Picosecond
+ Current Potential        -4417.3095 Kcal/mole
+ Current Kinetic           1336.7060 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    116
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   585000 Dynamics Steps
+
+ Simulation Time            585.0000 Picosecond
+ Total Energy             -3100.3571 Kcal/mole   (+/-  19.9646)
+ Potential Energy         -4419.5694 Kcal/mole   (+/-  28.0169)
+ Kinetic Energy            1319.2123 Kcal/mole   (+/-  23.3326)
+ Temperature                  295.64 Kelvin      (+/-     5.23)
+ Pressure                     -41.61 Atmosphere  (+/-  1478.35)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    585000 Dynamics Steps
+
+ Current Time               585.0000 Picosecond
+ Current Potential        -4402.6383 Kcal/mole
+ Current Kinetic           1336.3474 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    117
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   590000 Dynamics Steps
+
+ Simulation Time            590.0000 Picosecond
+ Total Energy             -3056.2690 Kcal/mole   (+/-  30.1003)
+ Potential Energy         -4408.8100 Kcal/mole   (+/-  26.9416)
+ Kinetic Energy            1352.5410 Kcal/mole   (+/-  27.6587)
+ Temperature                  303.11 Kelvin      (+/-     6.20)
+ Pressure                     267.21 Atmosphere  (+/-  1453.12)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    590000 Dynamics Steps
+
+ Current Time               590.0000 Picosecond
+ Current Potential        -4420.4065 Kcal/mole
+ Current Kinetic           1346.8305 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    118
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   595000 Dynamics Steps
+
+ Simulation Time            595.0000 Picosecond
+ Total Energy             -3069.3114 Kcal/mole   (+/-  16.1281)
+ Potential Energy         -4402.7582 Kcal/mole   (+/-  25.4073)
+ Kinetic Energy            1333.4468 Kcal/mole   (+/-  21.6147)
+ Temperature                  298.83 Kelvin      (+/-     4.84)
+ Pressure                     181.38 Atmosphere  (+/-  1418.90)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    595000 Dynamics Steps
+
+ Current Time               595.0000 Picosecond
+ Current Potential        -4371.9972 Kcal/mole
+ Current Kinetic           1307.1306 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    119
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   600000 Dynamics Steps
+
+ Simulation Time            600.0000 Picosecond
+ Total Energy             -3027.2211 Kcal/mole   (+/-  20.7287)
+ Potential Energy         -4382.4754 Kcal/mole   (+/-  27.3746)
+ Kinetic Energy            1355.2543 Kcal/mole   (+/-  23.0663)
+ Temperature                  303.71 Kelvin      (+/-     5.17)
+ Pressure                      34.64 Atmosphere  (+/-  1179.19)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    600000 Dynamics Steps
+
+ Current Time               600.0000 Picosecond
+ Current Potential        -4377.8577 Kcal/mole
+ Current Kinetic           1340.6930 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    120
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   605000 Dynamics Steps
+
+ Simulation Time            605.0000 Picosecond
+ Total Energy             -3026.7275 Kcal/mole   (+/-  15.2606)
+ Potential Energy         -4370.5672 Kcal/mole   (+/-  26.9424)
+ Kinetic Energy            1343.8397 Kcal/mole   (+/-  22.4463)
+ Temperature                  301.16 Kelvin      (+/-     5.03)
+ Pressure                    -106.53 Atmosphere  (+/-  1253.84)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    605000 Dynamics Steps
+
+ Current Time               605.0000 Picosecond
+ Current Potential        -4303.8311 Kcal/mole
+ Current Kinetic           1303.9665 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    121
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   610000 Dynamics Steps
+
+ Simulation Time            610.0000 Picosecond
+ Total Energy             -3041.2357 Kcal/mole   (+/-  26.2489)
+ Potential Energy         -4384.9454 Kcal/mole   (+/-  30.1899)
+ Kinetic Energy            1343.7097 Kcal/mole   (+/-  23.8504)
+ Temperature                  301.13 Kelvin      (+/-     5.34)
+ Pressure                     -44.97 Atmosphere  (+/-  1285.33)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    610000 Dynamics Steps
+
+ Current Time               610.0000 Picosecond
+ Current Potential        -4382.5958 Kcal/mole
+ Current Kinetic           1347.9897 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    122
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   615000 Dynamics Steps
+
+ Simulation Time            615.0000 Picosecond
+ Total Energy             -3042.7137 Kcal/mole   (+/-  13.9447)
+ Potential Energy         -4396.4960 Kcal/mole   (+/-  22.9429)
+ Kinetic Energy            1353.7822 Kcal/mole   (+/-  23.3866)
+ Temperature                  303.38 Kelvin      (+/-     5.24)
+ Pressure                      29.06 Atmosphere  (+/-  1149.10)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    615000 Dynamics Steps
+
+ Current Time               615.0000 Picosecond
+ Current Potential        -4380.7855 Kcal/mole
+ Current Kinetic           1335.1769 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    123
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   620000 Dynamics Steps
+
+ Simulation Time            620.0000 Picosecond
+ Total Energy             -3090.4923 Kcal/mole   (+/-  27.4177)
+ Potential Energy         -4425.0742 Kcal/mole   (+/-  28.2959)
+ Kinetic Energy            1334.5819 Kcal/mole   (+/-  24.6056)
+ Temperature                  299.08 Kelvin      (+/-     5.51)
+ Pressure                    -189.89 Atmosphere  (+/-  1188.21)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    620000 Dynamics Steps
+
+ Current Time               620.0000 Picosecond
+ Current Potential        -4368.6754 Kcal/mole
+ Current Kinetic           1321.5012 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    124
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   625000 Dynamics Steps
+
+ Simulation Time            625.0000 Picosecond
+ Total Energy             -3068.9606 Kcal/mole   (+/-  25.7361)
+ Potential Energy         -4409.3732 Kcal/mole   (+/-  33.1959)
+ Kinetic Energy            1340.4125 Kcal/mole   (+/-  24.4854)
+ Temperature                  300.39 Kelvin      (+/-     5.49)
+ Pressure                     156.76 Atmosphere  (+/-  1294.04)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    625000 Dynamics Steps
+
+ Current Time               625.0000 Picosecond
+ Current Potential        -4411.8823 Kcal/mole
+ Current Kinetic           1345.3038 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    125
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   630000 Dynamics Steps
+
+ Simulation Time            630.0000 Picosecond
+ Total Energy             -3070.5927 Kcal/mole   (+/-  17.8415)
+ Potential Energy         -4390.3101 Kcal/mole   (+/-  27.8551)
+ Kinetic Energy            1319.7174 Kcal/mole   (+/-  24.3804)
+ Temperature                  295.75 Kelvin      (+/-     5.46)
+ Pressure                    -200.52 Atmosphere  (+/-  1129.74)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    630000 Dynamics Steps
+
+ Current Time               630.0000 Picosecond
+ Current Potential        -4352.0954 Kcal/mole
+ Current Kinetic           1321.7566 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    126
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   635000 Dynamics Steps
+
+ Simulation Time            635.0000 Picosecond
+ Total Energy             -3084.9385 Kcal/mole   (+/-  33.6480)
+ Potential Energy         -4411.4915 Kcal/mole   (+/-  33.3611)
+ Kinetic Energy            1326.5530 Kcal/mole   (+/-  24.5234)
+ Temperature                  297.28 Kelvin      (+/-     5.50)
+ Pressure                      74.02 Atmosphere  (+/-  1045.99)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    635000 Dynamics Steps
+
+ Current Time               635.0000 Picosecond
+ Current Potential        -4417.2068 Kcal/mole
+ Current Kinetic           1328.6956 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    127
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   640000 Dynamics Steps
+
+ Simulation Time            640.0000 Picosecond
+ Total Energy             -3038.6703 Kcal/mole   (+/-  25.5507)
+ Potential Energy         -4374.7979 Kcal/mole   (+/-  30.5796)
+ Kinetic Energy            1336.1276 Kcal/mole   (+/-  23.8171)
+ Temperature                  299.43 Kelvin      (+/-     5.34)
+ Pressure                     -99.76 Atmosphere  (+/-  1424.03)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    640000 Dynamics Steps
+
+ Current Time               640.0000 Picosecond
+ Current Potential        -4389.1574 Kcal/mole
+ Current Kinetic           1353.9908 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    128
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   645000 Dynamics Steps
+
+ Simulation Time            645.0000 Picosecond
+ Total Energy             -3061.9899 Kcal/mole   (+/-  21.4310)
+ Potential Energy         -4399.9639 Kcal/mole   (+/-  29.1386)
+ Kinetic Energy            1337.9739 Kcal/mole   (+/-  23.4799)
+ Temperature                  299.84 Kelvin      (+/-     5.26)
+ Pressure                     -72.48 Atmosphere  (+/-  1300.64)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    645000 Dynamics Steps
+
+ Current Time               645.0000 Picosecond
+ Current Potential        -4419.1599 Kcal/mole
+ Current Kinetic           1351.3028 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    129
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   650000 Dynamics Steps
+
+ Simulation Time            650.0000 Picosecond
+ Total Energy             -3066.0888 Kcal/mole   (+/-  22.9354)
+ Potential Energy         -4403.7453 Kcal/mole   (+/-  30.5179)
+ Kinetic Energy            1337.6565 Kcal/mole   (+/-  25.1993)
+ Temperature                  299.77 Kelvin      (+/-     5.65)
+ Pressure                      85.25 Atmosphere  (+/-  1401.59)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    650000 Dynamics Steps
+
+ Current Time               650.0000 Picosecond
+ Current Potential        -4394.6849 Kcal/mole
+ Current Kinetic           1368.7169 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    130
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   655000 Dynamics Steps
+
+ Simulation Time            655.0000 Picosecond
+ Total Energy             -3048.3291 Kcal/mole   (+/-  25.8181)
+ Potential Energy         -4381.5634 Kcal/mole   (+/-  28.8203)
+ Kinetic Energy            1333.2343 Kcal/mole   (+/-  23.1301)
+ Temperature                  298.78 Kelvin      (+/-     5.18)
+ Pressure                      75.23 Atmosphere  (+/-  1478.29)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    655000 Dynamics Steps
+
+ Current Time               655.0000 Picosecond
+ Current Potential        -4398.3758 Kcal/mole
+ Current Kinetic           1285.1484 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    131
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   660000 Dynamics Steps
+
+ Simulation Time            660.0000 Picosecond
+ Total Energy             -3115.0566 Kcal/mole   (+/-  27.0246)
+ Potential Energy         -4436.0317 Kcal/mole   (+/-  32.3502)
+ Kinetic Energy            1320.9751 Kcal/mole   (+/-  25.0473)
+ Temperature                  296.03 Kelvin      (+/-     5.61)
+ Pressure                    -276.20 Atmosphere  (+/-  1248.16)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    660000 Dynamics Steps
+
+ Current Time               660.0000 Picosecond
+ Current Potential        -4476.0702 Kcal/mole
+ Current Kinetic           1296.6787 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    132
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   665000 Dynamics Steps
+
+ Simulation Time            665.0000 Picosecond
+ Total Energy             -3105.4447 Kcal/mole   (+/-  51.3476)
+ Potential Energy         -4440.3465 Kcal/mole   (+/-  39.8078)
+ Kinetic Energy            1334.9019 Kcal/mole   (+/-  29.3956)
+ Temperature                  299.15 Kelvin      (+/-     6.59)
+ Pressure                     -74.26 Atmosphere  (+/-  1487.34)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    665000 Dynamics Steps
+
+ Current Time               665.0000 Picosecond
+ Current Potential        -4423.3660 Kcal/mole
+ Current Kinetic           1342.4809 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    133
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   670000 Dynamics Steps
+
+ Simulation Time            670.0000 Picosecond
+ Total Energy             -3084.9116 Kcal/mole   (+/-  16.5252)
+ Potential Energy         -4425.2069 Kcal/mole   (+/-  23.7287)
+ Kinetic Energy            1340.2953 Kcal/mole   (+/-  24.0940)
+ Temperature                  300.36 Kelvin      (+/-     5.40)
+ Pressure                     -88.94 Atmosphere  (+/-  1232.75)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    670000 Dynamics Steps
+
+ Current Time               670.0000 Picosecond
+ Current Potential        -4423.5506 Kcal/mole
+ Current Kinetic           1320.2108 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    134
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   675000 Dynamics Steps
+
+ Simulation Time            675.0000 Picosecond
+ Total Energy             -3123.9860 Kcal/mole   (+/-  27.8987)
+ Potential Energy         -4443.4471 Kcal/mole   (+/-  28.4732)
+ Kinetic Energy            1319.4610 Kcal/mole   (+/-  24.6701)
+ Temperature                  295.69 Kelvin      (+/-     5.53)
+ Pressure                      34.22 Atmosphere  (+/-  1418.66)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    675000 Dynamics Steps
+
+ Current Time               675.0000 Picosecond
+ Current Potential        -4425.5987 Kcal/mole
+ Current Kinetic           1334.5626 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    135
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   680000 Dynamics Steps
+
+ Simulation Time            680.0000 Picosecond
+ Total Energy             -3085.6154 Kcal/mole   (+/-  25.8961)
+ Potential Energy         -4418.9984 Kcal/mole   (+/-  26.4339)
+ Kinetic Energy            1333.3830 Kcal/mole   (+/-  27.3245)
+ Temperature                  298.81 Kelvin      (+/-     6.12)
+ Pressure                     -26.69 Atmosphere  (+/-  1278.36)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    680000 Dynamics Steps
+
+ Current Time               680.0000 Picosecond
+ Current Potential        -4397.6528 Kcal/mole
+ Current Kinetic           1329.4979 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    136
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   685000 Dynamics Steps
+
+ Simulation Time            685.0000 Picosecond
+ Total Energy             -3040.1177 Kcal/mole   (+/-  23.1310)
+ Potential Energy         -4384.0064 Kcal/mole   (+/-  30.9656)
+ Kinetic Energy            1343.8887 Kcal/mole   (+/-  22.7416)
+ Temperature                  301.17 Kelvin      (+/-     5.10)
+ Pressure                      16.06 Atmosphere  (+/-  1242.19)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    685000 Dynamics Steps
+
+ Current Time               685.0000 Picosecond
+ Current Potential        -4353.1855 Kcal/mole
+ Current Kinetic           1346.1624 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    137
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   690000 Dynamics Steps
+
+ Simulation Time            690.0000 Picosecond
+ Total Energy             -2974.9755 Kcal/mole   (+/-  17.9402)
+ Potential Energy         -4335.4175 Kcal/mole   (+/-  24.3416)
+ Kinetic Energy            1360.4420 Kcal/mole   (+/-  24.1216)
+ Temperature                  304.88 Kelvin      (+/-     5.41)
+ Pressure                       6.10 Atmosphere  (+/-  1330.15)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    690000 Dynamics Steps
+
+ Current Time               690.0000 Picosecond
+ Current Potential        -4366.6858 Kcal/mole
+ Current Kinetic           1370.6888 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    138
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   695000 Dynamics Steps
+
+ Simulation Time            695.0000 Picosecond
+ Total Energy             -3047.6253 Kcal/mole   (+/-  36.9644)
+ Potential Energy         -4388.9203 Kcal/mole   (+/-  37.0329)
+ Kinetic Energy            1341.2950 Kcal/mole   (+/-  23.5306)
+ Temperature                  300.59 Kelvin      (+/-     5.27)
+ Pressure                      -5.84 Atmosphere  (+/-  1149.36)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    695000 Dynamics Steps
+
+ Current Time               695.0000 Picosecond
+ Current Potential        -4422.9532 Kcal/mole
+ Current Kinetic           1324.5325 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    139
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   700000 Dynamics Steps
+
+ Simulation Time            700.0000 Picosecond
+ Total Energy             -3117.0133 Kcal/mole   (+/-  13.3224)
+ Potential Energy         -4445.4495 Kcal/mole   (+/-  23.8423)
+ Kinetic Energy            1328.4362 Kcal/mole   (+/-  23.4000)
+ Temperature                  297.70 Kelvin      (+/-     5.24)
+ Pressure                     249.39 Atmosphere  (+/-  1419.11)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    700000 Dynamics Steps
+
+ Current Time               700.0000 Picosecond
+ Current Potential        -4453.2607 Kcal/mole
+ Current Kinetic           1329.4787 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    140
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   705000 Dynamics Steps
+
+ Simulation Time            705.0000 Picosecond
+ Total Energy             -3104.8066 Kcal/mole   (+/-  25.8173)
+ Potential Energy         -4434.3068 Kcal/mole   (+/-  26.8769)
+ Kinetic Energy            1329.5002 Kcal/mole   (+/-  24.7443)
+ Temperature                  297.94 Kelvin      (+/-     5.55)
+ Pressure                      75.23 Atmosphere  (+/-  1284.65)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    705000 Dynamics Steps
+
+ Current Time               705.0000 Picosecond
+ Current Potential        -4405.5383 Kcal/mole
+ Current Kinetic           1328.5827 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    141
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   710000 Dynamics Steps
+
+ Simulation Time            710.0000 Picosecond
+ Total Energy             -3064.3390 Kcal/mole   (+/-  17.2701)
+ Potential Energy         -4407.5641 Kcal/mole   (+/-  25.5536)
+ Kinetic Energy            1343.2251 Kcal/mole   (+/-  22.9540)
+ Temperature                  301.02 Kelvin      (+/-     5.14)
+ Pressure                    -110.96 Atmosphere  (+/-  1413.77)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    710000 Dynamics Steps
+
+ Current Time               710.0000 Picosecond
+ Current Potential        -4407.3896 Kcal/mole
+ Current Kinetic           1368.8679 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    142
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   715000 Dynamics Steps
+
+ Simulation Time            715.0000 Picosecond
+ Total Energy             -3082.6801 Kcal/mole   (+/-  15.8255)
+ Potential Energy         -4419.8485 Kcal/mole   (+/-  24.3388)
+ Kinetic Energy            1337.1685 Kcal/mole   (+/-  22.7614)
+ Temperature                  299.66 Kelvin      (+/-     5.10)
+ Pressure                    -175.08 Atmosphere  (+/-  1305.28)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    715000 Dynamics Steps
+
+ Current Time               715.0000 Picosecond
+ Current Potential        -4393.5415 Kcal/mole
+ Current Kinetic           1321.3066 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    143
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   720000 Dynamics Steps
+
+ Simulation Time            720.0000 Picosecond
+ Total Energy             -3083.8922 Kcal/mole   (+/-  15.4655)
+ Potential Energy         -4419.2283 Kcal/mole   (+/-  23.1205)
+ Kinetic Energy            1335.3361 Kcal/mole   (+/-  23.7926)
+ Temperature                  299.25 Kelvin      (+/-     5.33)
+ Pressure                     -55.96 Atmosphere  (+/-  1097.53)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    720000 Dynamics Steps
+
+ Current Time               720.0000 Picosecond
+ Current Potential        -4424.2714 Kcal/mole
+ Current Kinetic           1344.5022 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    144
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   725000 Dynamics Steps
+
+ Simulation Time            725.0000 Picosecond
+ Total Energy             -3093.0502 Kcal/mole   (+/-  21.5666)
+ Potential Energy         -4424.3745 Kcal/mole   (+/-  25.6366)
+ Kinetic Energy            1331.3243 Kcal/mole   (+/-  22.0412)
+ Temperature                  298.35 Kelvin      (+/-     4.94)
+ Pressure                      14.02 Atmosphere  (+/-  1310.75)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    725000 Dynamics Steps
+
+ Current Time               725.0000 Picosecond
+ Current Potential        -4366.9358 Kcal/mole
+ Current Kinetic           1284.9707 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    145
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   730000 Dynamics Steps
+
+ Simulation Time            730.0000 Picosecond
+ Total Energy             -3052.6338 Kcal/mole   (+/-  19.9006)
+ Potential Energy         -4389.2552 Kcal/mole   (+/-  23.9163)
+ Kinetic Energy            1336.6213 Kcal/mole   (+/-  26.5579)
+ Temperature                  299.54 Kelvin      (+/-     5.95)
+ Pressure                    -265.57 Atmosphere  (+/-  1385.37)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    730000 Dynamics Steps
+
+ Current Time               730.0000 Picosecond
+ Current Potential        -4394.2497 Kcal/mole
+ Current Kinetic           1321.8312 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    146
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   735000 Dynamics Steps
+
+ Simulation Time            735.0000 Picosecond
+ Total Energy             -3009.4315 Kcal/mole   (+/-  22.9022)
+ Potential Energy         -4363.3227 Kcal/mole   (+/-  27.7426)
+ Kinetic Energy            1353.8913 Kcal/mole   (+/-  25.1434)
+ Temperature                  303.41 Kelvin      (+/-     5.63)
+ Pressure                    -214.61 Atmosphere  (+/-  1484.66)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    735000 Dynamics Steps
+
+ Current Time               735.0000 Picosecond
+ Current Potential        -4347.2740 Kcal/mole
+ Current Kinetic           1314.7289 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    147
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   740000 Dynamics Steps
+
+ Simulation Time            740.0000 Picosecond
+ Total Energy             -3083.3360 Kcal/mole   (+/-  26.6739)
+ Potential Energy         -4403.1999 Kcal/mole   (+/-  32.4747)
+ Kinetic Energy            1319.8639 Kcal/mole   (+/-  22.2645)
+ Temperature                  295.78 Kelvin      (+/-     4.99)
+ Pressure                    -171.28 Atmosphere  (+/-  1324.54)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    740000 Dynamics Steps
+
+ Current Time               740.0000 Picosecond
+ Current Potential        -4421.3260 Kcal/mole
+ Current Kinetic           1357.5557 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    148
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   745000 Dynamics Steps
+
+ Simulation Time            745.0000 Picosecond
+ Total Energy             -3087.5204 Kcal/mole   (+/-  18.1864)
+ Potential Energy         -4415.2440 Kcal/mole   (+/-  26.4688)
+ Kinetic Energy            1327.7236 Kcal/mole   (+/-  22.5418)
+ Temperature                  297.54 Kelvin      (+/-     5.05)
+ Pressure                     -24.29 Atmosphere  (+/-  1235.63)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    745000 Dynamics Steps
+
+ Current Time               745.0000 Picosecond
+ Current Potential        -4417.5554 Kcal/mole
+ Current Kinetic           1318.0369 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    149
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   750000 Dynamics Steps
+
+ Simulation Time            750.0000 Picosecond
+ Total Energy             -3091.1750 Kcal/mole   (+/-  25.7611)
+ Potential Energy         -4421.0186 Kcal/mole   (+/-  27.8914)
+ Kinetic Energy            1329.8435 Kcal/mole   (+/-  24.0437)
+ Temperature                  298.02 Kelvin      (+/-     5.39)
+ Pressure                      32.69 Atmosphere  (+/-  1306.99)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    750000 Dynamics Steps
+
+ Current Time               750.0000 Picosecond
+ Current Potential        -4408.9657 Kcal/mole
+ Current Kinetic           1359.6988 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    150
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   755000 Dynamics Steps
+
+ Simulation Time            755.0000 Picosecond
+ Total Energy             -3128.7078 Kcal/mole   (+/-  38.6785)
+ Potential Energy         -4441.5717 Kcal/mole   (+/-  35.4678)
+ Kinetic Energy            1312.8639 Kcal/mole   (+/-  23.9598)
+ Temperature                  294.21 Kelvin      (+/-     5.37)
+ Pressure                     -28.71 Atmosphere  (+/-  1332.87)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    755000 Dynamics Steps
+
+ Current Time               755.0000 Picosecond
+ Current Potential        -4475.2219 Kcal/mole
+ Current Kinetic           1336.1347 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    151
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   760000 Dynamics Steps
+
+ Simulation Time            760.0000 Picosecond
+ Total Energy             -3160.6956 Kcal/mole   (+/-  20.3664)
+ Potential Energy         -4468.0691 Kcal/mole   (+/-  27.3922)
+ Kinetic Energy            1307.3735 Kcal/mole   (+/-  21.7434)
+ Temperature                  292.98 Kelvin      (+/-     4.87)
+ Pressure                     -35.05 Atmosphere  (+/-  1279.08)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    760000 Dynamics Steps
+
+ Current Time               760.0000 Picosecond
+ Current Potential        -4439.9364 Kcal/mole
+ Current Kinetic           1336.4698 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    152
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   765000 Dynamics Steps
+
+ Simulation Time            765.0000 Picosecond
+ Total Energy             -3075.6341 Kcal/mole   (+/-  19.9267)
+ Potential Energy         -4414.3577 Kcal/mole   (+/-  26.0812)
+ Kinetic Energy            1338.7237 Kcal/mole   (+/-  24.1518)
+ Temperature                  300.01 Kelvin      (+/-     5.41)
+ Pressure                      94.16 Atmosphere  (+/-  1540.14)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    765000 Dynamics Steps
+
+ Current Time               765.0000 Picosecond
+ Current Potential        -4457.5417 Kcal/mole
+ Current Kinetic           1343.6977 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    153
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   770000 Dynamics Steps
+
+ Simulation Time            770.0000 Picosecond
+ Total Energy             -3093.0356 Kcal/mole   (+/-  36.2061)
+ Potential Energy         -4415.7280 Kcal/mole   (+/-  28.0923)
+ Kinetic Energy            1322.6923 Kcal/mole   (+/-  27.5329)
+ Temperature                  296.42 Kelvin      (+/-     6.17)
+ Pressure                    -343.05 Atmosphere  (+/-  1434.43)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    770000 Dynamics Steps
+
+ Current Time               770.0000 Picosecond
+ Current Potential        -4423.1486 Kcal/mole
+ Current Kinetic           1371.4133 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    154
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   775000 Dynamics Steps
+
+ Simulation Time            775.0000 Picosecond
+ Total Energy             -3028.5429 Kcal/mole   (+/-  22.5880)
+ Potential Energy         -4366.9471 Kcal/mole   (+/-  23.3595)
+ Kinetic Energy            1338.4042 Kcal/mole   (+/-  26.8528)
+ Temperature                  299.94 Kelvin      (+/-     6.02)
+ Pressure                    -375.21 Atmosphere  (+/-  1384.64)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    775000 Dynamics Steps
+
+ Current Time               775.0000 Picosecond
+ Current Potential        -4348.4750 Kcal/mole
+ Current Kinetic           1320.1421 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    155
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   780000 Dynamics Steps
+
+ Simulation Time            780.0000 Picosecond
+ Total Energy             -3028.8754 Kcal/mole   (+/-  21.8622)
+ Potential Energy         -4377.3343 Kcal/mole   (+/-  27.9498)
+ Kinetic Energy            1348.4589 Kcal/mole   (+/-  24.5322)
+ Temperature                  302.19 Kelvin      (+/-     5.50)
+ Pressure                     -42.73 Atmosphere  (+/-  1365.39)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    780000 Dynamics Steps
+
+ Current Time               780.0000 Picosecond
+ Current Potential        -4413.8449 Kcal/mole
+ Current Kinetic           1344.7438 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    156
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   785000 Dynamics Steps
+
+ Simulation Time            785.0000 Picosecond
+ Total Energy             -3067.4973 Kcal/mole   (+/-  18.3988)
+ Potential Energy         -4403.1632 Kcal/mole   (+/-  24.9659)
+ Kinetic Energy            1335.6659 Kcal/mole   (+/-  22.6026)
+ Temperature                  299.32 Kelvin      (+/-     5.07)
+ Pressure                    -125.77 Atmosphere  (+/-  1421.22)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    785000 Dynamics Steps
+
+ Current Time               785.0000 Picosecond
+ Current Potential        -4460.4457 Kcal/mole
+ Current Kinetic           1380.8867 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    157
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   790000 Dynamics Steps
+
+ Simulation Time            790.0000 Picosecond
+ Total Energy             -3083.7275 Kcal/mole   (+/-  23.7245)
+ Potential Energy         -4418.3957 Kcal/mole   (+/-  27.7339)
+ Kinetic Energy            1334.6682 Kcal/mole   (+/-  25.5953)
+ Temperature                  299.10 Kelvin      (+/-     5.74)
+ Pressure                     -58.56 Atmosphere  (+/-  1117.13)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    790000 Dynamics Steps
+
+ Current Time               790.0000 Picosecond
+ Current Potential        -4410.2032 Kcal/mole
+ Current Kinetic           1326.2329 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    158
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   795000 Dynamics Steps
+
+ Simulation Time            795.0000 Picosecond
+ Total Energy             -3041.8316 Kcal/mole   (+/-  21.4700)
+ Potential Energy         -4388.7051 Kcal/mole   (+/-  24.5888)
+ Kinetic Energy            1346.8735 Kcal/mole   (+/-  23.5134)
+ Temperature                  301.84 Kelvin      (+/-     5.27)
+ Pressure                     128.03 Atmosphere  (+/-  1319.15)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    795000 Dynamics Steps
+
+ Current Time               795.0000 Picosecond
+ Current Potential        -4407.5690 Kcal/mole
+ Current Kinetic           1382.9003 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    159
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   800000 Dynamics Steps
+
+ Simulation Time            800.0000 Picosecond
+ Total Energy             -3029.9500 Kcal/mole   (+/-  34.2872)
+ Potential Energy         -4380.1992 Kcal/mole   (+/-  32.2331)
+ Kinetic Energy            1350.2493 Kcal/mole   (+/-  24.2462)
+ Temperature                  302.59 Kelvin      (+/-     5.43)
+ Pressure                    -110.90 Atmosphere  (+/-  1260.15)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    800000 Dynamics Steps
+
+ Current Time               800.0000 Picosecond
+ Current Potential        -4384.2730 Kcal/mole
+ Current Kinetic           1316.6884 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    160
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   805000 Dynamics Steps
+
+ Simulation Time            805.0000 Picosecond
+ Total Energy             -3108.5904 Kcal/mole   (+/-  23.2461)
+ Potential Energy         -4430.3616 Kcal/mole   (+/-  24.5971)
+ Kinetic Energy            1321.7711 Kcal/mole   (+/-  25.5231)
+ Temperature                  296.21 Kelvin      (+/-     5.72)
+ Pressure                      72.80 Atmosphere  (+/-  1216.08)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    805000 Dynamics Steps
+
+ Current Time               805.0000 Picosecond
+ Current Potential        -4459.4385 Kcal/mole
+ Current Kinetic           1313.3381 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    161
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   810000 Dynamics Steps
+
+ Simulation Time            810.0000 Picosecond
+ Total Energy             -3110.6191 Kcal/mole   (+/-  21.0237)
+ Potential Energy         -4416.6317 Kcal/mole   (+/-  28.6792)
+ Kinetic Energy            1306.0126 Kcal/mole   (+/-  23.2970)
+ Temperature                  292.68 Kelvin      (+/-     5.22)
+ Pressure                    -289.13 Atmosphere  (+/-  1249.47)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    810000 Dynamics Steps
+
+ Current Time               810.0000 Picosecond
+ Current Potential        -4418.3234 Kcal/mole
+ Current Kinetic           1299.9859 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    162
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   815000 Dynamics Steps
+
+ Simulation Time            815.0000 Picosecond
+ Total Energy             -3111.4898 Kcal/mole   (+/-  19.3378)
+ Potential Energy         -4421.5815 Kcal/mole   (+/-  25.2964)
+ Kinetic Energy            1310.0917 Kcal/mole   (+/-  22.0561)
+ Temperature                  293.59 Kelvin      (+/-     4.94)
+ Pressure                    -130.44 Atmosphere  (+/-  1427.86)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    815000 Dynamics Steps
+
+ Current Time               815.0000 Picosecond
+ Current Potential        -4444.2304 Kcal/mole
+ Current Kinetic           1324.1053 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    163
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   820000 Dynamics Steps
+
+ Simulation Time            820.0000 Picosecond
+ Total Energy             -3136.9433 Kcal/mole   (+/-  22.2563)
+ Potential Energy         -4450.8225 Kcal/mole   (+/-  26.9086)
+ Kinetic Energy            1313.8792 Kcal/mole   (+/-  22.7863)
+ Temperature                  294.44 Kelvin      (+/-     5.11)
+ Pressure                    -263.73 Atmosphere  (+/-  1211.64)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    820000 Dynamics Steps
+
+ Current Time               820.0000 Picosecond
+ Current Potential        -4450.0658 Kcal/mole
+ Current Kinetic           1311.8010 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    164
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   825000 Dynamics Steps
+
+ Simulation Time            825.0000 Picosecond
+ Total Energy             -3079.0985 Kcal/mole   (+/-  26.1106)
+ Potential Energy         -4412.3327 Kcal/mole   (+/-  27.1780)
+ Kinetic Energy            1333.2342 Kcal/mole   (+/-  25.0319)
+ Temperature                  298.78 Kelvin      (+/-     5.61)
+ Pressure                     111.00 Atmosphere  (+/-  1372.79)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    825000 Dynamics Steps
+
+ Current Time               825.0000 Picosecond
+ Current Potential        -4405.4342 Kcal/mole
+ Current Kinetic           1319.3022 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    165
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   830000 Dynamics Steps
+
+ Simulation Time            830.0000 Picosecond
+ Total Energy             -3114.8327 Kcal/mole   (+/-  34.6050)
+ Potential Energy         -4443.4136 Kcal/mole   (+/-  35.5181)
+ Kinetic Energy            1328.5809 Kcal/mole   (+/-  25.6745)
+ Temperature                  297.74 Kelvin      (+/-     5.75)
+ Pressure                     172.68 Atmosphere  (+/-  1144.98)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    830000 Dynamics Steps
+
+ Current Time               830.0000 Picosecond
+ Current Potential        -4390.8678 Kcal/mole
+ Current Kinetic           1337.8074 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    166
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   835000 Dynamics Steps
+
+ Simulation Time            835.0000 Picosecond
+ Total Energy             -3007.4143 Kcal/mole   (+/-  25.7556)
+ Potential Energy         -4367.0846 Kcal/mole   (+/-  29.4923)
+ Kinetic Energy            1359.6703 Kcal/mole   (+/-  21.0663)
+ Temperature                  304.70 Kelvin      (+/-     4.72)
+ Pressure                     -54.31 Atmosphere  (+/-  1205.21)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    835000 Dynamics Steps
+
+ Current Time               835.0000 Picosecond
+ Current Potential        -4332.7229 Kcal/mole
+ Current Kinetic           1311.0092 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    167
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   840000 Dynamics Steps
+
+ Simulation Time            840.0000 Picosecond
+ Total Energy             -3059.1508 Kcal/mole   (+/-  48.7058)
+ Potential Energy         -4389.3406 Kcal/mole   (+/-  42.0211)
+ Kinetic Energy            1330.1898 Kcal/mole   (+/-  26.6713)
+ Temperature                  298.10 Kelvin      (+/-     5.98)
+ Pressure                    -210.97 Atmosphere  (+/-  1260.72)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    840000 Dynamics Steps
+
+ Current Time               840.0000 Picosecond
+ Current Potential        -4478.0751 Kcal/mole
+ Current Kinetic           1344.9323 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    168
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   845000 Dynamics Steps
+
+ Simulation Time            845.0000 Picosecond
+ Total Energy             -3112.9191 Kcal/mole   (+/-  22.6335)
+ Potential Energy         -4445.1814 Kcal/mole   (+/-  26.5384)
+ Kinetic Energy            1332.2623 Kcal/mole   (+/-  22.5542)
+ Temperature                  298.56 Kelvin      (+/-     5.05)
+ Pressure                    -124.12 Atmosphere  (+/-  1415.07)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    845000 Dynamics Steps
+
+ Current Time               845.0000 Picosecond
+ Current Potential        -4393.2731 Kcal/mole
+ Current Kinetic           1320.5958 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    169
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   850000 Dynamics Steps
+
+ Simulation Time            850.0000 Picosecond
+ Total Energy             -3073.9682 Kcal/mole   (+/-  10.3648)
+ Potential Energy         -4414.4282 Kcal/mole   (+/-  23.9997)
+ Kinetic Energy            1340.4600 Kcal/mole   (+/-  23.1039)
+ Temperature                  300.40 Kelvin      (+/-     5.18)
+ Pressure                     -75.11 Atmosphere  (+/-  1249.39)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    850000 Dynamics Steps
+
+ Current Time               850.0000 Picosecond
+ Current Potential        -4417.1739 Kcal/mole
+ Current Kinetic           1358.5418 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    170
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   855000 Dynamics Steps
+
+ Simulation Time            855.0000 Picosecond
+ Total Energy             -3067.1054 Kcal/mole   (+/-  33.0156)
+ Potential Energy         -4401.5692 Kcal/mole   (+/-  33.0284)
+ Kinetic Energy            1334.4638 Kcal/mole   (+/-  26.1621)
+ Temperature                  299.06 Kelvin      (+/-     5.86)
+ Pressure                    -245.53 Atmosphere  (+/-  1247.87)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    855000 Dynamics Steps
+
+ Current Time               855.0000 Picosecond
+ Current Potential        -4474.0890 Kcal/mole
+ Current Kinetic           1311.0509 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    171
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   860000 Dynamics Steps
+
+ Simulation Time            860.0000 Picosecond
+ Total Energy             -3108.0442 Kcal/mole   (+/-  37.0290)
+ Potential Energy         -4433.8306 Kcal/mole   (+/-  33.2661)
+ Kinetic Energy            1325.7864 Kcal/mole   (+/-  24.8760)
+ Temperature                  297.11 Kelvin      (+/-     5.57)
+ Pressure                     152.77 Atmosphere  (+/-  1304.91)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    860000 Dynamics Steps
+
+ Current Time               860.0000 Picosecond
+ Current Potential        -4386.1494 Kcal/mole
+ Current Kinetic           1363.7461 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    172
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   865000 Dynamics Steps
+
+ Simulation Time            865.0000 Picosecond
+ Total Energy             -3083.6092 Kcal/mole   (+/-  34.4996)
+ Potential Energy         -4426.5334 Kcal/mole   (+/-  30.8658)
+ Kinetic Energy            1342.9242 Kcal/mole   (+/-  25.6607)
+ Temperature                  300.95 Kelvin      (+/-     5.75)
+ Pressure                     111.13 Atmosphere  (+/-  1216.30)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    865000 Dynamics Steps
+
+ Current Time               865.0000 Picosecond
+ Current Potential        -4425.5929 Kcal/mole
+ Current Kinetic           1298.2924 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    173
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   870000 Dynamics Steps
+
+ Simulation Time            870.0000 Picosecond
+ Total Energy             -3145.7955 Kcal/mole   (+/-  32.1951)
+ Potential Energy         -4456.3480 Kcal/mole   (+/-  33.7825)
+ Kinetic Energy            1310.5525 Kcal/mole   (+/-  28.7440)
+ Temperature                  293.70 Kelvin      (+/-     6.44)
+ Pressure                    -111.79 Atmosphere  (+/-  1431.11)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    870000 Dynamics Steps
+
+ Current Time               870.0000 Picosecond
+ Current Potential        -4461.8064 Kcal/mole
+ Current Kinetic           1298.8455 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    174
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   875000 Dynamics Steps
+
+ Simulation Time            875.0000 Picosecond
+ Total Energy             -3073.4540 Kcal/mole   (+/-  41.7920)
+ Potential Energy         -4405.3951 Kcal/mole   (+/-  35.7802)
+ Kinetic Energy            1331.9411 Kcal/mole   (+/-  26.2665)
+ Temperature                  298.49 Kelvin      (+/-     5.89)
+ Pressure                     -54.85 Atmosphere  (+/-  1061.21)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    875000 Dynamics Steps
+
+ Current Time               875.0000 Picosecond
+ Current Potential        -4382.3652 Kcal/mole
+ Current Kinetic           1359.8883 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    175
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   880000 Dynamics Steps
+
+ Simulation Time            880.0000 Picosecond
+ Total Energy             -3031.1786 Kcal/mole   (+/-  19.7598)
+ Potential Energy         -4379.2525 Kcal/mole   (+/-  25.2919)
+ Kinetic Energy            1348.0739 Kcal/mole   (+/-  23.3983)
+ Temperature                  302.11 Kelvin      (+/-     5.24)
+ Pressure                    -253.72 Atmosphere  (+/-  1347.42)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    880000 Dynamics Steps
+
+ Current Time               880.0000 Picosecond
+ Current Potential        -4346.3877 Kcal/mole
+ Current Kinetic           1359.7219 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    176
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   885000 Dynamics Steps
+
+ Simulation Time            885.0000 Picosecond
+ Total Energy             -3049.7286 Kcal/mole   (+/-  32.0379)
+ Potential Energy         -4390.3247 Kcal/mole   (+/-  33.6228)
+ Kinetic Energy            1340.5961 Kcal/mole   (+/-  24.3974)
+ Temperature                  300.43 Kelvin      (+/-     5.47)
+ Pressure                      87.50 Atmosphere  (+/-  1243.90)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    885000 Dynamics Steps
+
+ Current Time               885.0000 Picosecond
+ Current Potential        -4371.3783 Kcal/mole
+ Current Kinetic           1298.9415 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    177
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   890000 Dynamics Steps
+
+ Simulation Time            890.0000 Picosecond
+ Total Energy             -3041.5751 Kcal/mole   (+/-  22.8375)
+ Potential Energy         -4386.3044 Kcal/mole   (+/-  27.3645)
+ Kinetic Energy            1344.7293 Kcal/mole   (+/-  22.5622)
+ Temperature                  301.36 Kelvin      (+/-     5.06)
+ Pressure                     -98.22 Atmosphere  (+/-  1350.03)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    890000 Dynamics Steps
+
+ Current Time               890.0000 Picosecond
+ Current Potential        -4398.5773 Kcal/mole
+ Current Kinetic           1370.2564 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    178
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   895000 Dynamics Steps
+
+ Simulation Time            895.0000 Picosecond
+ Total Energy             -3076.6632 Kcal/mole   (+/-  28.2561)
+ Potential Energy         -4401.2244 Kcal/mole   (+/-  29.1682)
+ Kinetic Energy            1324.5612 Kcal/mole   (+/-  24.4000)
+ Temperature                  296.84 Kelvin      (+/-     5.47)
+ Pressure                    -307.26 Atmosphere  (+/-  1461.02)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    895000 Dynamics Steps
+
+ Current Time               895.0000 Picosecond
+ Current Potential        -4434.1339 Kcal/mole
+ Current Kinetic           1361.4330 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    179
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   900000 Dynamics Steps
+
+ Simulation Time            900.0000 Picosecond
+ Total Energy             -3056.1820 Kcal/mole   (+/-  20.4979)
+ Potential Energy         -4401.5956 Kcal/mole   (+/-  24.7495)
+ Kinetic Energy            1345.4136 Kcal/mole   (+/-  22.9734)
+ Temperature                  301.51 Kelvin      (+/-     5.15)
+ Pressure                    -139.45 Atmosphere  (+/-  1244.64)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    900000 Dynamics Steps
+
+ Current Time               900.0000 Picosecond
+ Current Potential        -4407.4729 Kcal/mole
+ Current Kinetic           1334.6011 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    180
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   905000 Dynamics Steps
+
+ Simulation Time            905.0000 Picosecond
+ Total Energy             -3056.3401 Kcal/mole   (+/-  19.5119)
+ Potential Energy         -4399.4581 Kcal/mole   (+/-  27.5264)
+ Kinetic Energy            1343.1180 Kcal/mole   (+/-  23.8212)
+ Temperature                  300.99 Kelvin      (+/-     5.34)
+ Pressure                    -109.82 Atmosphere  (+/-  1251.78)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    905000 Dynamics Steps
+
+ Current Time               905.0000 Picosecond
+ Current Potential        -4428.8268 Kcal/mole
+ Current Kinetic           1308.5713 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    181
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   910000 Dynamics Steps
+
+ Simulation Time            910.0000 Picosecond
+ Total Energy             -3104.6030 Kcal/mole   (+/-  17.0199)
+ Potential Energy         -4431.6961 Kcal/mole   (+/-  25.2637)
+ Kinetic Energy            1327.0931 Kcal/mole   (+/-  24.5346)
+ Temperature                  297.40 Kelvin      (+/-     5.50)
+ Pressure                    -104.29 Atmosphere  (+/-  1366.34)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    910000 Dynamics Steps
+
+ Current Time               910.0000 Picosecond
+ Current Potential        -4382.7984 Kcal/mole
+ Current Kinetic           1293.9915 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    182
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   915000 Dynamics Steps
+
+ Simulation Time            915.0000 Picosecond
+ Total Energy             -3058.1809 Kcal/mole   (+/-  21.8780)
+ Potential Energy         -4394.1690 Kcal/mole   (+/-  27.2720)
+ Kinetic Energy            1335.9882 Kcal/mole   (+/-  24.3693)
+ Temperature                  299.40 Kelvin      (+/-     5.46)
+ Pressure                      34.73 Atmosphere  (+/-  1229.98)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    915000 Dynamics Steps
+
+ Current Time               915.0000 Picosecond
+ Current Potential        -4398.3322 Kcal/mole
+ Current Kinetic           1344.2333 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    183
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   920000 Dynamics Steps
+
+ Simulation Time            920.0000 Picosecond
+ Total Energy             -3018.1948 Kcal/mole   (+/-  26.2547)
+ Potential Energy         -4375.2368 Kcal/mole   (+/-  26.4851)
+ Kinetic Energy            1357.0420 Kcal/mole   (+/-  25.9304)
+ Temperature                  304.12 Kelvin      (+/-     5.81)
+ Pressure                     342.22 Atmosphere  (+/-  1356.45)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    920000 Dynamics Steps
+
+ Current Time               920.0000 Picosecond
+ Current Potential        -4396.4009 Kcal/mole
+ Current Kinetic           1391.1044 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    184
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   925000 Dynamics Steps
+
+ Simulation Time            925.0000 Picosecond
+ Total Energy             -3031.1909 Kcal/mole   (+/-  27.4438)
+ Potential Energy         -4373.9044 Kcal/mole   (+/-  32.1206)
+ Kinetic Energy            1342.7134 Kcal/mole   (+/-  22.7490)
+ Temperature                  300.90 Kelvin      (+/-     5.10)
+ Pressure                      50.87 Atmosphere  (+/-  1248.39)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    925000 Dynamics Steps
+
+ Current Time               925.0000 Picosecond
+ Current Potential        -4321.8360 Kcal/mole
+ Current Kinetic           1307.3320 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    185
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   930000 Dynamics Steps
+
+ Simulation Time            930.0000 Picosecond
+ Total Energy             -2986.4436 Kcal/mole   (+/-  23.2505)
+ Potential Energy         -4343.8078 Kcal/mole   (+/-  27.0153)
+ Kinetic Energy            1357.3643 Kcal/mole   (+/-  23.8676)
+ Temperature                  304.19 Kelvin      (+/-     5.35)
+ Pressure                      20.76 Atmosphere  (+/-  1238.52)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    930000 Dynamics Steps
+
+ Current Time               930.0000 Picosecond
+ Current Potential        -4388.9544 Kcal/mole
+ Current Kinetic           1376.2819 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    186
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   935000 Dynamics Steps
+
+ Simulation Time            935.0000 Picosecond
+ Total Energy             -2987.8433 Kcal/mole   (+/-  21.9771)
+ Potential Energy         -4348.4529 Kcal/mole   (+/-  27.9740)
+ Kinetic Energy            1360.6096 Kcal/mole   (+/-  24.7405)
+ Temperature                  304.91 Kelvin      (+/-     5.54)
+ Pressure                     -40.01 Atmosphere  (+/-  1160.80)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    935000 Dynamics Steps
+
+ Current Time               935.0000 Picosecond
+ Current Potential        -4367.1237 Kcal/mole
+ Current Kinetic           1361.2891 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    187
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   940000 Dynamics Steps
+
+ Simulation Time            940.0000 Picosecond
+ Total Energy             -3074.2444 Kcal/mole   (+/-  39.0139)
+ Potential Energy         -4403.7129 Kcal/mole   (+/-  38.0489)
+ Kinetic Energy            1329.4685 Kcal/mole   (+/-  22.6819)
+ Temperature                  297.94 Kelvin      (+/-     5.08)
+ Pressure                    -126.97 Atmosphere  (+/-  1292.84)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    940000 Dynamics Steps
+
+ Current Time               940.0000 Picosecond
+ Current Potential        -4464.9377 Kcal/mole
+ Current Kinetic           1344.0591 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    188
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   945000 Dynamics Steps
+
+ Simulation Time            945.0000 Picosecond
+ Total Energy             -3111.2286 Kcal/mole   (+/-  29.8897)
+ Potential Energy         -4428.0851 Kcal/mole   (+/-  29.2934)
+ Kinetic Energy            1316.8565 Kcal/mole   (+/-  23.0282)
+ Temperature                  295.11 Kelvin      (+/-     5.16)
+ Pressure                      -5.10 Atmosphere  (+/-  1312.31)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    945000 Dynamics Steps
+
+ Current Time               945.0000 Picosecond
+ Current Potential        -4415.5731 Kcal/mole
+ Current Kinetic           1317.5997 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    189
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   950000 Dynamics Steps
+
+ Simulation Time            950.0000 Picosecond
+ Total Energy             -3097.0241 Kcal/mole   (+/-  22.0783)
+ Potential Energy         -4419.3260 Kcal/mole   (+/-  27.3733)
+ Kinetic Energy            1322.3019 Kcal/mole   (+/-  24.4330)
+ Temperature                  296.33 Kelvin      (+/-     5.48)
+ Pressure                      43.19 Atmosphere  (+/-  1445.61)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    950000 Dynamics Steps
+
+ Current Time               950.0000 Picosecond
+ Current Potential        -4356.4932 Kcal/mole
+ Current Kinetic           1322.7026 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    190
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   955000 Dynamics Steps
+
+ Simulation Time            955.0000 Picosecond
+ Total Energy             -3024.5062 Kcal/mole   (+/-  17.9648)
+ Potential Energy         -4373.0672 Kcal/mole   (+/-  27.7466)
+ Kinetic Energy            1348.5610 Kcal/mole   (+/-  22.2875)
+ Temperature                  302.21 Kelvin      (+/-     4.99)
+ Pressure                     -59.91 Atmosphere  (+/-  1230.40)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    955000 Dynamics Steps
+
+ Current Time               955.0000 Picosecond
+ Current Potential        -4445.6854 Kcal/mole
+ Current Kinetic           1376.2487 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    191
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   960000 Dynamics Steps
+
+ Simulation Time            960.0000 Picosecond
+ Total Energy             -3065.8315 Kcal/mole   (+/-  26.7822)
+ Potential Energy         -4402.9890 Kcal/mole   (+/-  27.9979)
+ Kinetic Energy            1337.1576 Kcal/mole   (+/-  24.9778)
+ Temperature                  299.66 Kelvin      (+/-     5.60)
+ Pressure                      95.22 Atmosphere  (+/-  1168.60)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    960000 Dynamics Steps
+
+ Current Time               960.0000 Picosecond
+ Current Potential        -4431.6653 Kcal/mole
+ Current Kinetic           1348.8238 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    192
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   965000 Dynamics Steps
+
+ Simulation Time            965.0000 Picosecond
+ Total Energy             -3070.1228 Kcal/mole   (+/-  16.2269)
+ Potential Energy         -4404.1796 Kcal/mole   (+/-  27.0575)
+ Kinetic Energy            1334.0568 Kcal/mole   (+/-  24.1560)
+ Temperature                  298.96 Kelvin      (+/-     5.41)
+ Pressure                    -138.33 Atmosphere  (+/-  1418.04)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    965000 Dynamics Steps
+
+ Current Time               965.0000 Picosecond
+ Current Potential        -4361.2491 Kcal/mole
+ Current Kinetic           1331.9596 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    193
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   970000 Dynamics Steps
+
+ Simulation Time            970.0000 Picosecond
+ Total Energy             -2996.5780 Kcal/mole   (+/-  15.5429)
+ Potential Energy         -4348.3627 Kcal/mole   (+/-  23.9749)
+ Kinetic Energy            1351.7847 Kcal/mole   (+/-  23.9238)
+ Temperature                  302.94 Kelvin      (+/-     5.36)
+ Pressure                    -104.72 Atmosphere  (+/-  1363.20)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    970000 Dynamics Steps
+
+ Current Time               970.0000 Picosecond
+ Current Potential        -4349.6279 Kcal/mole
+ Current Kinetic           1366.3283 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    194
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   975000 Dynamics Steps
+
+ Simulation Time            975.0000 Picosecond
+ Total Energy             -2957.6944 Kcal/mole   (+/-  36.5539)
+ Potential Energy         -4321.1696 Kcal/mole   (+/-  32.7933)
+ Kinetic Energy            1363.4752 Kcal/mole   (+/-  26.5563)
+ Temperature                  305.56 Kelvin      (+/-     5.95)
+ Pressure                      49.33 Atmosphere  (+/-  1311.67)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    975000 Dynamics Steps
+
+ Current Time               975.0000 Picosecond
+ Current Potential        -4303.0030 Kcal/mole
+ Current Kinetic           1396.7940 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    195
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   980000 Dynamics Steps
+
+ Simulation Time            980.0000 Picosecond
+ Total Energy             -2920.3297 Kcal/mole   (+/-  21.0899)
+ Potential Energy         -4299.3004 Kcal/mole   (+/-  25.7289)
+ Kinetic Energy            1378.9707 Kcal/mole   (+/-  24.6059)
+ Temperature                  309.03 Kelvin      (+/-     5.51)
+ Pressure                      18.19 Atmosphere  (+/-  1191.24)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    980000 Dynamics Steps
+
+ Current Time               980.0000 Picosecond
+ Current Potential        -4292.7722 Kcal/mole
+ Current Kinetic           1353.9243 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    196
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   985000 Dynamics Steps
+
+ Simulation Time            985.0000 Picosecond
+ Total Energy             -2959.1743 Kcal/mole   (+/-  20.4412)
+ Potential Energy         -4319.9131 Kcal/mole   (+/-  24.9112)
+ Kinetic Energy            1360.7388 Kcal/mole   (+/-  25.6842)
+ Temperature                  304.94 Kelvin      (+/-     5.76)
+ Pressure                    -495.49 Atmosphere  (+/-  1379.81)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    985000 Dynamics Steps
+
+ Current Time               985.0000 Picosecond
+ Current Potential        -4265.1529 Kcal/mole
+ Current Kinetic           1315.5834 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    197
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   990000 Dynamics Steps
+
+ Simulation Time            990.0000 Picosecond
+ Total Energy             -2996.7127 Kcal/mole   (+/-  28.5920)
+ Potential Energy         -4348.2652 Kcal/mole   (+/-  28.6668)
+ Kinetic Energy            1351.5525 Kcal/mole   (+/-  25.2500)
+ Temperature                  302.88 Kelvin      (+/-     5.66)
+ Pressure                    -101.74 Atmosphere  (+/-  1284.36)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    990000 Dynamics Steps
+
+ Current Time               990.0000 Picosecond
+ Current Potential        -4392.3570 Kcal/mole
+ Current Kinetic           1364.0416 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    198
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of   995000 Dynamics Steps
+
+ Simulation Time            995.0000 Picosecond
+ Total Energy             -3053.8965 Kcal/mole   (+/-  19.1630)
+ Potential Energy         -4393.1603 Kcal/mole   (+/-  24.3951)
+ Kinetic Energy            1339.2637 Kcal/mole   (+/-  22.2296)
+ Temperature                  300.13 Kelvin      (+/-     4.98)
+ Pressure                      81.68 Atmosphere  (+/-  1212.07)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at    995000 Dynamics Steps
+
+ Current Time               995.0000 Picosecond
+ Current Potential        -4395.1812 Kcal/mole
+ Current Kinetic           1361.3829 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    199
+ Coordinate File            ethanol_run.arc
+
+ Average Values for the Last  5000 Out of  1000000 Dynamics Steps
+
+ Simulation Time           1000.0000 Picosecond
+ Total Energy             -3030.8809 Kcal/mole   (+/-  16.9337)
+ Potential Energy         -4377.8433 Kcal/mole   (+/-  23.9870)
+ Kinetic Energy            1346.9624 Kcal/mole   (+/-  27.1055)
+ Temperature                  301.86 Kelvin      (+/-     6.07)
+ Pressure                     139.01 Atmosphere  (+/-  1201.86)
+ Density                      1.0048 Grams/cc    (+/-   0.0000)
+
+ Instantaneous Values for Frame Saved at   1000000 Dynamics Steps
+
+ Current Time              1000.0000 Picosecond
+ Current Potential        -4387.3493 Kcal/mole
+ Current Kinetic           1337.0187 Kcal/mole
+ Lattice Lengths           24.573939     24.573939     24.573939
+ Lattice Angles            90.000000     90.000000     90.000000
+ Frame Number                    200
+ Coordinate File            ethanol_run.arc

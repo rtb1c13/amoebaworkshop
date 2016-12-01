@@ -1,0 +1,210 @@
+bond-cubic              -2.55
+bond-quartic            3.793125
+angle-cubic             -0.014
+angle-quartic           0.000056
+angle-pentic            -0.0000007
+angle-sextic            0.000000022
+opbendtype              ALLINGER
+opbend-cubic            -0.014
+opbend-quartic          0.000056
+opbend-pentic           -0.0000007
+opbend-sextic           0.000000022
+torsionunit             0.5
+vdwtype                 BUFFERED-14-7
+radiusrule              CUBIC-MEAN
+radiustype              R-MIN
+radiussize              DIAMETER
+epsilonrule             HHG
+dielectric              1.0
+polarization            MUTUAL
+vdw-13-scale            0.0
+vdw-14-scale            1.0
+vdw-15-scale            1.0
+mpole-12-scale          0.0
+mpole-13-scale          0.0
+mpole-14-scale          0.4
+mpole-15-scale          0.8
+polar-12-scale          0.0
+polar-13-scale          0.0
+polar-14-scale          1.0
+polar-15-scale          1.0
+polar-14-intra          0.5
+direct-11-scale         0.0
+direct-12-scale         1.0
+direct-13-scale         1.0
+direct-14-scale         1.0
+mutual-11-scale         1.0
+mutual-12-scale         1.0
+mutual-13-scale         1.0
+mutual-14-scale         1.0
+
+atom        401  401    C     "ethanol             "         6    12.011    4
+atom        402  402    C     "ethanol             "         6    12.011    4
+atom        403  403    O     "ethanol             "         8    15.999    2
+atom        404  404    H     "ethanol             "         1     1.008    1
+atom        405  405    H     "ethanol             "         1     1.008    1
+atom        406  406    H     "ethanol             "         1     1.008    1
+
+#
+# Multipoles from Electrostatic Potential Fitting
+#
+
+multipole   401  402  404              -0.17009
+                                        0.03734    0.00000    0.21008
+                                        0.00572
+                                        0.00000   -0.13604
+                                       -0.03114    0.00000    0.13032
+multipole   402  403  401               0.15422
+                                        0.09390    0.00000    0.46534
+                                        0.26936
+                                        0.00000    0.14733
+                                       -0.24696    0.00000   -0.41669
+multipole   403  402  406              -0.44359
+                                        0.13258    0.00000    0.20733
+                                        0.24601
+                                        0.00000   -0.88707
+                                       -0.43347    0.00000    0.64106
+multipole   404  401  402               0.05524
+                                        0.00833    0.00000    0.02628
+                                       -0.03429
+                                        0.00000   -0.09849
+                                        0.02010    0.00000    0.13278
+multipole   405  402  403               0.03977
+                                       -0.09686    0.00000    0.02261
+                                        0.03010
+                                        0.00000   -0.13175
+                                       -0.08914    0.00000    0.10165
+multipole   406  403  402               0.21420
+                                       -0.02373    0.00000   -0.05298
+                                       -0.12679
+                                        0.00000   -0.01265
+                                       -0.00477    0.00000    0.13944
+
+polarize    401          1.3340     0.3900    404
+polarize    402          1.3340     0.3900    403  405
+polarize    403          0.8370     0.3900    402  406
+polarize    404          0.4960     0.3900    401
+polarize    405          0.4960     0.3900    402
+polarize    406          0.4960     0.3900    403
+
+vdw         401               3.820     0.1010
+vdw         402               3.820     0.1010
+vdw         403               3.405     0.1100
+vdw         404               2.780     0.0260     0.91
+vdw         405               2.780     0.0260     0.91
+vdw         406               2.655     0.0135     0.91
+
+
+bond        401  402          385.0     1.5218
+bond        401  404          400.0     1.0939
+bond        402  403          465.0     1.4218
+bond        402  405          400.0     1.0954
+bond        403  406          560.0     0.9597
+
+
+angle       402  401  404     38.00     110.56
+angle       404  401  404     34.50     108.36
+angle       401  402  403     88.00     112.11
+angle       401  402  405     38.00     110.21
+angle       403  402  405     51.50     108.26
+angle       405  402  405     34.50     107.60
+angle       402  403  406     65.00     106.04
+
+
+strbnd      402  401  404     18.70      11.50
+strbnd      401  402  403     18.70      18.70
+strbnd      401  402  405     18.70      11.50
+strbnd      403  402  405     18.70      11.50
+strbnd      402  403  406     38.00      -4.50
+
+torsion     404  401  402  403      0.000 0.0 1   0.000 180.0 2   0.300 0.0 3
+torsion     404  401  402  405      0.000 0.0 1   0.000 180.0 2   0.300 0.0 3
+torsion     401  402  403  406     -1.770 0.0 1   0.230 180.0 2   0.760 0.0 3
+torsion     405  402  403  406      0.000 0.0 1   0.000 180.0 2   0.270 0.0 3
+
+# Parameters from AMOEBA water03.prm water model
+
+      #############################
+      ##                         ##
+      ##  Atom Type Definitions  ##
+      ##                         ##
+      #############################
+
+
+atom          1    1    O     "AMOEBA Water O"               8    15.995    2
+atom          2    2    H     "AMOEBA Water H"               1     1.008    1
+
+
+      ################################
+      ##                            ##
+      ##  Van der Waals Parameters  ##
+      ##                            ##
+      ################################
+
+
+vdw           1               3.4050     0.1100
+vdw           2               2.6550     0.0135      0.910
+
+
+      ##################################
+      ##                              ##
+      ##  Bond Stretching Parameters  ##
+      ##                              ##
+      ##################################
+
+
+#bond         1    2          529.60     0.9572   !! original AMOEBA water
+bond          1    2          556.85     0.9572
+
+
+      ################################
+      ##                            ##
+      ##  Angle Bending Parameters  ##
+      ##                            ##
+      ################################
+
+
+#angle        2    1    2      34.05     108.50   !! original AMOEBA water
+angle         2    1    2      48.70     108.50
+
+
+      ###############################
+      ##                           ##
+      ##  Urey-Bradley Parameters  ##
+      ##                           ##
+      ###############################
+
+
+#ureybrad     2    1    2      38.25     1.5537   !! original AMOEBA water
+ureybrad      2    1    2      -7.60     1.5326
+
+
+      ###################################
+      ##                               ##
+      ##  Atomic Multipole Parameters  ##
+      ##                               ##
+      ###################################
+
+
+multipole     1   -2   -2              -0.51966
+                                        0.00000    0.00000    0.14279
+                                        0.37928
+                                        0.00000   -0.41809
+                                        0.00000    0.00000    0.03881
+
+multipole     2    1    2               0.25983
+                                       -0.03859    0.00000   -0.05818
+                                       -0.03673
+                                        0.00000   -0.10739
+                                       -0.00203    0.00000    0.14412
+
+
+      ########################################
+      ##                                    ##
+      ##  Dipole Polarizability Parameters  ##
+      ##                                    ##
+      ########################################
+
+
+polarize      1           0.837      0.390       2
+polarize      2           0.496      0.390       1

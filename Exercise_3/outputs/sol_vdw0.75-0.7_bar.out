@@ -1,0 +1,47 @@
+
+     ######################################################################
+   ##########################################################################
+  ###                                                                      ###
+ ###            TINKER  ---  Software Tools for Molecular Design            ###
+ ##                                                                          ##
+ ##                        Version 8.0   October 2016                        ##
+ ##                                                                          ##
+ ##               Copyright (c)  Jay William Ponder  1990-2016               ##
+ ###                           All Rights Reserved                          ###
+  ###                                                                      ###
+   ##########################################################################
+     ######################################################################
+
+
+ Free Energy Perturbation :          0.750 Lambda for van der Waals
+ Free Energy Perturbation :          0.000 Lambda for Electrostatics
+
+ Free Energy Perturbation :          0.700 Lambda for van der Waals
+ Free Energy Perturbation :          0.000 Lambda for Electrostatics
+
+ Initial Processing for Trajectory A :
+
+       Completed     100 Coordinate Frames
+       Completed     200 Coordinate Frames
+
+ Initial Processing for Trajectory B :
+
+       Completed     100 Coordinate Frames
+       Completed     200 Coordinate Frames
+
+ Estimation of Free Energy Difference via FEP Method :
+
+ FEP Forward Free Energy         -0.4367 Kcal/mol
+ FEP Backward Free Energy         0.4724 Kcal/mol
+
+ Estimation of Free Energy Difference via BAR Method :
+
+ BAR Iteration   0               -0.4451 Kcal/mol
+ BAR Iteration   1               -0.4392 Kcal/mol
+ BAR Iteration   2               -0.4392 Kcal/mol
+
+ BAR Free Energy Estimate        -0.4392 +/-  0.0561 Kcal/mol
+
+ Bootstrap Error Analysis for BAR Free Energy :
+
+ BAR Bootstrap Free Energy       -0.4396 +/-  0.0333 Kcal/mol

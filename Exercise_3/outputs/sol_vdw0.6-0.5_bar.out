@@ -1,0 +1,48 @@
+
+     ######################################################################
+   ##########################################################################
+  ###                                                                      ###
+ ###            TINKER  ---  Software Tools for Molecular Design            ###
+ ##                                                                          ##
+ ##                        Version 8.0   October 2016                        ##
+ ##                                                                          ##
+ ##               Copyright (c)  Jay William Ponder  1990-2016               ##
+ ###                           All Rights Reserved                          ###
+  ###                                                                      ###
+   ##########################################################################
+     ######################################################################
+
+
+ Free Energy Perturbation :          0.600 Lambda for van der Waals
+ Free Energy Perturbation :          0.000 Lambda for Electrostatics
+
+ Free Energy Perturbation :          0.500 Lambda for van der Waals
+ Free Energy Perturbation :          0.000 Lambda for Electrostatics
+
+ Initial Processing for Trajectory A :
+
+       Completed     100 Coordinate Frames
+       Completed     200 Coordinate Frames
+
+ Initial Processing for Trajectory B :
+
+       Completed     100 Coordinate Frames
+       Completed     200 Coordinate Frames
+
+ Estimation of Free Energy Difference via FEP Method :
+
+ FEP Forward Free Energy         -2.0090 Kcal/mol
+ FEP Backward Free Energy         2.0974 Kcal/mol
+
+ Estimation of Free Energy Difference via BAR Method :
+
+ BAR Iteration   0               -2.0848 Kcal/mol
+ BAR Iteration   1               -2.0459 Kcal/mol
+ BAR Iteration   2               -2.0469 Kcal/mol
+ BAR Iteration   3               -2.0469 Kcal/mol
+
+ BAR Free Energy Estimate        -2.0469 +/-  0.0642 Kcal/mol
+
+ Bootstrap Error Analysis for BAR Free Energy :
+
+ BAR Bootstrap Free Energy       -2.0470 +/-  0.0372 Kcal/mol
